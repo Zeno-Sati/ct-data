@@ -12,6 +12,7 @@
       "thai": "สติ",
       "roman": "sà-tì",
       "zh": "念 · 觉知",
+      "en": "mindfulness",
       "title": "没有觉性就是累积痴",
       "no": 1
     },
@@ -19,6 +20,7 @@
       "thai": "รู้สึกตัว",
       "roman": "rúu-sùek-tua",
       "zh": "觉知自己",
+      "en": "aware of oneself",
       "title": "整天不停地觉知自己",
       "no": 3
     },
@@ -26,6 +28,7 @@
       "thai": "สม่ำเสมอ",
       "roman": "sà-màm-sà-mə̌ə",
       "zh": "持续不断",
+      "en": "consistently",
       "title": "每一天都用心修行",
       "no": 4
     },
@@ -33,6 +36,7 @@
       "thai": "อดทน",
       "roman": "òt-thon",
       "zh": "忍耐",
+      "en": "patience",
       "title": "学得慢就要忍耐",
       "no": 5
     },
@@ -40,6 +44,7 @@
       "thai": "ต้นทุน",
       "roman": "tôn-thun",
       "zh": "原始资本",
+      "en": "starting capital",
       "title": "没有谁一开始就很棒",
       "no": 6
     },
@@ -47,6 +52,7 @@
       "thai": "สมาธิ",
       "roman": "sà-maa-thí",
       "zh": "定",
+      "en": "concentration",
       "title": "禅定要修对也要够",
       "no": 8
     },
@@ -54,6 +60,7 @@
       "thai": "ตั้งมั่น",
       "roman": "tâng-mân",
       "zh": "安住",
+      "en": "firmly established",
       "title": "心没有真的安住",
       "no": 9
     },
@@ -61,6 +68,7 @@
       "thai": "ปฏิบัติ",
       "roman": "pà-tì-bàt",
       "zh": "修行",
+      "en": "practice",
       "title": "知道方法然后修对",
       "no": 10
     },
@@ -68,6 +76,7 @@
       "thai": "จุดตั้งต้น",
       "roman": "jùt-tâng-tôn",
       "zh": "起点 · 契入点",
+      "en": "starting point",
       "title": "觉知自己是修行契入点",
       "no": 12
     },
@@ -75,6 +84,7 @@
       "thai": "ลืมตัวเอง",
       "roman": "luuem-tua-eeng",
       "zh": "忘记自己",
+      "en": "forget oneself",
       "title": "要努力地去觉知自己",
       "no": 15
     },
@@ -82,6 +92,7 @@
       "thai": "หายใจ",
       "roman": "hǎai-jai",
       "zh": "呼吸",
+      "en": "breathe",
       "title": "呼吸时觉知自己",
       "no": 23
     },
@@ -89,6 +100,7 @@
       "thai": "หายใจออก",
       "roman": "hǎai-jai-àwk",
       "zh": "呼气",
+      "en": "breathe out",
       "title": "呼吸时觉知自己",
       "no": 23
     },
@@ -96,6 +108,7 @@
       "thai": "หายใจเข้า",
       "roman": "hǎai-jai-khâo",
       "zh": "吸气",
+      "en": "breathe in",
       "title": "呼吸时觉知自己",
       "no": 23
     },
@@ -103,6 +116,7 @@
       "thai": "ใจลอย",
       "roman": "jai-lɔɔi",
       "zh": "走神",
+      "en": "mind wandering",
       "title": "走神太松苦闷太紧",
       "no": 26
     },
@@ -110,6 +124,7 @@
       "thai": "เคร่ง",
       "roman": "khrêng",
       "zh": "苦闷",
+      "en": "too strict",
       "title": "走神太松苦闷太紧",
       "no": 26
     },
@@ -117,6 +132,7 @@
       "thai": "ตึง",
       "roman": "tueng",
       "zh": "太紧",
+      "en": "too tight",
       "title": "走神太松苦闷太紧",
       "no": 26
     },
@@ -124,6 +140,7 @@
       "thai": "ตัว",
       "roman": "tua",
       "zh": "自己",
+      "en": "oneself",
       "title": "让心和自己在一起",
       "no": 27
     },
@@ -131,6 +148,7 @@
       "thai": "ร่างกาย",
       "roman": "râang-kaai",
       "zh": "身体",
+      "en": "body",
       "title": "身体行住坐卧不停觉知",
       "no": 28
     },
@@ -138,6 +156,7 @@
       "thai": "เคลื่อนไหว",
       "roman": "khlûuean-wǎi",
       "zh": "移动",
+      "en": "move",
       "title": "身体行住坐卧不停觉知",
       "no": 28
     },
@@ -145,6 +164,7 @@
       "thai": "หยุดนิ่ง",
       "roman": "yùt-nîng",
       "zh": "静止",
+      "en": "be still",
       "title": "身体行住坐卧不停觉知",
       "no": 28
     },
@@ -152,6 +172,7 @@
       "thai": "ความสุข",
       "roman": "khwaam-sùk",
       "zh": "乐",
+      "en": "happiness",
       "title": "乐苦生起都要觉知",
       "no": 29
     },
@@ -159,6 +180,7 @@
       "thai": "เกิดขึ้น",
       "roman": "kə̀ət-khûn",
       "zh": "生起",
+      "en": "arise",
       "title": "乐苦生起都要觉知",
       "no": 29
     },
@@ -166,6 +188,7 @@
       "thai": "ความทุกข์",
       "roman": "khwaam-thúk",
       "zh": "苦",
+      "en": "suffering",
       "title": "乐苦生起都要觉知",
       "no": 29
     },
@@ -173,6 +196,7 @@
       "thai": "โลภ",
       "roman": "lôop",
       "zh": "贪",
+      "en": "greed",
       "title": "贪消失了也要觉知",
       "no": 30
     },
@@ -180,6 +204,7 @@
       "thai": "โกรธ",
       "roman": "kròot",
       "zh": "生气",
+      "en": "anger",
       "title": "贪消失了也要觉知",
       "no": 30
     },
@@ -187,6 +212,7 @@
       "thai": "ฟุ้งซ่าน",
       "roman": "fúng-sâan",
       "zh": "散乱",
+      "en": "restlessness",
       "title": "贪消失了也要觉知",
       "no": 30
     },
@@ -194,6 +220,7 @@
       "thai": "หลง",
       "roman": "lǒng",
       "zh": "迷失",
+      "en": "lost",
       "title": "不知觉知自己的价值",
       "no": 33
     },
@@ -201,6 +228,7 @@
       "thai": "เผลอ",
       "roman": "phlə̌ə",
       "zh": "恍惚",
+      "en": "absent-minded",
       "title": "不知觉知自己的价值",
       "no": 33
     },
@@ -208,6 +236,7 @@
       "thai": "เพลิน",
       "roman": "phləən",
       "zh": "陶醉",
+      "en": "carried away",
       "title": "不知觉知自己的价值",
       "no": 33
     },
@@ -215,6 +244,7 @@
       "thai": "อันตราย",
       "roman": "an-tà-raai",
       "zh": "危险",
+      "en": "danger",
       "title": "走神的心非常危险",
       "no": 34
     },
@@ -222,6 +252,7 @@
       "thai": "ผล",
       "roman": "phǒn",
       "zh": "果报",
+      "en": "result",
       "title": "走神的心非常危险",
       "no": 34
     },
@@ -229,6 +260,7 @@
       "thai": "สัตว์ เดรัจฉาน",
       "roman": "sàt dee-rát-chǎan",
       "zh": "畜生",
+      "en": "animals",
       "title": "走神的心非常危险",
       "no": 34
     },
@@ -236,6 +268,7 @@
       "thai": "อบาย ภูมิ",
       "roman": "à-baa-yá-phuum",
       "zh": "四恶道",
+      "en": "the woeful realms",
       "title": "畜生因痴而生",
       "no": 36
     },
@@ -243,6 +276,7 @@
       "thai": "นรก",
       "roman": "ná-rók",
       "zh": "地狱",
+      "en": "hell",
       "title": "畜生因痴而生",
       "no": 36
     },
@@ -250,6 +284,7 @@
       "thai": "เปรต",
       "roman": "prèet",
       "zh": "饿鬼道",
+      "en": "hungry ghosts",
       "title": "畜生因痴而生",
       "no": 36
     },
@@ -257,6 +292,7 @@
       "thai": "เกิด",
       "roman": "kə̀ət",
       "zh": "投生",
+      "en": "be born",
       "title": "畜生带着痴来出生",
       "no": 37
     },
@@ -264,6 +300,7 @@
       "thai": "โมหะ",
       "roman": "moo-hà",
       "zh": "痴",
+      "en": "delusion",
       "title": "畜生带着痴来出生",
       "no": 37
     },
@@ -271,6 +308,7 @@
       "thai": "สัตว์",
       "roman": "sàt",
       "zh": "动物",
+      "en": "animal",
       "title": "投生为动物会一直重复",
       "no": 39
     },
@@ -278,6 +316,7 @@
       "thai": "ตั้ง",
       "roman": "tâng",
       "zh": "连续",
+      "en": "as many as",
       "title": "投生为动物会一直重复",
       "no": 39
     },
@@ -285,6 +324,7 @@
       "thai": "พอใจ",
       "roman": "phɔɔ-jai",
       "zh": "满意",
+      "en": "satisfied",
       "title": "众生黏着在状态里",
       "no": 40
     },
@@ -292,6 +332,7 @@
       "thai": "ติด",
       "roman": "tìt",
       "zh": "黏着",
+      "en": "stuck · attached",
       "title": "众生黏着在状态里",
       "no": 40
     },
@@ -299,6 +340,7 @@
       "thai": "คน",
       "roman": "khon",
       "zh": "人",
+      "en": "person",
       "title": "众生黏着在状态里",
       "no": 40
     },
@@ -306,6 +348,7 @@
       "thai": "โทษ",
       "roman": "thôot",
       "zh": "副作用",
+      "en": "harm",
       "title": "投生为动物副作用最强",
       "no": 41
     },
@@ -313,6 +356,7 @@
       "thai": "ร้ายแรง",
       "roman": "ráai-rɛɛng",
       "zh": "最强的",
+      "en": "severe",
       "title": "投生为动物副作用最强",
       "no": 41
     },
@@ -320,6 +364,7 @@
       "thai": "ผิดชอบชั่วดี",
       "roman": "phìt-chɔ̂ɔp-chûa-dii",
       "zh": "是非对错",
+      "en": "right and wrong",
       "title": "投生为动物副作用最强",
       "no": 41
     },
@@ -327,6 +372,7 @@
       "thai": "สัตว์ นรก",
       "roman": "sàt ná-rók",
       "zh": "地狱众生",
+      "en": "hell beings",
       "title": "带着嗔心死去投生地狱",
       "no": 42
     },
@@ -334,6 +380,7 @@
       "thai": "ครอบ งำ",
       "roman": "khrɔ̂ɔp-ngam",
       "zh": "控制",
+      "en": "dominate",
       "title": "带着嗔心死去投生地狱",
       "no": 42
     },
@@ -341,6 +388,7 @@
       "thai": "สำนึก",
       "roman": "sǎm-nʉ́k",
       "zh": "意识",
+      "en": "conscience",
       "title": "地狱众生也会后悔",
       "no": 44
     },
@@ -348,6 +396,7 @@
       "thai": "รู้",
       "roman": "rúu",
       "zh": "后悔",
+      "en": "know · be aware",
       "title": "地狱众生也会后悔",
       "no": 44
     },
@@ -355,6 +404,7 @@
       "thai": "บุญ",
       "roman": "bun",
       "zh": "功德",
+      "en": "merit",
       "title": "祈愿投生为狗很困难",
       "no": 45
     },
@@ -362,6 +412,7 @@
       "thai": "อธิษฐาน",
       "roman": "à-thít-thǎan",
       "zh": "祈愿",
+      "en": "make a wish",
       "title": "祈愿投生为狗很困难",
       "no": 45
     },
@@ -369,6 +420,7 @@
       "thai": "พัฒนา",
       "roman": "phát-tha-naa",
       "zh": "提升",
+      "en": "develop",
       "title": "祈愿投生为狗很困难",
       "no": 45
     },
@@ -376,6 +428,7 @@
       "thai": "จิตใจ",
       "roman": "jìt-jai",
       "zh": "心灵水平",
+      "en": "mind",
       "title": "能提升心灵水平的狗",
       "no": 46
     },
@@ -383,6 +436,7 @@
       "thai": "หมา",
       "roman": "mǎa",
       "zh": "流浪狗",
+      "en": "dog",
       "title": "能提升心灵水平的狗",
       "no": 46
     },
@@ -390,6 +444,7 @@
       "thai": "เก็บ",
       "roman": "kèp",
       "zh": "捡回来",
+      "en": "take in",
       "title": "能提升心灵水平的狗",
       "no": 46
     },
@@ -397,6 +452,7 @@
       "thai": "แมว",
       "roman": "mɛɛo",
       "zh": "猫",
+      "en": "cat",
       "title": "小猫进来也不咬",
       "no": 47
     },
@@ -404,6 +460,7 @@
       "thai": "ไม่ กัด",
       "roman": "mâi kàt",
       "zh": "不咬",
+      "en": "not bite",
       "title": "小猫进来也不咬",
       "no": 47
     },
@@ -411,6 +468,7 @@
       "thai": "อาหาร",
       "roman": "aa-hǎan",
       "zh": "食物",
+      "en": "food",
       "title": "小猫进来也不咬",
       "no": 47
     },
@@ -418,96 +476,112 @@
       "thai": "ความรู้สึกตัว",
       "roman": "khwaam-rúu-sùek-tua",
       "zh": "觉知自己（名词）",
+      "en": "self-awareness",
       "title": "其他"
     },
     {
       "thai": "จิต",
       "roman": "jìt",
       "zh": "心",
+      "en": "mind",
       "title": "其他"
     },
     {
       "thai": "กิเลส",
       "roman": "kì-lèet",
       "zh": "烦恼",
+      "en": "defilements",
       "title": "其他"
     },
     {
       "thai": "ปัญญา",
       "roman": "pan-yaa",
       "zh": "智慧",
+      "en": "wisdom",
       "title": "其他"
     },
     {
       "thai": "ความสงบ",
       "roman": "khwaam-sà-ngòp",
       "zh": "宁静",
+      "en": "calm",
       "title": "其他"
     },
     {
       "thai": "กิเลสคนอื่น",
       "roman": "kì-lèet khon-ùuen",
       "zh": "别人的烦恼",
+      "en": "others' defilements",
       "title": "其他"
     },
     {
       "thai": "กิเลสตัวเอง",
       "roman": "kì-lèet tua-eeng",
       "zh": "自己的烦恼",
+      "en": "one's own defilements",
       "title": "其他"
     },
     {
       "thai": "นั่ง สมาธิ เยอะ ๆ",
       "roman": "nâng sà-maa-thí yə́ yə́",
       "zh": "多多打坐",
+      "en": "meditate a lot",
       "title": "其他"
     },
     {
       "thai": "ขาด",
       "roman": "khàat",
       "zh": "中断",
+      "en": "break off",
       "title": "其他"
     },
     {
       "thai": "เก่งมาตั้งแต่แรก",
       "roman": "kèng maa tâng-tɛ̀ɛ rɛ̂ɛk",
       "zh": "一开始就很棒",
+      "en": "good from the start",
       "title": "其他"
     },
     {
       "thai": "ฝึกมาเยอะ",
       "roman": "fùek maa yə́",
       "zh": "练习得多",
+      "en": "well practised",
       "title": "其他"
     },
     {
       "thai": "จิตเคลื่อนออกไป",
       "roman": "jìt khlûuean àwk-pai",
       "zh": "心移出去了",
+      "en": "the mind moves out",
       "title": "其他"
     },
     {
       "thai": "ทำ ให้ ถูก",
       "roman": "tham hâi thùuk",
       "zh": "修对",
+      "en": "do it right",
       "title": "其他"
     },
     {
       "thai": "ใจ",
       "roman": "jai",
       "zh": "心（日常说法）",
+      "en": "heart · mind",
       "title": "其他"
     },
     {
       "thai": "เห็น",
       "roman": "hěn",
       "zh": "看到（亲眼看见身体在呼吸）",
+      "en": "see",
       "title": "其他"
     },
     {
       "thai": "สบาย",
       "roman": "sà-baai",
       "zh": "享受",
+      "en": "at ease",
       "title": "其他"
     }
   ],
@@ -685,7 +759,8 @@
               "at": 6.46,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "If you meditate but have no mindfulness guiding it, that won't work."
         },
         {
           "text": "会变成在累积痴",
@@ -774,7 +849,8 @@
               "at": 6.46,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "It becomes an accumulation of delusion."
         },
         {
           "text": "经行却没有觉性，那也是在累积痴，",
@@ -874,7 +950,8 @@
               "text": "ขึ้น",
               "at": 16.18
             }
-          ]
+          ],
+          "en": "Walking meditation without mindfulness is also accumulating delusion,"
         },
         {
           "text": "训练后迷失得更厉害、更严重",
@@ -974,7 +1051,8 @@
               "text": "ขึ้น",
               "at": 16.18
             }
-          ]
+          ],
+          "en": "and you end up more and more lost."
         }
       ]
     },
@@ -1061,7 +1139,8 @@
               "at": 8.7,
               "zh": "多多"
             }
-          ]
+          ],
+          "en": "Practice every day, without a break,"
         },
         {
           "text": "要多多地去用功，有觉性",
@@ -1139,7 +1218,8 @@
               "at": 8.7,
               "zh": "多多"
             }
-          ]
+          ],
+          "en": "and do a lot of it, with mindfulness."
         },
         {
           "text": "觉性是最重要的，努力地去觉知自己，",
@@ -1240,7 +1320,8 @@
               "at": 23.26,
               "zh": "不停"
             }
-          ]
+          ],
+          "en": "Mindfulness matters most. Try hard to be aware of yourself,"
         },
         {
           "text": "要一整天都不停地去觉知自己",
@@ -1341,7 +1422,8 @@
               "at": 23.26,
               "zh": "不停"
             }
-          ]
+          ],
+          "en": "all day long, without stopping."
         }
       ]
     },
@@ -1425,7 +1507,8 @@
               "text": "ๆ",
               "at": 8.7
             }
-          ]
+          ],
+          "en": "Practice every day with real intent, don't break off,"
         },
         {
           "text": "要多多地去用功，有觉性",
@@ -1500,7 +1583,8 @@
               "text": "ๆ",
               "at": 8.7
             }
-          ]
+          ],
+          "en": "and practise a lot, with mindfulness."
         },
         {
           "text": "觉性是最重要的，努力地去觉知自己，",
@@ -1600,7 +1684,8 @@
               "text": "ๆ",
               "at": 23.26
             }
-          ]
+          ],
+          "en": "Mindfulness matters most. Try hard to be aware of yourself,"
         },
         {
           "text": "要一整天都不停地去觉知自己",
@@ -1700,7 +1785,8 @@
               "text": "ๆ",
               "at": 23.26
             }
-          ]
+          ],
+          "en": "all day long, without stopping."
         }
       ]
     },
@@ -1789,7 +1875,8 @@
               "text": "นะ",
               "at": 8.93
             }
-          ]
+          ],
+          "en": "Some people learn quickly, and some learn slowly."
         },
         {
           "text": "学得慢就要忍耐，不停地学习下去",
@@ -1851,7 +1938,8 @@
               "at": 14.82,
               "zh": "下去"
             }
-          ]
+          ],
+          "en": "If you learn slowly, have patience and keep learning."
         },
         {
           "text": "有觉性去觉知自己，常常地去做，",
@@ -1912,7 +2000,8 @@
               "at": 22.24,
               "zh": "棒"
             }
-          ]
+          ],
+          "en": "Be mindful and aware of yourself, and do it often,"
         },
         {
           "text": "以后就会越来越棒的",
@@ -1973,7 +2062,8 @@
               "at": 22.24,
               "zh": "棒"
             }
-          ]
+          ],
+          "en": "and you'll get better and better."
         }
       ]
     },
@@ -2031,7 +2121,8 @@
               "text": "หรอก",
               "at": 4.04
             }
-          ]
+          ],
+          "en": "No one is good from the start."
         },
         {
           "text": "那些修得很快、很棒的人，",
@@ -2106,7 +2197,8 @@
               "at": 10.14,
               "zh": "很多"
             }
-          ]
+          ],
+          "en": "Those who practise quickly and well"
         },
         {
           "text": "是因为他们以前练习得很多",
@@ -2181,7 +2273,8 @@
               "at": 10.14,
               "zh": "很多"
             }
-          ]
+          ],
+          "en": "are the ones who practised a lot before."
         },
         {
           "text": "我们每个人的原始资本是不一样的，",
@@ -2270,7 +2363,8 @@
               "at": 22.8,
               "zh": "自己"
             }
-          ]
+          ],
+          "en": "Each of us has different starting capital,"
         },
         {
           "text": "就自己来给自己进一步地提升",
@@ -2359,7 +2453,8 @@
               "at": 22.8,
               "zh": "自己"
             }
-          ]
+          ],
+          "en": "so each of us has to develop ourselves further."
         }
       ]
     },
@@ -2488,7 +2583,8 @@
               "at": 13.28,
               "zh": "够"
             }
-          ]
+          ],
+          "en": "Someone with more starting capital needs just a little push to reach the Dhamma,"
         },
         {
           "text": "有的人必须忍耐，去训练，要修对，",
@@ -2608,7 +2704,8 @@
               "at": 13.28,
               "zh": "够"
             }
-          ]
+          ],
+          "en": "Others need patience, practice, and to do it right,"
         },
         {
           "text": "然后修的量要够",
@@ -2728,7 +2825,8 @@
               "at": 13.28,
               "zh": "够"
             }
-          ]
+          ],
+          "en": "and to do enough of it."
         },
         {
           "text": "隆波所看到的居士们的弱点，就是禅定不够，",
@@ -2831,7 +2929,8 @@
               "at": 25.1,
               "zh": "够"
             }
-          ]
+          ],
+          "en": "The weak point Luang Por sees in lay practitioners: concentration isn't enough,"
         },
         {
           "text": "禅定不对而且禅定不够",
@@ -2934,7 +3033,8 @@
               "at": 25.1,
               "zh": "够"
             }
-          ]
+          ],
+          "en": "isn't right, and isn't enough."
         }
       ]
     },
@@ -3033,7 +3133,8 @@
               "text": "นะ",
               "at": 11.64
             }
-          ]
+          ],
+          "en": "When we meditate, the mind isn't truly firmly established,"
         },
         {
           "text": "心移出去了却没看见",
@@ -3123,7 +3224,8 @@
               "text": "นะ",
               "at": 11.64
             }
-          ]
+          ],
+          "en": "the mind moves out, and we don't see it."
         },
         {
           "text": "我们以为自己在修行，但事实上我们正在迷失",
@@ -3192,7 +3294,8 @@
               "at": 17.18,
               "zh": "迷失"
             }
-          ]
+          ],
+          "en": "We think we're practising, but really we are lost."
         },
         {
           "text": "如果我们知道训练的方法，能够修对了，",
@@ -3265,7 +3368,8 @@
               "at": 25.34,
               "zh": "多多"
             }
-          ]
+          ],
+          "en": "If we know how to train and do it right,"
         },
         {
           "text": "然后多多地去用功",
@@ -3338,7 +3442,8 @@
               "at": 25.34,
               "zh": "多多"
             }
-          ]
+          ],
+          "en": "then we should practise a lot."
         }
       ]
     },
@@ -3450,7 +3555,8 @@
               "at": 13.05,
               "zh": "对"
             }
-          ]
+          ],
+          "en": "Knowing it but not doing it won't get you far."
         },
         {
           "text": "所以，第一点是必须要知道修行的方法，",
@@ -3553,7 +3659,8 @@
               "at": 13.05,
               "zh": "对"
             }
-          ]
+          ],
+          "en": "So first, you must know how to practice,"
         },
         {
           "text": "然后修对",
@@ -3656,7 +3763,8 @@
               "at": 13.05,
               "zh": "对"
             }
-          ]
+          ],
+          "en": "and do it right."
         },
         {
           "text": "知道了正确的方法，修对了，然后多多地去修，",
@@ -3778,7 +3886,8 @@
               "text": "นะ",
               "at": 26.63
             }
-          ]
+          ],
+          "en": "Know the right way, do it right, then practise a lot —"
         },
         {
           "text": "而不是多多地去打坐、多多地去经行就都会很好",
@@ -3900,7 +4009,8 @@
               "text": "นะ",
               "at": 26.63
             }
-          ]
+          ],
+          "en": "It's not that meditating a lot and walking meditation a lot will always be good."
         }
       ]
     },
@@ -3984,7 +4094,8 @@
               "at": 5.92,
               "zh": "先"
             }
-          ]
+          ],
+          "en": "If you want self-awareness, aim at this point first."
         },
         {
           "text": "佛陀开示说，",
@@ -4087,7 +4198,8 @@
               "at": 16.72,
               "zh": "能够"
             }
-          ]
+          ],
+          "en": "The Buddha said that"
         },
         {
           "text": "觉知自己是能够战胜烦恼习气的修行契入点",
@@ -4190,7 +4302,8 @@
               "at": 16.72,
               "zh": "能够"
             }
-          ]
+          ],
+          "en": "self-awareness is the starting point for fighting defilements."
         }
       ]
     },
@@ -4269,7 +4382,8 @@
               "text": "เลย",
               "at": 4.98
             }
-          ]
+          ],
+          "en": "People in the world are never aware of themselves, forgetting themselves all day long."
         },
         {
           "text": "了解别人比了解自己还多，自己的事却看不见",
@@ -4345,7 +4459,8 @@
               "text": "นะ",
               "at": 10.48
             }
-          ]
+          ],
+          "en": "They know others better than they know themselves; their own affairs they can't see."
         },
         {
           "text": "比如说别人的烦恼习气全都看见，他哪里不好，",
@@ -4436,7 +4551,8 @@
               "text": "เลย",
               "at": 16.54
             }
-          ]
+          ],
+          "en": "Take others' defilements: we see them all, what's wrong with them,"
         },
         {
           "text": "我们全都知道，",
@@ -4527,7 +4643,8 @@
               "text": "เลย",
               "at": 16.54
             }
-          ]
+          ],
+          "en": "we know every bit of it."
         },
         {
           "text": "但是自己的烦恼习气视而不见，",
@@ -4621,7 +4738,8 @@
               "text": "นะ",
               "at": 27.06
             }
-          ]
+          ],
+          "en": "But one's own defilements, we don't see."
         },
         {
           "text": "这样就是我们不了解自己了，",
@@ -4715,7 +4833,8 @@
               "text": "นะ",
               "at": 27.06
             }
-          ]
+          ],
+          "en": "That means we don't know ourselves."
         },
         {
           "text": "要努力地去觉知自己",
@@ -4809,7 +4928,8 @@
               "text": "นะ",
               "at": 27.06
             }
-          ]
+          ],
+          "en": "So try hard to be aware of yourself."
         }
       ]
     },
@@ -4891,7 +5011,8 @@
               "at": 4.7,
               "zh": "呼气"
             }
-          ]
+          ],
+          "en": "Breathing out, be aware of yourself, see the body breathe out."
         },
         {
           "text": "吸气也去觉知自己，看到身体吸气",
@@ -4968,7 +5089,8 @@
               "at": 9.86,
               "zh": "吸气"
             }
-          ]
+          ],
+          "en": "Breathing in, be aware of yourself, see the body breathe in."
         },
         {
           "text": "而不是呼吸了之后心跑到别的地方去，",
@@ -5044,7 +5166,8 @@
               "at": 15.7,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "Not breathing, then the mind runs off somewhere else,"
         },
         {
           "text": "根本没有觉知自己",
@@ -5120,7 +5243,8 @@
               "at": 15.7,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "with no awareness of yourself at all."
         }
       ]
     },
@@ -5219,7 +5343,8 @@
               "at": 6.64,
               "zh": "觉知"
             }
-          ]
+          ],
+          "en": "When sitting, be aware of yourself, not sitting with the mind wandering."
         },
         {
           "text": "经行也带着觉知去经行，",
@@ -5309,7 +5434,8 @@
               "at": 6.64,
               "zh": "觉知"
             }
-          ]
+          ],
+          "en": "When doing walking meditation, walk with awareness of yourself."
         },
         {
           "text": "而不是经行的时候苦闷或者是走神，心走神，",
@@ -5432,7 +5558,8 @@
               "at": 19.1,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "not walking tense, or with the mind wandering."
         },
         {
           "text": "这太松了，太苦闷，又太紧了，如果苦闷的话，",
@@ -5555,7 +5682,8 @@
               "at": 19.1,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "Wandering is too loose; being tense is too tight."
         },
         {
           "text": "并不是觉知自己",
@@ -5678,7 +5806,8 @@
               "at": 19.1,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "that is not being aware of yourself."
         },
         {
           "text": "如果压力大或者走神，那也没有觉知自己了",
@@ -5752,7 +5881,8 @@
               "at": 23.38,
               "zh": "了"
             }
-          ]
+          ],
+          "en": "If you're tense or your mind wanders, you're no longer aware of yourself."
         }
       ]
     },
@@ -5866,7 +5996,8 @@
               "at": 8.04,
               "zh": "自己"
             }
-          ]
+          ],
+          "en": "Thai has a phrase for this: keeping the mind with oneself,"
         },
         {
           "text": "别忘记自己",
@@ -5971,7 +6102,8 @@
               "at": 8.04,
               "zh": "自己"
             }
-          ]
+          ],
+          "en": "not forgetting oneself."
         }
       ]
     },
@@ -6061,7 +6193,8 @@
               "at": 5.94,
               "zh": "觉知"
             }
-          ]
+          ],
+          "en": "So let's try hard to be aware of ourselves a lot,"
         },
         {
           "text": "身体呼吸，觉知",
@@ -6142,7 +6275,8 @@
               "at": 5.94,
               "zh": "觉知"
             }
-          ]
+          ],
+          "en": "the body breathing, aware of it,"
         },
         {
           "text": "身体行、住、坐、卧，觉知，",
@@ -6235,7 +6369,8 @@
               "at": 12.84,
               "zh": "去"
             }
-          ]
+          ],
+          "en": "the body standing, walking, sitting, lying down, aware of it,"
         },
         {
           "text": "身体移动、身体静止，不停地去觉知",
@@ -6328,7 +6463,8 @@
               "at": 12.84,
               "zh": "去"
             }
-          ]
+          ],
+          "en": "the body moving, the body still, keep on being aware."
         }
       ]
     },
@@ -6413,7 +6549,8 @@
               "at": 4.1,
               "zh": "觉知"
             }
-          ]
+          ],
+          "en": "When happiness or suffering arises in the body, be aware of it."
         },
         {
           "text": "心里有乐、有苦、有不苦不乐生起，",
@@ -6522,7 +6659,8 @@
               "text": "ไป",
               "at": 12.98
             }
-          ]
+          ],
+          "en": "When happiness, suffering, or neutral feeling arises in the mind,"
         },
         {
           "text": "也要去感觉到它",
@@ -6631,7 +6769,8 @@
               "text": "ไป",
               "at": 12.98
             }
-          ]
+          ],
+          "en": "be aware of that too."
         }
       ]
     },
@@ -6646,13 +6785,15 @@
           "text": "有贪也要去觉知，贪消失了也要觉知，",
           "from": -0.15,
           "to": 5.77,
-          "thai": "มี ความ โลภ ก็ รู้ สึก หาย โลภ แล้ว ก็ รู้ สึก โกรธ แล้ว ก็ รู้ สึก หาย โกรธ แล้ว ก็ รู้ สึก"
+          "thai": "มี ความ โลภ ก็ รู้ สึก หาย โลภ แล้ว ก็ รู้ สึก โกรธ แล้ว ก็ รู้ สึก หาย โกรธ แล้ว ก็ รู้ สึก",
+          "en": "When there's greed, be aware of it. When greed fades, be aware of that too."
         },
         {
           "text": "生气了也要觉知，生气消失了也要去觉知",
           "from": 5.77,
           "to": 12.04,
-          "thai": "มี ความ โลภ ก็ รู้ สึก หาย โลภ แล้ว ก็ รู้ สึก โกรธ แล้ว ก็ รู้ สึก หาย โกรธ แล้ว ก็ รู้ สึก"
+          "thai": "มี ความ โลภ ก็ รู้ สึก หาย โลภ แล้ว ก็ รู้ สึก โกรธ แล้ว ก็ รู้ สึก หาย โกรธ แล้ว ก็ รู้ สึก",
+          "en": "When anger arises, be aware of it. When anger fades, be aware of that too."
         },
         {
           "text": "散乱也要觉知，宁静也要去觉知，",
@@ -6811,7 +6952,8 @@
               "text": "นะ",
               "at": 23.73
             }
-          ]
+          ],
+          "en": "Restlessness, be aware of it. Calm, be aware of it too."
         },
         {
           "text": "这样去觉知自己，心愉悦也觉知，",
@@ -6970,7 +7112,8 @@
               "text": "นะ",
               "at": 23.73
             }
-          ]
+          ],
+          "en": "Keep being aware of yourself this way. When the mind is joyful, be aware of it."
         },
         {
           "text": "心沮丧也去觉知",
@@ -7129,7 +7272,8 @@
               "text": "นะ",
               "at": 23.73
             }
-          ]
+          ],
+          "en": "When the mind is dejected, be aware of it too."
         }
       ]
     },
@@ -7248,7 +7392,8 @@
               "at": 9.18,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "The problem is we have no interest in being aware of ourselves."
         },
         {
           "text": "我们不知道觉知自己的价值",
@@ -7358,7 +7503,8 @@
               "at": 9.18,
               "zh": "觉知自己"
             }
-          ]
+          ],
+          "en": "We don't know the value of self-awareness."
         },
         {
           "text": "所以我们就满意于去迷失，玩玩乐乐、恍恍惚惚，",
@@ -7470,7 +7616,8 @@
               "at": 19.44,
               "zh": "快乐"
             }
-          ]
+          ],
+          "en": "So we're satisfied being lost, carried away, absent-minded,"
         },
         {
           "text": "很陶醉，觉得很快乐、很享受",
@@ -7582,7 +7729,8 @@
               "at": 19.44,
               "zh": "快乐"
             }
-          ]
+          ],
+          "en": "feeling at ease, feeling happy."
         }
       ]
     },
@@ -7663,7 +7811,8 @@
               "at": 6.76,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "But it's very dangerous—a wandering mind is very dangerous,"
         },
         {
           "text": "那是属于正在累积痴的心",
@@ -7735,7 +7884,8 @@
               "at": 6.76,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "because it is a mind that is accumulating delusion."
         },
         {
           "text": "如果带着有痴的心死去，果报现前，",
@@ -7824,7 +7974,8 @@
               "at": 15.8,
               "zh": "畜生"
             }
-          ]
+          ],
+          "en": "If we die with a mind full of delusion, and the result ripens,"
         },
         {
           "text": "我们就会去出生为畜生",
@@ -7913,7 +8064,8 @@
               "at": 15.8,
               "zh": "畜生"
             }
-          ]
+          ],
+          "en": "we will be born as animals."
         }
       ]
     },
@@ -7988,7 +8140,8 @@
               "at": 7.76,
               "zh": "畜生道"
             }
-          ]
+          ],
+          "en": "In the four woeful realms:"
         },
         {
           "text": "地狱众生、阿修罗道、饿鬼道、畜生道",
@@ -8054,7 +8207,8 @@
               "at": 7.76,
               "zh": "畜生道"
             }
-          ]
+          ],
+          "en": "hell beings, asuras, hungry ghosts, and animals."
         },
         {
           "text": "一般人认为当畜生是最好的，地狱众生是最糟的，",
@@ -8177,7 +8331,8 @@
               "at": 17.62,
               "zh": "这样"
             }
-          ]
+          ],
+          "en": "Most people think being an animal is the best, and being a hell being is the worst."
         },
         {
           "text": "大部分人都是这样觉得的",
@@ -8300,7 +8455,8 @@
               "at": 17.62,
               "zh": "这样"
             }
-          ]
+          ],
+          "en": "Most people feel that way."
         }
       ]
     },
@@ -8434,7 +8590,8 @@
               "at": 8.46,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "But if we look at the causes that make them be born in each place,"
         },
         {
           "text": "我们就会知道，畜生是因为带着痴来出生的",
@@ -8559,7 +8716,8 @@
               "at": 8.46,
               "zh": "痴"
             }
-          ]
+          ],
+          "en": "we'll know that animals are born through delusion."
         },
         {
           "text": "它死的时候是因为带着迷失而死去，",
@@ -8689,7 +8847,8 @@
               "at": 21.06,
               "zh": "最"
             }
-          ]
+          ],
+          "en": "They die while lost,"
         },
         {
           "text": "所以投生为动物，痴这个烦恼习气，",
@@ -8819,7 +8978,8 @@
               "at": 21.06,
               "zh": "最"
             }
-          ]
+          ],
+          "en": "so they are born as animals. Delusion is a defilement"
         },
         {
           "text": "是副作用最大、最难断、最难看见的烦恼习气",
@@ -8949,7 +9109,8 @@
               "at": 21.06,
               "zh": "最"
             }
-          ]
+          ],
+          "en": "with the most severe harm, the hardest to remove, and the hardest to see."
         }
       ]
     },
@@ -9028,7 +9189,8 @@
               "text": "นะ",
               "at": 4.01
             }
-          ]
+          ],
+          "en": "So if you're born as an animal, you keep being reborn again and again,"
         },
         {
           "text": "重复投生很久",
@@ -9098,7 +9260,8 @@
               "text": "นะ",
               "at": 4.01
             }
-          ]
+          ],
+          "en": "being reborn over and over for a long time."
         },
         {
           "text": "有一位高僧大德，不知道记的是不是对的，",
@@ -9198,7 +9361,8 @@
               "text": "แล้ว",
               "at": 13.24
             }
-          ]
+          ],
+          "en": "One senior master, I'm not sure if I remember it right,"
         },
         {
           "text": "很久很久以前读过，",
@@ -9298,7 +9462,8 @@
               "text": "แล้ว",
               "at": 13.24
             }
-          ]
+          ],
+          "en": "I read it a very long time ago."
         },
         {
           "text": "阿姜曼尊者，他说他曾连续500世投生为猎狗",
@@ -9388,7 +9553,8 @@
               "text": "นะ",
               "at": 19.53
             }
-          ]
+          ],
+          "en": "Luang Pu Mun said he was born as a wild dog for as many as 500 lifetimes in a row."
         }
       ]
     },
@@ -9468,7 +9634,8 @@
               "text": "เนี่ย",
               "at": 6.2
             }
-          ]
+          ],
+          "en": "Because when born as a wild dog, it is satisfied and content."
         },
         {
           "text": "所有的众生都会黏着在那些状态里面，",
@@ -9585,7 +9752,8 @@
               "at": 12.06,
               "zh": "再次"
             }
-          ]
+          ],
+          "en": "The mind of all beings gets stuck in its state of being."
         },
         {
           "text": "我们投生为人，我们就想再次投生为人",
@@ -9702,7 +9870,8 @@
               "at": 12.06,
               "zh": "再次"
             }
-          ]
+          ],
+          "en": "If we're born human, we want to be human again."
         },
         {
           "text": "那些投生为动物的，它又会想继续作为动物，",
@@ -9794,7 +9963,8 @@
               "text": "ได้",
               "at": 19.38
             }
-          ]
+          ],
+          "en": "Those born as animals want to be animals again,"
         },
         {
           "text": "要很久很久才能有变化",
@@ -9886,7 +10056,8 @@
               "text": "ได้",
               "at": 19.38
             }
-          ]
+          ],
+          "en": "and it takes a very long time for that to change."
         }
       ]
     },
@@ -9944,7 +10115,8 @@
               "text": "นะ",
               "at": 2.29
             }
-          ]
+          ],
+          "en": "He said he was a wild dog for 500 lifetimes. That's a long time."
         },
         {
           "text": "投生为动物，它的副作用是最强的，",
@@ -10054,7 +10226,8 @@
               "text": "นะ",
               "at": 15.13
             }
-          ]
+          ],
+          "en": "Being born as an animal has the most severe harm,"
         },
         {
           "text": "因为是带着痴去的，不知道是非对错",
@@ -10164,7 +10337,8 @@
               "text": "นะ",
               "at": 15.13
             }
-          ]
+          ],
+          "en": "because you go there with delusion, not knowing right and wrong."
         },
         {
           "text": "比如说小狗长大了，",
@@ -10307,7 +10481,8 @@
               "text": "สิ้น",
               "at": 26.28
             }
-          ]
+          ],
+          "en": "For example, when a puppy grows up,"
         },
         {
           "text": "它可能会把自己的母亲当成妻子，诸如此类，",
@@ -10450,7 +10625,8 @@
               "text": "สิ้น",
               "at": 26.28
             }
-          ]
+          ],
+          "en": "it might take its own mother as its mate, and things like that,"
         },
         {
           "text": "因为它什么都不知道",
@@ -10593,7 +10769,8 @@
               "text": "สิ้น",
               "at": 26.28
             }
-          ]
+          ],
+          "en": "because it knows nothing at all."
         }
       ]
     },
@@ -10677,7 +10854,8 @@
               "at": 10.12,
               "zh": "嗔"
             }
-          ]
+          ],
+          "en": "The woeful realms, for example: dying with anger in the mind means being born as a hell being."
         },
         {
           "text": "如果带着嗔心死去，心不滋润、不愉悦，",
@@ -10837,7 +11015,8 @@
               "at": 23.98,
               "zh": "地狱"
             }
-          ]
+          ],
+          "en": "If one dies with anger, the mind isn't refreshed or happy,"
         },
         {
           "text": "有的只是苦，如果那时候死去的话，",
@@ -10997,7 +11176,8 @@
               "at": 23.98,
               "zh": "地狱"
             }
-          ]
+          ],
+          "en": "there is only suffering. If one dies at that moment,"
         },
         {
           "text": "因为嗔的力量正在控制心，",
@@ -11157,7 +11337,8 @@
               "at": 23.98,
               "zh": "地狱"
             }
-          ]
+          ],
+          "en": "while the force of anger dominates the mind,"
         },
         {
           "text": "就会去投生为地狱众生",
@@ -11317,7 +11498,8 @@
               "at": 23.98,
               "zh": "地狱"
             }
-          ]
+          ],
+          "en": "one will be born as a hell being."
         }
       ]
     },
@@ -11392,7 +11574,8 @@
               "at": 7.76,
               "zh": "畜生道"
             }
-          ]
+          ],
+          "en": "Among the four woeful realms:"
         },
         {
           "text": "地狱众生、阿修罗道、饿鬼道、畜生道",
@@ -11458,7 +11641,8 @@
               "at": 7.76,
               "zh": "畜生道"
             }
-          ]
+          ],
+          "en": "hell beings, asuras, hungry ghosts, animals."
         },
         {
           "text": "一般人认为当畜生是最好的，地狱众生是最糟的，",
@@ -11581,7 +11765,8 @@
               "at": 17.62,
               "zh": "这样"
             }
-          ]
+          ],
+          "en": "Most people think being an animal is the best and being a hell being is the worst."
         },
         {
           "text": "大部分人都是这样觉得的",
@@ -11704,7 +11889,8 @@
               "at": 17.62,
               "zh": "这样"
             }
-          ]
+          ],
+          "en": "Most people feel that way."
         }
       ]
     },
@@ -11873,7 +12059,8 @@
               "text": "เลย",
               "at": 11.84
             }
-          ]
+          ],
+          "en": "Even a hell being can still be aware,"
         },
         {
           "text": "有时候能够意识到，因为有苦，太苦了，",
@@ -12033,7 +12220,8 @@
               "text": "เลย",
               "at": 11.84
             }
-          ]
+          ],
+          "en": "Sometimes it realizes, because there's suffering, so much suffering,"
         },
         {
           "text": "所以它就会哀叹说：唉，真不该这么做的，",
@@ -12193,7 +12381,8 @@
               "text": "เลย",
               "at": 11.84
             }
-          ]
+          ],
+          "en": "and so it laments: \"Ah, I shouldn't have done that,"
         },
         {
           "text": "真不该这么做的",
@@ -12353,7 +12542,8 @@
               "text": "เลย",
               "at": 11.84
             }
-          ]
+          ],
+          "en": "I really shouldn't have done that.\""
         },
         {
           "text": "它还后悔了，它还能够意识到是非对错，",
@@ -12455,7 +12645,8 @@
               "at": 19.48,
               "zh": "呢"
             }
-          ]
+          ],
+          "en": "It feels regret. It can still recognize right and wrong,"
         },
         {
           "text": "因此它还高于畜生呢",
@@ -12557,7 +12748,8 @@
               "at": 19.48,
               "zh": "呢"
             }
-          ]
+          ],
+          "en": "so it's still above the animals."
         }
       ]
     },
@@ -12675,7 +12867,8 @@
               "text": "หรอก",
               "at": 6.72
             }
-          ]
+          ],
+          "en": "Some people make merit, then wish to be born as a Westerner's dog."
         },
         {
           "text": "那很困难的，没什么好的",
@@ -12784,7 +12977,8 @@
               "text": "หรอก",
               "at": 6.72
             }
-          ]
+          ],
+          "en": "That's hard, nothing good about it."
         },
         {
           "text": "不可能提升自己的，非常非常难的",
@@ -12840,7 +13034,8 @@
               "at": 10.7,
               "zh": "非常非常"
             }
-          ]
+          ],
+          "en": "There's no way to develop yourself. It's very, very hard."
         }
       ]
     },
@@ -13005,7 +13200,8 @@
               "at": 11.24,
               "zh": "朱拉隆功"
             }
-          ]
+          ],
+          "en": "Luang Por has only ever seen one dog that could develop its mind,"
         },
         {
           "text": "是以前养的狗，",
@@ -13161,7 +13357,8 @@
               "at": 11.24,
               "zh": "朱拉隆功"
             }
-          ]
+          ],
+          "en": "a dog he raised long ago,"
         },
         {
           "text": "是隆波在朱拉隆功读大学的时候捡回来的一条流浪狗",
@@ -13317,7 +13514,8 @@
               "at": 11.24,
               "zh": "朱拉隆功"
             }
-          ]
+          ],
+          "en": "a stray he picked up while studying at Chulalongkorn University."
         },
         {
           "text": "这条被隆波养大的流浪狗，它的心很善良，",
@@ -13432,7 +13630,8 @@
               "text": "นะ",
               "at": 22.16
             }
-          ]
+          ],
+          "en": "He raised this stray until it was grown, and it had a kind heart."
         },
         {
           "text": "别的动物进来家里，它也不咬",
@@ -13547,7 +13746,8 @@
               "text": "นะ",
               "at": 22.16
             }
-          ]
+          ],
+          "en": "If other animals came into the house, it would not bite them."
         }
       ]
     },
@@ -13633,7 +13833,8 @@
               "at": 4.9,
               "zh": "还"
             }
-          ]
+          ],
+          "en": "Even a stray kitten that wandered in, it wouldn't bite, and it shared its food with it."
         },
         {
           "text": "养了2-3只狗，喂饭的时候，他让别的狗先吃，",
@@ -13732,7 +13933,8 @@
               "at": 14.24,
               "zh": "吃"
             }
-          ]
+          ],
+          "en": "There were two or three dogs. At feeding time, it let the other dogs eat first,"
         },
         {
           "text": "然后它才吃，",
@@ -13831,7 +14033,8 @@
               "at": 14.24,
               "zh": "吃"
             }
-          ]
+          ],
+          "en": "and only then would it eat,"
         }
       ]
     }

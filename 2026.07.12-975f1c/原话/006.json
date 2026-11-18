@@ -52,7 +52,8 @@
           "text": "หรอก",
           "at": 4.04
         }
-      ]
+      ],
+      "en": "No one is good from the start."
     },
     {
       "text": "那些修得很快、很棒的人，",
@@ -127,7 +128,8 @@
           "at": 10.14,
           "zh": "很多"
         }
-      ]
+      ],
+      "en": "Those who practise quickly and well"
     },
     {
       "text": "是因为他们以前练习得很多",
@@ -202,7 +204,8 @@
           "at": 10.14,
           "zh": "很多"
         }
-      ]
+      ],
+      "en": "are the ones who practised a lot before."
     },
     {
       "text": "我们每个人的原始资本是不一样的，",
@@ -291,7 +294,8 @@
           "at": 22.8,
           "zh": "自己"
         }
-      ]
+      ],
+      "en": "Each of us has different starting capital,"
     },
     {
       "text": "就自己来给自己进一步地提升",
@@ -380,7 +384,8 @@
           "at": 22.8,
           "zh": "自己"
         }
-      ]
+      ],
+      "en": "so each of us has to develop ourselves further."
     }
   ]
 }

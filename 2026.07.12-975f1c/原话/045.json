@@ -112,7 +112,8 @@
           "text": "หรอก",
           "at": 6.72
         }
-      ]
+      ],
+      "en": "Some people make merit, then wish to be born as a Westerner's dog."
     },
     {
       "text": "那很困难的，没什么好的",
@@ -221,7 +222,8 @@
           "text": "หรอก",
           "at": 6.72
         }
-      ]
+      ],
+      "en": "That's hard, nothing good about it."
     },
     {
       "text": "不可能提升自己的，非常非常难的",
@@ -277,7 +279,8 @@
           "at": 10.7,
           "zh": "非常非常"
         }
-      ]
+      ],
+      "en": "There's no way to develop yourself. It's very, very hard."
     }
   ]
 }
