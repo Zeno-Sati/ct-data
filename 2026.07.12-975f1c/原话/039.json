@@ -357,7 +357,7 @@
       "beats": [
         {
           "text": "หลวง",
-          "at": 13.54,
+          "at": 14.35,
           "zh": "阿姜曼尊者"
         },
         {
@@ -440,5 +440,6 @@
       ],
       "en": "Luang Pu Mun said he was born as a wild dog for as many as 500 lifetimes in a row."
     }
-  ]
+  ],
+  "splitChecked": true
 }

@@ -124,7 +124,7 @@
         },
         {
           "text": "เรียน",
-          "at": 12.3,
+          "at": 13.95,
           "zh": "学习"
         },
         {
@@ -273,5 +273,6 @@
       ],
       "en": "and you'll get better and better."
     }
-  ]
+  ],
+  "splitChecked": true
 }

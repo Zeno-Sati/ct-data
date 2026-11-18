@@ -1054,7 +1054,8 @@
           ],
           "en": "and you end up more and more lost."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "3": {
       "v": 1,
@@ -1425,7 +1426,8 @@
           ],
           "en": "all day long, without stopping."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "4": {
       "v": 1,
@@ -1788,7 +1790,8 @@
           ],
           "en": "all day long, without stopping."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "5": {
       "v": 1,
@@ -1916,7 +1919,7 @@
             },
             {
               "text": "เรียน",
-              "at": 12.3,
+              "at": 13.95,
               "zh": "学习"
             },
             {
@@ -2065,7 +2068,8 @@
           ],
           "en": "and you'll get better and better."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "6": {
       "v": 1,
@@ -2456,7 +2460,8 @@
           ],
           "en": "so each of us has to develop ourselves further."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "8": {
       "v": 1,
@@ -2836,7 +2841,7 @@
           "beats": [
             {
               "text": "จุด",
-              "at": 13.66,
+              "at": 16.85,
               "zh": "弱点"
             },
             {
@@ -2940,7 +2945,7 @@
           "beats": [
             {
               "text": "จุด",
-              "at": 13.66,
+              "at": 16.85,
               "zh": "弱点"
             },
             {
@@ -3036,7 +3041,8 @@
           ],
           "en": "isn't right, and isn't enough."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "9": {
       "v": 1,
@@ -3445,7 +3451,8 @@
           ],
           "en": "then we should practise a lot."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "10": {
       "v": 1,
@@ -4012,7 +4019,8 @@
           ],
           "en": "It's not that meditating a lot and walking meditation a lot will always be good."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "12": {
       "v": 1,
@@ -4305,7 +4313,8 @@
           ],
           "en": "self-awareness is the starting point for fighting defilements."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "15": {
       "v": 1,
@@ -4931,7 +4940,8 @@
           ],
           "en": "So try hard to be aware of yourself."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "23": {
       "v": 1,
@@ -5246,7 +5256,8 @@
           ],
           "en": "with no awareness of yourself at all."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "26": {
       "v": 1,
@@ -5884,7 +5895,8 @@
           ],
           "en": "If you're tense or your mind wanders, you're no longer aware of yourself."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "27": {
       "v": 1,
@@ -6105,7 +6117,8 @@
           ],
           "en": "not forgetting oneself."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "28": {
       "v": 1,
@@ -6466,7 +6479,8 @@
           ],
           "en": "the body moving, the body still, keep on being aware."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "29": {
       "v": 1,
@@ -6772,7 +6786,8 @@
           ],
           "en": "be aware of that too."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "30": {
       "v": 1,
@@ -6880,7 +6895,7 @@
             },
             {
               "text": "จิต",
-              "at": 17.79,
+              "at": 18.95,
               "zh": "心"
             },
             {
@@ -7040,7 +7055,7 @@
             },
             {
               "text": "จิต",
-              "at": 17.79,
+              "at": 18.95,
               "zh": "心"
             },
             {
@@ -7200,7 +7215,7 @@
             },
             {
               "text": "จิต",
-              "at": 17.79,
+              "at": 18.95,
               "zh": "心"
             },
             {
@@ -7275,7 +7290,8 @@
           ],
           "en": "When the mind is dejected, be aware of it too."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "33": {
       "v": 1,
@@ -7732,7 +7748,8 @@
           ],
           "en": "feeling at ease, feeling happy."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "34": {
       "v": 1,
@@ -8067,7 +8084,8 @@
           ],
           "en": "we will be born as animals."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "36": {
       "v": 1,
@@ -8112,7 +8130,7 @@
             },
             {
               "text": "สัตว์",
-              "at": 2.06,
+              "at": 3.5,
               "zh": "地狱众生"
             },
             {
@@ -8179,7 +8197,7 @@
             },
             {
               "text": "สัตว์",
-              "at": 2.06,
+              "at": 3.5,
               "zh": "地狱众生"
             },
             {
@@ -8458,7 +8476,8 @@
           ],
           "en": "Most people feel that way."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "37": {
       "v": 1,
@@ -9112,7 +9131,8 @@
           ],
           "en": "with the most severe harm, the hardest to remove, and the hardest to see."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "39": {
       "v": 1,
@@ -9473,7 +9493,7 @@
           "beats": [
             {
               "text": "หลวง",
-              "at": 13.54,
+              "at": 14.35,
               "zh": "阿姜曼尊者"
             },
             {
@@ -9556,7 +9576,8 @@
           ],
           "en": "Luang Pu Mun said he was born as a wild dog for as many as 500 lifetimes in a row."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "40": {
       "v": 1,
@@ -9613,7 +9634,7 @@
             },
             {
               "text": "พอ",
-              "at": 3.68,
+              "at": 4.88,
               "zh": "知足"
             },
             {
@@ -10059,7 +10080,8 @@
           ],
           "en": "and it takes a very long time for that to change."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "41": {
       "v": 1,
@@ -10772,7 +10794,8 @@
           ],
           "en": "because it knows nothing at all."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "42": {
       "v": 1,
@@ -11501,7 +11524,8 @@
           ],
           "en": "one will be born as a hell being."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "43": {
       "v": 1,
@@ -11546,7 +11570,7 @@
             },
             {
               "text": "สัตว์",
-              "at": 2.06,
+              "at": 3.5,
               "zh": "地狱众生"
             },
             {
@@ -11613,7 +11637,7 @@
             },
             {
               "text": "สัตว์",
-              "at": 2.06,
+              "at": 3.5,
               "zh": "地狱众生"
             },
             {
@@ -11892,7 +11916,8 @@
           ],
           "en": "Most people feel that way."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "44": {
       "v": 1,
@@ -11947,7 +11972,7 @@
             },
             {
               "text": "บาง",
-              "at": 4.16,
+              "at": 5.15,
               "zh": "有时候"
             },
             {
@@ -12108,7 +12133,7 @@
             },
             {
               "text": "บาง",
-              "at": 4.16,
+              "at": 5.15,
               "zh": "有时候"
             },
             {
@@ -12269,7 +12294,7 @@
             },
             {
               "text": "บาง",
-              "at": 4.16,
+              "at": 5.15,
               "zh": "有时候"
             },
             {
@@ -12430,7 +12455,7 @@
             },
             {
               "text": "บาง",
-              "at": 4.16,
+              "at": 5.15,
               "zh": "有时候"
             },
             {
@@ -12580,7 +12605,7 @@
             },
             {
               "text": "ผิด",
-              "at": 14.28,
+              "at": 15.55,
               "zh": "是非对错"
             },
             {
@@ -12683,7 +12708,7 @@
             },
             {
               "text": "ผิด",
-              "at": 14.28,
+              "at": 15.55,
               "zh": "是非对错"
             },
             {
@@ -12751,7 +12776,8 @@
           ],
           "en": "so it's still above the animals."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "45": {
       "v": 1,
@@ -13037,7 +13063,8 @@
           ],
           "en": "There's no way to develop yourself. It's very, very hard."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "46": {
       "v": 1,
@@ -13072,7 +13099,7 @@
             },
             {
               "text": "จิต",
-              "at": 1.88,
+              "at": 2.65,
               "zh": "心灵"
             },
             {
@@ -13229,7 +13256,7 @@
             },
             {
               "text": "จิต",
-              "at": 1.88,
+              "at": 2.65,
               "zh": "心灵"
             },
             {
@@ -13386,7 +13413,7 @@
             },
             {
               "text": "จิต",
-              "at": 1.88,
+              "at": 2.65,
               "zh": "心灵"
             },
             {
@@ -13749,7 +13776,8 @@
           ],
           "en": "If other animals came into the house, it would not bite them."
         }
-      ]
+      ],
+      "splitChecked": true
     },
     "47": {
       "v": 1,
@@ -14036,7 +14064,8 @@
           ],
           "en": "and only then would it eat,"
         }
-      ]
+      ],
+      "splitChecked": true
     }
   }
 }

@@ -53,7 +53,7 @@
         },
         {
           "text": "พอ",
-          "at": 3.68,
+          "at": 4.88,
           "zh": "知足"
         },
         {
@@ -499,5 +499,6 @@
       ],
       "en": "and it takes a very long time for that to change."
     }
-  ]
+  ],
+  "splitChecked": true
 }

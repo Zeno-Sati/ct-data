@@ -31,7 +31,7 @@
         },
         {
           "text": "จิต",
-          "at": 1.88,
+          "at": 2.65,
           "zh": "心灵"
         },
         {
@@ -188,7 +188,7 @@
         },
         {
           "text": "จิต",
-          "at": 1.88,
+          "at": 2.65,
           "zh": "心灵"
         },
         {
@@ -345,7 +345,7 @@
         },
         {
           "text": "จิต",
-          "at": 1.88,
+          "at": 2.65,
           "zh": "心灵"
         },
         {
@@ -708,5 +708,6 @@
       ],
       "en": "If other animals came into the house, it would not bite them."
     }
-  ]
+  ],
+  "splitChecked": true
 }

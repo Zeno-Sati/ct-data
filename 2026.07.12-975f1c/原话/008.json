@@ -376,7 +376,7 @@
       "beats": [
         {
           "text": "จุด",
-          "at": 13.66,
+          "at": 16.85,
           "zh": "弱点"
         },
         {
@@ -480,7 +480,7 @@
       "beats": [
         {
           "text": "จุด",
-          "at": 13.66,
+          "at": 16.85,
           "zh": "弱点"
         },
         {
@@ -576,5 +576,6 @@
       ],
       "en": "isn't right, and isn't enough."
     }
-  ]
+  ],
+  "splitChecked": true
 }
