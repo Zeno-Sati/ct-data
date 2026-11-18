@@ -540,6 +540,24 @@
       "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
     },
     {
+      "thai": "ขโมย",
+      "roman": "khà-mooi",
+      "zh": "不偷盗",
+      "en": "steal",
+      "title": "狗也懂布施持戒",
+      "no": 50,
+      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
+    },
+    {
+      "thai": "ทำ ร้าย",
+      "roman": "tham-ráai",
+      "zh": "不伤害",
+      "en": "harm",
+      "title": "狗也懂布施持戒",
+      "no": 50,
+      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
+    },
+    {
       "thai": "พลาด",
       "roman": "phlâat",
       "zh": "失误",
@@ -677,17 +695,9 @@
       "titleEn": "Other"
     },
     {
-      "thai": "ขโมย",
-      "roman": "khà-mooi",
-      "zh": "不偷盗",
-      "en": "",
-      "title": "其他",
-      "titleEn": "Other"
-    },
-    {
-      "thai": "ทำ ร้าย",
-      "roman": "tham-ráai",
-      "zh": "不伤害",
+      "thai": "ทำ ทาน",
+      "roman": "tham-thaan",
+      "zh": "做布施",
       "en": "",
       "title": "其他",
       "titleEn": "Other"
@@ -743,6 +753,7 @@
       "อาหาร": 4,
       "กิเลส": 29,
       "ปัญญา": 26,
+      "ทำ ทาน": 2,
       "อดทน": 4,
       "โกรธ": 5,
       "เผลอ": 4,
@@ -752,10 +763,10 @@
       "ตั้ง": 17,
       "พอใจ": 6,
       "เก็บ": 5,
+      "ขโมย": 1,
       "พลาด": 2,
       "เห็น": 42,
       "สบาย": 8,
-      "ขโมย": 1,
       "สติ": 40,
       "ตึง": 1,
       "ตัว": 56,
@@ -768,7 +779,7 @@
       "บุญ": 17,
       "หมา": 18,
       "แมว": 6,
-      "ทาน": 1,
+      "ทาน": 0,
       "จิต": 112,
       "ขาด": 9,
       "ผล": 43,
