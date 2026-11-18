@@ -540,24 +540,6 @@
       "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
     },
     {
-      "thai": "ขโมย",
-      "roman": "khà-mooi",
-      "zh": "不偷盗",
-      "en": "steal",
-      "title": "狗也懂布施持戒",
-      "no": 50,
-      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
-    },
-    {
-      "thai": "ทำ ร้าย",
-      "roman": "tham-ráai",
-      "zh": "不伤害",
-      "en": "harm",
-      "title": "狗也懂布施持戒",
-      "no": 50,
-      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
-    },
-    {
       "thai": "ความรู้สึกตัว",
       "roman": "khwaam-rúu-sùek-tua",
       "zh": "觉知自己（名词）",
@@ -684,6 +666,22 @@
       "en": "at ease",
       "title": "其他",
       "titleEn": "Other"
+    },
+    {
+      "thai": "ขโมย",
+      "roman": "khà-mooi",
+      "zh": "不偷盗",
+      "en": "",
+      "title": "其他",
+      "titleEn": "Other"
+    },
+    {
+      "thai": "ทำ ร้าย",
+      "roman": "tham-ráai",
+      "zh": "不伤害",
+      "en": "",
+      "title": "其他",
+      "titleEn": "Other"
     }
   ],
   "coverage": {
@@ -745,9 +743,9 @@
       "ตั้ง": 17,
       "พอใจ": 6,
       "เก็บ": 5,
-      "ขโมย": 1,
       "เห็น": 42,
       "สบาย": 8,
+      "ขโมย": 1,
       "สติ": 40,
       "ตึง": 1,
       "ตัว": 56,
