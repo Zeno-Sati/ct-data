@@ -15,7 +15,30 @@
       "en": "mindfulness",
       "title": "没有觉性就是累积痴",
       "no": 1,
-      "titleEn": "Without Self-Awareness, You Pile Up Delusion"
+      "titleEn": "Without Self-Awareness, You Pile Up Delusion",
+      "count": 40,
+      "examples": [
+        {
+          "clip": "1",
+          "line": 0
+        },
+        {
+          "clip": "3",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "sati",
+        "meaning": "隆波讲的“觉性”，是心记得、知道当下自己的身体或心在做什么的那个能力。它不是思考，而是心自己清楚地知道；有了觉性，才能看到烦恼和心的变化。常说“有觉性”“觉性要常常生起”。",
+        "compare": [
+          {
+            "thai": "สมาธิ",
+            "zh": "定",
+            "diff": "สติ是知道、记得当下；สมาธิ是心稳定安住不动。"
+          }
+        ]
+      }
     },
     {
       "thai": "รู้สึกตัว",
@@ -24,7 +47,29 @@
       "en": "aware of oneself",
       "title": "整天不停地觉知自己",
       "no": 3,
-      "titleEn": "Be Aware of Yourself All Day Long"
+      "titleEn": "Be Aware of Yourself All Day Long",
+      "count": 16,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 2
+        },
+        {
+          "clip": "4",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "隆波最常用的词，意思是心清楚地知道自己此刻的身体、心在做什么，而不是迷失在妄念里。它是修行的基础，要一整天常常去做。用法如“รู้สึกตัวไว้”（保持觉知自己）。",
+        "compare": [
+          {
+            "thai": "ลืมตัวเอง",
+            "zh": "忘记自己",
+            "diff": "รู้สึกตัว是知道自己；ลืมตัวเอง是心跑掉、没有觉知自己。"
+          }
+        ]
+      }
     },
     {
       "thai": "สม่ำเสมอ",
@@ -33,7 +78,22 @@
       "en": "consistently",
       "title": "每一天都用心修行",
       "no": 4,
-      "titleEn": "Practice Wholeheartedly Every Day"
+      "titleEn": "Practice Wholeheartedly Every Day",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 2
+        },
+        {
+          "clip": "4",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指做事一直持续、规律、不间断。隆波常用来劝人修行要天天做、长期做，不是想起才做一下。"
+      }
     },
     {
       "thai": "อดทน",
@@ -42,7 +102,22 @@
       "en": "patience",
       "title": "学得慢就要忍耐",
       "no": 5,
-      "titleEn": "If You Learn Slowly, Have Patience"
+      "titleEn": "If You Learn Slowly, Have Patience",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "5",
+          "line": 1
+        },
+        {
+          "clip": "8",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "忍耐、耐得住，遇到困难、进步慢或不舒服时仍坚持下去。隆波说学得慢的人要靠这个，不断地学、不断地练。"
+      }
     },
     {
       "thai": "ต้นทุน",
@@ -52,7 +127,18 @@
       "title": "没有谁一开始就很棒",
       "here": "原始资本",
       "no": 6,
-      "titleEn": "No One Is Good from the Start"
+      "titleEn": "No One Is Good from the Start",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "6",
+          "line": 3
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "本意是做生意的本钱、资本。隆波借来比喻每个人过去积累下来的修行基础，各人不一样，所以进步的快慢也不同。"
+      }
     },
     {
       "thai": "สมาธิ",
@@ -61,7 +147,30 @@
       "en": "concentration",
       "title": "禅定要修对也要够",
       "no": 8,
-      "titleEn": "Practice Concentration Right, and Enough"
+      "titleEn": "Practice Concentration Right, and Enough",
+      "count": 21,
+      "examples": [
+        {
+          "clip": "1",
+          "line": 0
+        },
+        {
+          "clip": "8",
+          "line": 3
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "samādhi",
+        "meaning": "定，指心稳定、安住、不乱跑。隆波特别强调要是“正确的定”，也就是心有觉知地安住，而不是呆住或被定力吸进去、不知道自己。",
+        "compare": [
+          {
+            "thai": "สติ",
+            "zh": "觉性",
+            "diff": "สมาธิ是心稳住不动；สติ是心记得并知道当下。"
+          }
+        ]
+      }
     },
     {
       "thai": "ตั้งมั่น",
@@ -70,7 +179,18 @@
       "en": "firmly established",
       "title": "心没有真的安住",
       "no": 9,
-      "titleEn": "The Mind Isn't Really Firmly Established"
+      "titleEn": "The Mind Isn't Really Firmly Established",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "9",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "指心稳稳地安住、立在那里，是觉知的、不被念头拉走的状态。隆波讲正确的定时常用“心ตั้งมั่น”，心一跑出去就不再ตั้งมั่น。"
+      }
     },
     {
       "thai": "ปฏิบัติ",
@@ -79,7 +199,23 @@
       "en": "practice",
       "title": "知道方法然后修对",
       "no": 10,
-      "titleEn": "Know the Method, Then Do It Right"
+      "titleEn": "Know the Method, Then Do It Right",
+      "count": 8,
+      "examples": [
+        {
+          "clip": "9",
+          "line": 2
+        },
+        {
+          "clip": "10",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "paṭipatti",
+        "meaning": "修行，就是实际去做，把佛法用在自己的身心上。隆波强调修行不只是打坐，日常生活中除了睡觉和必须动脑工作的时间，其余时间都可以修。"
+      }
     },
     {
       "thai": "จุดตั้งต้น",
@@ -88,7 +224,18 @@
       "en": "starting point",
       "title": "觉知自己是修行契入点",
       "no": 12,
-      "titleEn": "Being Aware of Yourself Is the Starting Point"
+      "titleEn": "Being Aware of Yourself Is the Starting Point",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "12",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "起点、出发点，由“จุด（点）”和“ตั้งต้น（开始）”组成。隆波用来说明觉知自己是修行的起点，从这里才能开始对治烦恼。"
+      }
     },
     {
       "thai": "ลืมตัวเอง",
@@ -97,7 +244,25 @@
       "en": "forget oneself",
       "title": "要努力地去觉知自己",
       "no": 15,
-      "titleEn": "Make an Effort to Be Aware of Yourself"
+      "titleEn": "Make an Effort to Be Aware of Yourself",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "15",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "字面是“忘记自己”，指心被妄念、情绪或外境带走，没有觉知自己的身心。隆波常说一般人一整天都在这种状态里，所以要练习รู้สึกตัว。",
+        "compare": [
+          {
+            "thai": "รู้สึกตัว",
+            "zh": "觉知自己",
+            "diff": "ลืมตัวเอง是迷失、没觉知；รู้สึกตัว是清楚知道自己。"
+          }
+        ]
+      }
     },
     {
       "thai": "หายใจ",
@@ -106,7 +271,29 @@
       "en": "breathe",
       "title": "呼吸时觉知自己",
       "no": 23,
-      "titleEn": "Be Aware of Yourself While You Breathe"
+      "titleEn": "Be Aware of Yourself While You Breathe",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "23",
+          "line": 2
+        },
+        {
+          "clip": "28",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "呼吸，把气吸进来再呼出去。隆波常说“看见身体在呼吸”，是把呼吸当作身体的活动来觉知，而不是去控制它。",
+        "compare": [
+          {
+            "thai": "ลมหายใจ",
+            "zh": "气息、呼吸的气",
+            "diff": "หายใจ 是动作“呼吸”，ลมหายใจ 指呼吸时进出的那股气。"
+          }
+        ]
+      }
     },
     {
       "thai": "หายใจออก",
@@ -115,7 +302,25 @@
       "en": "breathe out",
       "title": "呼吸时觉知自己",
       "no": 23,
-      "titleEn": "Be Aware of Yourself While You Breathe"
+      "titleEn": "Be Aware of Yourself While You Breathe",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "23",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "呼气，由 หายใจ（呼吸）加 ออก（出）组成。隆波教人在呼气时知道身体正在呼气，保持觉知。",
+        "compare": [
+          {
+            "thai": "หายใจเข้า",
+            "zh": "吸气",
+            "diff": "方向相反，หายใจเข้า 是吸进来，หายใจออก 是呼出去。"
+          }
+        ]
+      }
     },
     {
       "thai": "หายใจเข้า",
@@ -124,7 +329,25 @@
       "en": "breathe in",
       "title": "呼吸时觉知自己",
       "no": 23,
-      "titleEn": "Be Aware of Yourself While You Breathe"
+      "titleEn": "Be Aware of Yourself While You Breathe",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "23",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "吸气，由 หายใจ（呼吸）加 เข้า（进）组成。隆波教人在吸气时知道身体正在吸气，保持觉知。",
+        "compare": [
+          {
+            "thai": "หายใจออก",
+            "zh": "呼气",
+            "diff": "方向相反，หายใจออก 是呼出去，หายใจเข้า 是吸进来。"
+          }
+        ]
+      }
     },
     {
       "thai": "ใจลอย",
@@ -134,7 +357,25 @@
       "title": "走神太松苦闷太紧",
       "here": "走神",
       "no": 26,
-      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight"
+      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "26",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "心飘走、走神发呆，人在这里，心却不知道飘到哪里去了。隆波讲这是觉知太松、失去觉知的状态，和“太紧”是两个极端。",
+        "compare": [
+          {
+            "thai": "เคร่ง",
+            "zh": "太严、太紧绷",
+            "diff": "ใจลอย 是太松、心飘走，เคร่ง 是太用力、绷得太紧，两者都不是正确的觉知。"
+          }
+        ]
+      }
     },
     {
       "thai": "เคร่ง",
@@ -144,7 +385,25 @@
       "title": "走神太松苦闷太紧",
       "here": "苦闷",
       "no": 26,
-      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight"
+      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "26",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "严格、绷紧，指修行时过于用力、板着脸逼自己。隆波提醒这样会变成苦闷紧张，反而不是自然的觉知。",
+        "compare": [
+          {
+            "thai": "ตึง",
+            "zh": "紧",
+            "diff": "ตึง 指拉得紧、绷得紧的状态，เคร่ง 更偏向对自己要求严、过于认真用力。"
+          }
+        ]
+      }
     },
     {
       "thai": "ตึง",
@@ -153,7 +412,25 @@
       "en": "too tight",
       "title": "走神太松苦闷太紧",
       "no": 26,
-      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight"
+      "titleEn": "Wandering Is Too Loose; Strain Is Too Tight",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "26",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "紧、绷紧，像绳子拉得太紧。隆波用它形容修行时心或身体太用力、太紧张，与“松”相对。",
+        "compare": [
+          {
+            "thai": "เคร่ง",
+            "zh": "太严",
+            "diff": "เคร่ง 偏指对自己要求太严、太用力，ตึง 是紧绷这个感觉本身。"
+          }
+        ]
+      }
     },
     {
       "thai": "ตัว",
@@ -162,7 +439,29 @@
       "en": "oneself",
       "title": "让心和自己在一起",
       "no": 27,
-      "titleEn": "Keep Your Mind with Yourself"
+      "titleEn": "Keep Your Mind with Yourself",
+      "count": 56,
+      "examples": [
+        {
+          "clip": "6",
+          "line": 3
+        },
+        {
+          "clip": "15",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "本义是身体、个体，也可以指“自己”。隆波说 รู้สึกตัว（觉知自己）时，指知道身体和心此刻正在做什么、是什么状态。",
+        "compare": [
+          {
+            "thai": "ตน",
+            "zh": "自身、自己",
+            "diff": "ตน 更书面、更庄重，ตัว 是日常口语里的“身、自己”。"
+          }
+        ]
+      }
     },
     {
       "thai": "ร่างกาย",
@@ -171,7 +470,29 @@
       "en": "body",
       "title": "身体行住坐卧不停觉知",
       "no": 28,
-      "titleEn": "Keep Aware of Your Body, Moving or Still"
+      "titleEn": "Keep Aware of Your Body, Moving or Still",
+      "count": 20,
+      "examples": [
+        {
+          "clip": "23",
+          "line": 0
+        },
+        {
+          "clip": "28",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "身体，指整个身躯。隆波常说“看见身体在动、在呼吸”，把身体当作被观察的对象，而不是“我”。",
+        "compare": [
+          {
+            "thai": "กาย",
+            "zh": "身",
+            "diff": "กาย 更短、更偏佛法用语，ร่างกาย 是日常说的整个身体。"
+          }
+        ]
+      }
     },
     {
       "thai": "เคลื่อนไหว",
@@ -180,7 +501,25 @@
       "en": "move",
       "title": "身体行住坐卧不停觉知",
       "no": 28,
-      "titleEn": "Keep Aware of Your Body, Moving or Still"
+      "titleEn": "Keep Aware of Your Body, Moving or Still",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "28",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "移动、动作，指身体在动。隆波说“身体移动、身体静止都要觉知”，也用来说喜欢动的修行方式，如经行、做家务。",
+        "compare": [
+          {
+            "thai": "หยุดนิ่ง",
+            "zh": "静止",
+            "diff": "意思相反，เคลื่อนไหว 是在动，หยุดนิ่ง 是停下来不动。"
+          }
+        ]
+      }
     },
     {
       "thai": "หยุดนิ่ง",
@@ -189,7 +528,25 @@
       "en": "be still",
       "title": "身体行住坐卧不停觉知",
       "no": 28,
-      "titleEn": "Keep Aware of Your Body, Moving or Still"
+      "titleEn": "Keep Aware of Your Body, Moving or Still",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "28",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "停下来不动、静止。指身体停住的状态，隆波说动或不动时都要不停地觉知。",
+        "compare": [
+          {
+            "thai": "เคลื่อนไหว",
+            "zh": "移动",
+            "diff": "意思相反，เคลื่อนไหว 是在动，หยุดนิ่ง 是停住不动。"
+          }
+        ]
+      }
     },
     {
       "thai": "ความสุข",
@@ -198,7 +555,30 @@
       "en": "happiness",
       "title": "乐苦生起都要觉知",
       "no": 29,
-      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself"
+      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself",
+      "count": 20,
+      "examples": [
+        {
+          "clip": "29",
+          "line": 0
+        },
+        {
+          "clip": "33",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "sukha",
+        "meaning": "指乐、舒服的感受。隆波讲，乐和苦一样，只是身体或心里生起的一种感受，是觉知的对象，不是“我”的乐。有乐生起时只需知道它在，不必抓着它不放。",
+        "compare": [
+          {
+            "thai": "ความทุกข์",
+            "zh": "苦",
+            "diff": "ความสุข是乐受，ความทุกข์是苦受，两者都只是会来会去的感受。"
+          }
+        ]
+      }
     },
     {
       "thai": "เกิดขึ้น",
@@ -207,7 +587,18 @@
       "en": "arise",
       "title": "乐苦生起都要觉知",
       "no": 29,
-      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself"
+      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself",
+      "count": 12,
+      "examples": [
+        {
+          "clip": "29",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指某个东西出现、生起。隆波常说“某某生起了就去觉知”，如乐、苦、贪、嗔生起，强调它们是自己来、自己去的，不是我们造出来的。"
+      }
     },
     {
       "thai": "ความทุกข์",
@@ -216,7 +607,30 @@
       "en": "suffering",
       "title": "乐苦生起都要觉知",
       "no": 29,
-      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself"
+      "titleEn": "Happiness or Suffering Arises: Be Aware of Yourself",
+      "count": 10,
+      "examples": [
+        {
+          "clip": "29",
+          "line": 0
+        },
+        {
+          "clip": "42",
+          "line": 1
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "dukkha",
+        "meaning": "作感受讲时，指身体或心里不舒服的苦受，是觉知的对象。隆波也用它指四圣谛中的苦，即心被逼迫、不自在的状态，但这里只是前一种用法。",
+        "compare": [
+          {
+            "thai": "ความสุข",
+            "zh": "乐",
+            "diff": "ความสุข是舒服的感受，ความทุกข์是不舒服的感受。"
+          }
+        ]
+      }
     },
     {
       "thai": "โลภ",
@@ -225,7 +639,26 @@
       "en": "greed",
       "title": "贪消失了也要觉知",
       "no": 30,
-      "titleEn": "Be Aware Even When Greed Disappears"
+      "titleEn": "Be Aware Even When Greed Disappears",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "30",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "lobha",
+        "meaning": "贪，指心想要、想得到、粘着不放的烦恼。隆波教人在贪生起时直接觉知它，贪消失了也知道，不用去压制。",
+        "compare": [
+          {
+            "thai": "โกรธ",
+            "zh": "生气",
+            "diff": "โลภ是心想要、想靠近，โกรธ是心排斥、不喜欢。"
+          }
+        ]
+      }
     },
     {
       "thai": "โกรธ",
@@ -234,7 +667,25 @@
       "en": "anger",
       "title": "贪消失了也要觉知",
       "no": 30,
-      "titleEn": "Be Aware Even When Greed Disappears"
+      "titleEn": "Be Aware Even When Greed Disappears",
+      "count": 5,
+      "examples": [
+        {
+          "clip": "30",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "生气，是心里不满、排斥而发火的烦恼，属于嗔一类。隆波教人看到生气生起、又消失，只是觉知它，不用跟它纠缠，也不用压下去。",
+        "compare": [
+          {
+            "thai": "โลภ",
+            "zh": "贪",
+            "diff": "โกรธ是排斥、不喜欢，โลภ是想要、粘着。"
+          }
+        ]
+      }
     },
     {
       "thai": "ฟุ้งซ่าน",
@@ -243,7 +694,19 @@
       "en": "restlessness",
       "title": "贪消失了也要觉知",
       "no": 30,
-      "titleEn": "Be Aware Even When Greed Disappears"
+      "titleEn": "Be Aware Even When Greed Disappears",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "30",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "uddhacca",
+        "meaning": "散乱，指心飘来飘去、静不下来，思绪乱飞。隆波把它当作一种心的状态，来了就知道，不必赶走。也可以用在日常，形容人心浮、静不下来。"
+      }
     },
     {
       "thai": "หลง",
@@ -252,7 +715,29 @@
       "en": "lost",
       "title": "不知觉知自己的价值",
       "no": 33,
-      "titleEn": "Missing the Value of Being Aware of Yourself"
+      "titleEn": "Missing the Value of Being Aware of Yourself",
+      "count": 16,
+      "examples": [
+        {
+          "clip": "1",
+          "line": 2
+        },
+        {
+          "clip": "9",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "迷失，指心跑去想事、被念头或外境带走，却不知道自己在迷失。隆波常用它与“觉知”相对，能知道自己迷失了，就不再是迷失。",
+        "compare": [
+          {
+            "thai": "เผลอ",
+            "zh": "恍惚、走神",
+            "diff": "หลง是整个心迷进去、被带走，เผลอ是一时失去觉知、没留意。"
+          }
+        ]
+      }
     },
     {
       "thai": "เผลอ",
@@ -261,7 +746,34 @@
       "en": "absent-minded",
       "title": "不知觉知自己的价值",
       "no": 33,
-      "titleEn": "Missing the Value of Being Aware of Yourself"
+      "titleEn": "Missing the Value of Being Aware of Yourself",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "33",
+          "line": 2
+        },
+        {
+          "clip": "34",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指一时疏忽、走神，忘了觉知自己。隆波常用来说心忘记了觉知，跑去想事或看外面，不是什么大错，知道了就回来。",
+        "compare": [
+          {
+            "thai": "หลง",
+            "zh": "迷失",
+            "diff": "เผลอ偏向一下子没留意，หลง偏向心被带进去、迷在里面。"
+          },
+          {
+            "thai": "เพลิน",
+            "zh": "陶醉",
+            "diff": "เพลิน是沉浸在喜欢的事里，เผลอ是单纯失去觉知，不一定有享受。"
+          }
+        ]
+      }
     },
     {
       "thai": "เพลิน",
@@ -270,7 +782,25 @@
       "en": "carried away",
       "title": "不知觉知自己的价值",
       "no": 33,
-      "titleEn": "Missing the Value of Being Aware of Yourself"
+      "titleEn": "Missing the Value of Being Aware of Yourself",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "33",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指沉浸在某件事里觉得愉快，玩得入神、忘了时间。隆波讲，心陶醉在念头或外境里就是迷失，虽然觉得舒服，却是不觉知的状态。",
+        "compare": [
+          {
+            "thai": "เผลอ",
+            "zh": "恍惚、走神",
+            "diff": "เพลิน带着愉快、享受的味道，เผลอ只是没留意。"
+          }
+        ]
+      }
     },
     {
       "thai": "อันตราย",
@@ -279,7 +809,18 @@
       "en": "danger",
       "title": "走神的心非常危险",
       "no": 34,
-      "titleEn": "A Wandering Mind Is Very Dangerous"
+      "titleEn": "A Wandering Mind Is Very Dangerous",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "34",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "危险，指可能带来伤害或坏结果的事。隆波用它提醒，心走神、陶醉看似舒服，其实是在累积痴，对修行有害。"
+      }
     },
     {
       "thai": "ผล",
@@ -289,7 +830,26 @@
       "title": "走神的心非常危险",
       "here": "果报",
       "no": 34,
-      "titleEn": "A Wandering Mind Is Very Dangerous"
+      "titleEn": "A Wandering Mind Is Very Dangerous",
+      "count": 43,
+      "examples": [
+        {
+          "clip": "34",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "phala",
+        "meaning": "结果、果报。隆波讲业的时候，指做了善或不善的事（因）之后，到时候成熟现前的结果，比如带着痴死去，果报现前就去投生为畜生。也可以泛指一般的结果、成果。",
+        "compare": [
+          {
+            "thai": "วิบาก",
+            "zh": "异熟果报",
+            "diff": "วิบาก专指业成熟后所受的果报，ผล范围更广，也可指一般结果。"
+          }
+        ]
+      }
     },
     {
       "thai": "สัตว์ เดรัจฉาน",
@@ -298,7 +858,30 @@
       "en": "animals",
       "title": "走神的心非常危险",
       "no": 34,
-      "titleEn": "A Wandering Mind Is Very Dangerous"
+      "titleEn": "A Wandering Mind Is Very Dangerous",
+      "count": 8,
+      "examples": [
+        {
+          "clip": "34",
+          "line": 2
+        },
+        {
+          "clip": "36",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "tiracchāna",
+        "meaning": "畜生，四恶道之一。隆波说带着痴的心死去，果报现前，就会投生到畜生道。用法上指畜生道的众生，不只是普通动物。",
+        "compare": [
+          {
+            "thai": "สัตว์",
+            "zh": "动物、众生",
+            "diff": "สัตว์是泛称的动物或众生，สัตว์ เดรัจฉาน特指畜生道。"
+          }
+        ]
+      }
     },
     {
       "thai": "อบาย ภูมิ",
@@ -307,7 +890,23 @@
       "en": "the woeful realms",
       "title": "畜生因痴而生",
       "no": 36,
-      "titleEn": "Animals Are Born from Delusion"
+      "titleEn": "Animals Are Born from Delusion",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "36",
+          "line": 0
+        },
+        {
+          "clip": "42",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "apāyabhūmi",
+        "meaning": "恶道，指没有快乐、容易受苦的生存界，共四种：地狱、阿修罗（饿鬼的一类）、饿鬼、畜生。隆波讲这个，是提醒大家心被痴、嗔、贪带着走的危险。"
+      }
     },
     {
       "thai": "นรก",
@@ -316,7 +915,21 @@
       "en": "hell",
       "title": "畜生因痴而生",
       "no": 36,
-      "titleEn": "Animals Are Born from Delusion"
+      "titleEn": "Animals Are Born from Delusion",
+      "count": 1,
+      "examples": [],
+      "kind": "法义词",
+      "detail": {
+        "pali": "niraya",
+        "meaning": "地狱，恶道中受苦最重的一界。隆波说带着嗔心死去，容易去投生为地狱众生。",
+        "compare": [
+          {
+            "thai": "เปรต",
+            "zh": "饿鬼",
+            "diff": "นรก主要由嗔而去，เปรต则多由贪、粘着而去。"
+          }
+        ]
+      }
     },
     {
       "thai": "เปรต",
@@ -326,7 +939,30 @@
       "title": "畜生因痴而生",
       "here": "饿鬼道",
       "no": 36,
-      "titleEn": "Animals Are Born from Delusion"
+      "titleEn": "Animals Are Born from Delusion",
+      "count": 34,
+      "examples": [
+        {
+          "clip": "36",
+          "line": 0
+        },
+        {
+          "clip": "43",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "peta",
+        "meaning": "饿鬼，恶道之一。隆波说心里还有贪、有粘着和抓取，死去时就可能去投生为饿鬼。",
+        "compare": [
+          {
+            "thai": "นรก",
+            "zh": "地狱",
+            "diff": "เปรต是饥渴不满的鬼道，นรก是受苦更重的地狱。"
+          }
+        ]
+      }
     },
     {
       "thai": "เกิด",
@@ -336,7 +972,29 @@
       "title": "畜生带着痴来出生",
       "here": "投生",
       "no": 37,
-      "titleEn": "Animals Are Born Carrying Delusion"
+      "titleEn": "Animals Are Born Carrying Delusion",
+      "count": 59,
+      "examples": [
+        {
+          "clip": "34",
+          "line": 2
+        },
+        {
+          "clip": "37",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "出生、生起。可以说人或众生投生，也可以说心里、身体里的感受或状态生起，比如乐、苦生起了要去觉知。隆波常用เกิดขึ้น来讲法尘在身心里的生灭。",
+        "compare": [
+          {
+            "thai": "ตาย",
+            "zh": "死",
+            "diff": "เกิด是生起，ตาย是灭去，两者相对。"
+          }
+        ]
+      }
     },
     {
       "thai": "โมหะ",
@@ -345,7 +1003,30 @@
       "en": "delusion",
       "title": "畜生带着痴来出生",
       "no": 37,
-      "titleEn": "Animals Are Born Carrying Delusion"
+      "titleEn": "Animals Are Born Carrying Delusion",
+      "count": 12,
+      "examples": [
+        {
+          "clip": "1",
+          "line": 0
+        },
+        {
+          "clip": "34",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "moha",
+        "meaning": "痴，不知道真相、迷糊的烦恼。隆波常说走神、恍惚、迷失在念头里，没有觉性，都是在累积痴。",
+        "compare": [
+          {
+            "thai": "อวิชชา",
+            "zh": "无明",
+            "diff": "两者意思很近，โมหะ常指心里痴的状态，อวิชชา指不知四圣谛的根本无明。"
+          }
+        ]
+      }
     },
     {
       "thai": "สัตว์",
@@ -354,7 +1035,30 @@
       "en": "animal",
       "title": "投生为动物会一直重复",
       "no": 39,
-      "titleEn": "Being Born as an Animal Keeps Repeating"
+      "titleEn": "Being Born as an Animal Keeps Repeating",
+      "count": 21,
+      "examples": [
+        {
+          "clip": "37",
+          "line": 2
+        },
+        {
+          "clip": "39",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "pali": "satta",
+        "meaning": "动物，也可指众生。在讲轮回时，多指有情众生，如สัตว์ นรก（地狱众生）。单独用时多指动物，比如野兽。",
+        "compare": [
+          {
+            "thai": "สัตว์ เดรัจฉาน",
+            "zh": "畜生",
+            "diff": "สัตว์是泛称，สัตว์ เดรัจฉาน特指畜生道的众生。"
+          }
+        ]
+      }
     },
     {
       "thai": "ตั้ง",
@@ -364,7 +1068,22 @@
       "title": "投生为动物会一直重复",
       "here": "连续",
       "no": 39,
-      "titleEn": "Being Born as an Animal Keeps Repeating"
+      "titleEn": "Being Born as an Animal Keeps Repeating",
+      "count": 17,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 0
+        },
+        {
+          "clip": "4",
+          "line": 0
+        }
+      ],
+      "kind": "小词",
+      "detail": {
+        "meaning": "放在数量前面，表示数量多得出乎意料，如“多达”；也常说ตั้งแต่（从……起）。另外ตั้ง作动词是设立、安放，如ตั้งใจ（用心、下决心）。"
+      }
     },
     {
       "thai": "พอใจ",
@@ -373,7 +1092,29 @@
       "en": "satisfied",
       "title": "众生黏着在状态里",
       "no": 40,
-      "titleEn": "Beings Get Stuck in Their Mental States"
+      "titleEn": "Beings Get Stuck in Their Mental States",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "33",
+          "line": 2
+        },
+        {
+          "clip": "40",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "满意、喜欢、知足。隆波讲到心里喜欢某种状态，比如满意于恍惚迷失的快乐，其实是被烦恼带着走。",
+        "compare": [
+          {
+            "thai": "เพลิดเพลิน",
+            "zh": "陶醉、玩得开心",
+            "diff": "พอใจ是满意、认可，เพลิดเพลิน是沉浸其中、乐在其中。"
+          }
+        ]
+      }
     },
     {
       "thai": "ติด",
@@ -382,7 +1123,25 @@
       "en": "stuck · attached",
       "title": "众生黏着在状态里",
       "no": 40,
-      "titleEn": "Beings Get Stuck in Their Mental States"
+      "titleEn": "Beings Get Stuck in Their Mental States",
+      "count": 10,
+      "examples": [
+        {
+          "clip": "40",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "本义是黏住、卡住，也指连上、沾上。隆波常用来说心黏着、执着在某个境界或状态上，例如心黏着在欲界、黏着在某种存在状态里；心一黏住就不自由了。",
+        "compare": [
+          {
+            "thai": "ยึด",
+            "zh": "抓取、执取",
+            "diff": "ติด 是心被黏住、粘在上面；ยึด 是心主动抓着不放。"
+          }
+        ]
+      }
     },
     {
       "thai": "คน",
@@ -391,7 +1150,29 @@
       "en": "person",
       "title": "众生黏着在状态里",
       "no": 40,
-      "titleEn": "Beings Get Stuck in Their Mental States"
+      "titleEn": "Beings Get Stuck in Their Mental States",
+      "count": 55,
+      "examples": [
+        {
+          "clip": "5",
+          "line": 0
+        },
+        {
+          "clip": "6",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "人。指人类，也可以泛指某个人、某类人，前面常加 บาง（有的）、ที่（……的）来说「有的人」「那些人」。",
+        "compare": [
+          {
+            "thai": "มนุษย์",
+            "zh": "人类",
+            "diff": "มนุษย์ 较书面、指整体的人类或人道；คน 是口语常用的「人」。"
+          }
+        ]
+      }
     },
     {
       "thai": "โทษ",
@@ -401,7 +1182,35 @@
       "title": "投生为动物副作用最强",
       "here": "副作用",
       "no": 41,
-      "titleEn": "Being Born an Animal: Strongest Side Effects"
+      "titleEn": "Being Born an Animal: Strongest Side Effects",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "37",
+          "line": 2
+        },
+        {
+          "clip": "41",
+          "line": 1
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "dosa（泰语此义多对应 ādīnava）",
+        "meaning": "指过失、害处、坏的后果。隆波讲的 มีโทษ 是说某件事、某种烦恼会带来苦的后果，副作用大。注意它与巴利语 dosa（嗔）写法相近，但在这里是「过患、害处」的意思。",
+        "compare": [
+          {
+            "thai": "ประโยชน์",
+            "zh": "利益",
+            "diff": "โทษ 是害处、坏的后果；ประโยชน์ 是好处。"
+          },
+          {
+            "thai": "โทสะ",
+            "zh": "嗔",
+            "diff": "โทสะ 是嗔恨这种烦恼；โทษ 是过失与害处。"
+          }
+        ]
+      }
     },
     {
       "thai": "ร้ายแรง",
@@ -411,7 +1220,29 @@
       "title": "投生为动物副作用最强",
       "here": "最强的",
       "no": 41,
-      "titleEn": "Being Born an Animal: Strongest Side Effects"
+      "titleEn": "Being Born an Animal: Strongest Side Effects",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "37",
+          "line": 2
+        },
+        {
+          "clip": "41",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "严重、厉害、后果很重。常放在 โทษ 等词后面，说害处很大、很严重，如 มีโทษร้ายแรง。",
+        "compare": [
+          {
+            "thai": "รุนแรง",
+            "zh": "猛烈、激烈",
+            "diff": "ร้ายแรง 强调坏的程度严重；รุนแรง 强调力度猛烈，不一定是坏事。"
+          }
+        ]
+      }
     },
     {
       "thai": "ผิดชอบชั่วดี",
@@ -420,7 +1251,29 @@
       "en": "right and wrong",
       "title": "投生为动物副作用最强",
       "no": 41,
-      "titleEn": "Being Born an Animal: Strongest Side Effects"
+      "titleEn": "Being Born an Animal: Strongest Side Effects",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "41",
+          "line": 1
+        },
+        {
+          "clip": "44",
+          "line": 4
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "是非对错、善恶好坏。说 รู้ผิดชอบชั่วดี 就是懂得分辨什么对、什么错、什么善、什么恶。隆波说动物因为痴重，不知道这些。",
+        "compare": [
+          {
+            "thai": "บาปบุญ",
+            "zh": "罪与功德",
+            "diff": "บาปบุญ 讲的是业的善恶与福报；ผิดชอบชั่วดี 讲的是分辨对错善恶的能力。"
+          }
+        ]
+      }
     },
     {
       "thai": "สัตว์ นรก",
@@ -429,7 +1282,35 @@
       "en": "hell beings",
       "title": "带着嗔心死去投生地狱",
       "no": 42,
-      "titleEn": "Die with Anger, Be Born in Hell"
+      "titleEn": "Die with Anger, Be Born in Hell",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "36",
+          "line": 0
+        },
+        {
+          "clip": "42",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "niraya-satta",
+        "meaning": "指投生在地狱的众生。隆波讲，临死时心被嗔恨等强烈的烦恼占据、满是痛苦，就容易去到这样的地方。是四恶道之一。",
+        "compare": [
+          {
+            "thai": "เปรต",
+            "zh": "饿鬼",
+            "diff": "饿鬼是另一类恶道众生，常受饥渴之苦；地狱众生受的是更重的苦刑。"
+          },
+          {
+            "thai": "สัตว์ เดรัจฉาน",
+            "zh": "畜生",
+            "diff": "畜生就是一般的动物，也属恶道，但苦比地狱轻。"
+          }
+        ]
+      }
     },
     {
       "thai": "ครอบ งำ",
@@ -438,7 +1319,22 @@
       "en": "dominate",
       "title": "带着嗔心死去投生地狱",
       "no": 42,
-      "titleEn": "Die with Anger, Be Born in Hell"
+      "titleEn": "Die with Anger, Be Born in Hell",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "42",
+          "line": 1
+        },
+        {
+          "clip": "51",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指被某种力量压住、控制住。隆波常用来说烦恼（嗔、痴等）占据了心，让心不由自主地被它牵着走。"
+      }
     },
     {
       "thai": "สำนึก",
@@ -448,7 +1344,25 @@
       "title": "地狱众生也会后悔",
       "here": "意识",
       "no": 44,
-      "titleEn": "Hell Beings Feel Regret Too"
+      "titleEn": "Hell Beings Feel Regret Too",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "44",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "意识到、醒悟、反省而生出的悔悟与良知。常指意识到自己做错了、不该这样做，如 สำนึกได้ 是「能够醒悟过来」。",
+        "compare": [
+          {
+            "thai": "เสียใจ",
+            "zh": "难过、后悔",
+            "diff": "เสียใจ 只是伤心遗憾；สำนึก 带有醒悟、认识到错误的意思。"
+          }
+        ]
+      }
     },
     {
       "thai": "รู้",
@@ -458,7 +1372,35 @@
       "title": "地狱众生也会后悔",
       "here": "后悔",
       "no": 44,
-      "titleEn": "Hell Beings Feel Regret Too"
+      "titleEn": "Hell Beings Feel Regret Too",
+      "count": 129,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 2
+        },
+        {
+          "clip": "4",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "jānāti（相关：ñāṇa）",
+        "meaning": "知道。日常指知道、懂得、学会；隆波讲禅修时，รู้ 指心有觉知地看着，如 รู้สึกตัว（觉知自己）、รู้กาย รู้ใจ，是重点在「知」而不是在「想」。",
+        "compare": [
+          {
+            "thai": "คิด",
+            "zh": "想、思考",
+            "diff": "คิด 是脑子里想；รู้ 是直接觉知，隆波强调要分清两者。"
+          },
+          {
+            "thai": "รู้สึก",
+            "zh": "感觉到",
+            "diff": "รู้สึก 是感受到、觉到；รู้ 范围更广，包括知道与学会。"
+          }
+        ]
+      }
     },
     {
       "thai": "บุญ",
@@ -467,7 +1409,35 @@
       "en": "merit",
       "title": "祈愿投生为狗很困难",
       "no": 45,
-      "titleEn": "Wishing to Be Born a Dog Is Hard"
+      "titleEn": "Wishing to Be Born a Dog Is Hard",
+      "count": 17,
+      "examples": [
+        {
+          "clip": "45",
+          "line": 0
+        },
+        {
+          "clip": "51",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "puñña",
+        "meaning": "功德、福报。指做善事、持戒、修行带来的善的力量，能让心清净、让人得到好的果报。隆波常说，修心、有觉知所得的功德最大。",
+        "compare": [
+          {
+            "thai": "กุศล",
+            "zh": "善",
+            "diff": "กุศล 是善的心与善法本身；บุญ 偏重行善之后积累的福德与果报。"
+          },
+          {
+            "thai": "บาป",
+            "zh": "恶业、罪",
+            "diff": "บาป 是恶行带来的不好的结果；บุญ 是善行带来的好结果。"
+          }
+        ]
+      }
     },
     {
       "thai": "อธิษฐาน",
@@ -476,7 +1446,26 @@
       "en": "make a wish",
       "title": "祈愿投生为狗很困难",
       "no": 45,
-      "titleEn": "Wishing to Be Born a Dog Is Hard"
+      "titleEn": "Wishing to Be Born a Dog Is Hard",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "45",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "adhiṭṭhāna",
+        "meaning": "原指下定决心、坚定的意愿，日常多用来指做了功德之后许愿、祈愿。隆波的开示里常提到有人做完功德就祈愿来世如何如何，他会指出这样的愿未必真有好处。",
+        "compare": [
+          {
+            "thai": "ปรารถนา",
+            "zh": "希望、渴望",
+            "diff": "ปรารถนา 是心里想要、渴望；อธิษฐาน 是明确地许愿或下决心。"
+          }
+        ]
+      }
     },
     {
       "thai": "พัฒนา",
@@ -485,7 +1474,29 @@
       "en": "develop",
       "title": "祈愿投生为狗很困难",
       "no": 45,
-      "titleEn": "Wishing to Be Born a Dog Is Hard"
+      "titleEn": "Wishing to Be Born a Dog Is Hard",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "45",
+          "line": 2
+        },
+        {
+          "clip": "46",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指让某样东西变好、进步、发展。用在修行上，常说 พัฒนาจิตใจ，意思是提升、培养自己的心。",
+        "compare": [
+          {
+            "thai": "เจริญ",
+            "zh": "增长、兴盛",
+            "diff": "เจริญ 偏指自然增长、兴盛；พัฒนา 偏指有意识地去提升、改进。"
+          }
+        ]
+      }
     },
     {
       "thai": "จิตใจ",
@@ -495,7 +1506,34 @@
       "title": "能提升心灵水平的狗",
       "here": "心灵水平",
       "no": 46,
-      "titleEn": "Dogs That Can Develop Their Minds"
+      "titleEn": "Dogs That Can Develop Their Minds",
+      "count": 15,
+      "examples": [
+        {
+          "clip": "27",
+          "line": 0
+        },
+        {
+          "clip": "29",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "泛指心、心灵，由 จิต（心）和 ใจ（心）两个词合成，日常用语里指内心、心地、精神层面。隆波讲到乐、苦、不苦不乐在心里生起时，就用这个词指它们发生的地方。",
+        "compare": [
+          {
+            "thai": "จิต",
+            "zh": "心（法义上的心）",
+            "diff": "จิต 来自巴利语 citta，是讲法时指能知、能觉知的那个心；จิตใจ 是日常的口语说法，更笼统。"
+          },
+          {
+            "thai": "ใจ",
+            "zh": "心",
+            "diff": "ใจ 是最口语的“心”，单说较随意；จิตใจ 更完整、稍正式。"
+          }
+        ]
+      }
     },
     {
       "thai": "หมา",
@@ -505,7 +1543,29 @@
       "title": "能提升心灵水平的狗",
       "here": "流浪狗",
       "no": 46,
-      "titleEn": "Dogs That Can Develop Their Minds"
+      "titleEn": "Dogs That Can Develop Their Minds",
+      "count": 18,
+      "examples": [
+        {
+          "clip": "39",
+          "line": 4
+        },
+        {
+          "clip": "41",
+          "line": 3
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "狗。口语词，略随意，有时带点轻视的口气；隆波常用它来举动物的例子，讲畜生道的众生。",
+        "compare": [
+          {
+            "thai": "สุนัข",
+            "zh": "狗（书面、礼貌说法）",
+            "diff": "สุนัข 较正式、礼貌；หมา 是日常口语。"
+          }
+        ]
+      }
     },
     {
       "thai": "เก็บ",
@@ -515,7 +1575,25 @@
       "title": "能提升心灵水平的狗",
       "here": "捡回来",
       "no": 46,
-      "titleEn": "Dogs That Can Develop Their Minds"
+      "titleEn": "Dogs That Can Develop Their Minds",
+      "count": 5,
+      "examples": [
+        {
+          "clip": "46",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "基本意思是把东西拿起来、收起来。可以是从地上捡起来（如捡回一条狗），也可以是收拾、收藏（如收拾碗筷、收拾东西）。",
+        "compare": [
+          {
+            "thai": "หยิบ",
+            "zh": "拿起、取",
+            "diff": "หยิบ 是用手拈起、拿取；เก็บ 还有捡拾、收好、保存的意思。"
+          }
+        ]
+      }
     },
     {
       "thai": "แมว",
@@ -524,7 +1602,18 @@
       "en": "cat",
       "title": "小猫进来也不咬",
       "no": 47,
-      "titleEn": "Won't Bite Even When a Kitten Walks In"
+      "titleEn": "Won't Bite Even When a Kitten Walks In",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "47",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "猫。隆波开示里常与狗一起，举动物的例子。"
+      }
     },
     {
       "thai": "ไม่ กัด",
@@ -533,7 +1622,22 @@
       "en": "not bite",
       "title": "小猫进来也不咬",
       "no": 47,
-      "titleEn": "Won't Bite Even When a Kitten Walks In"
+      "titleEn": "Won't Bite Even When a Kitten Walks In",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "46",
+          "line": 3
+        },
+        {
+          "clip": "47",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "不咬。由否定词 ไม่（不）加动词 กัด（咬）组成。例句里指一条善良的狗遇到别的小动物也不咬、不伤害它们。"
+      }
     },
     {
       "thai": "อาหาร",
@@ -542,7 +1646,25 @@
       "en": "food",
       "title": "小猫进来也不咬",
       "no": 47,
-      "titleEn": "Won't Bite Even When a Kitten Walks In"
+      "titleEn": "Won't Bite Even When a Kitten Walks In",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "47",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "食物、吃的东西。日常用语，指饭菜或任何可以吃的东西。",
+        "compare": [
+          {
+            "thai": "ข้าว",
+            "zh": "饭、米饭",
+            "diff": "ข้าว 本指米饭，口语里也泛指吃饭、饭食；อาหาร 是各种食物的统称。"
+          }
+        ]
+      }
     },
     {
       "thai": "ทาน",
@@ -551,7 +1673,21 @@
       "en": "giving",
       "title": "狗也懂布施持戒",
       "no": 50,
-      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
+      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing",
+      "count": 0,
+      "examples": [],
+      "kind": "法义词",
+      "detail": {
+        "pali": "dāna",
+        "meaning": "布施，把自己的东西给予他人，是修福的基础之一。隆波的讲法里，布施能减少吝啬、增加心的慷慨，例句里说连狗懂得分食物给小猫，就是在布施。",
+        "compare": [
+          {
+            "thai": "บุญ",
+            "zh": "功德、福",
+            "diff": "บุญ 是做善事后心里得到的善果、功德；ทาน 是其中“给予”这一种具体的行为。"
+          }
+        ]
+      }
     },
     {
       "thai": "ขโมย",
@@ -561,7 +1697,18 @@
       "title": "狗也懂布施持戒",
       "here": "不偷盗",
       "no": 50,
-      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
+      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "50",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "偷，指不经允许拿走别人的东西。在例句里与“不伤害别的众生”并列，说明那条狗持守了不偷盗这一条戒。"
+      }
     },
     {
       "thai": "ทำ ร้าย",
@@ -571,7 +1718,18 @@
       "title": "狗也懂布施持戒",
       "here": "不伤害",
       "no": 50,
-      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
+      "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing",
+      "count": 4,
+      "examples": [
+        {
+          "clip": "50",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "伤害、加害，对象可以是人、动物，也可以是身体。例句里既指对别的众生的伤害，也指恶业的果报回头伤害身体。"
+      }
     },
     {
       "thai": "พลาด",
@@ -580,7 +1738,25 @@
       "en": "slip up",
       "title": "死的时候失误",
       "no": 51,
-      "titleEn": "Slipping Up at Death: Delusion Takes Over and You're Reborn as an Animal"
+      "titleEn": "Slipping Up at Death: Delusion Takes Over and You're Reborn as an Animal",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "51",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "出了差错、没做到位、失手。隆波常用来说临终时心没守住、被痴带走，就是“死的时候失误了”。",
+        "compare": [
+          {
+            "thai": "ผิด",
+            "zh": "错",
+            "diff": "ผิด是对错上的错，พลาด是本来可以做好却失手、没抓住。"
+          }
+        ]
+      }
     },
     {
       "thai": "ความรู้สึกตัว",
@@ -588,7 +1764,29 @@
       "zh": "觉知自己（名词）",
       "en": "self-awareness",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "12",
+          "line": 1
+        },
+        {
+          "clip": "33",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "隆波教学的核心：觉知到自己的身体和心此刻正在做什么、是什么状态。不是思考，也不是控制，而是清楚地知道。隆波说它是对治烦恼、开始修行的起点。",
+        "compare": [
+          {
+            "thai": "สติ",
+            "zh": "觉性、念",
+            "diff": "สติ是记得、觉察的能力，ความรู้สึกตัว是这种觉察落在自己身心上的状态。"
+          }
+        ]
+      }
     },
     {
       "thai": "จิต",
@@ -596,7 +1794,30 @@
       "zh": "心",
       "en": "mind",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 112,
+      "examples": [
+        {
+          "clip": "9",
+          "line": 0
+        },
+        {
+          "clip": "34",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "citta",
+        "meaning": "心，指能知、能觉的那个东西。隆波讲修行就是学习观察心：心跑出去了要知道，心有烦恼要知道，不是去改造它。",
+        "compare": [
+          {
+            "thai": "จิตใจ",
+            "zh": "心（口语）",
+            "diff": "จิตใจ是日常说法，也带“心地、情感”的味道；จิต更偏向法义里所说的心。"
+          }
+        ]
+      }
     },
     {
       "thai": "กิเลส",
@@ -604,7 +1825,30 @@
       "zh": "烦恼",
       "en": "defilements",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 29,
+      "examples": [
+        {
+          "clip": "12",
+          "line": 1
+        },
+        {
+          "clip": "37",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "kilesa",
+        "meaning": "烦恼，指贪、嗔、痴等染污心的东西。隆波讲的做法是看见烦恼生起，而不是压制它。他常提醒大家别只看别人的烦恼，要看自己的。",
+        "compare": [
+          {
+            "thai": "ตัณหา",
+            "zh": "爱欲、渴求",
+            "diff": "ตัณหา是烦恼中想要、渴求的那一部分，กิเลส是整个染污心的总称。"
+          }
+        ]
+      }
     },
     {
       "thai": "ปัญญา",
@@ -612,7 +1856,21 @@
       "zh": "智慧",
       "en": "wisdom",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 26,
+      "examples": [],
+      "kind": "法义词",
+      "detail": {
+        "pali": "paññā",
+        "meaning": "智慧，指如实看见身心的真相，比如无常、苦、无我。隆波强调不是靠想出来，而是觉性够了之后自然看见。",
+        "compare": [
+          {
+            "thai": "ความรู้",
+            "zh": "知识",
+            "diff": "ความรู้是知道的内容，ปัญญา是亲自看见实相的智慧。"
+          }
+        ]
+      }
     },
     {
       "thai": "ความสงบ",
@@ -620,7 +1878,20 @@
       "zh": "宁静",
       "en": "calm",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 4,
+      "examples": [],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "心的宁静、安定，通常是修止（禅定）带来的状态。隆波提醒，宁静再好也只是心的状态，依然是被观察的对象，不是修行的终点。",
+        "compare": [
+          {
+            "thai": "ความสุข",
+            "zh": "快乐",
+            "diff": "ความสุข是感受上的快乐，ความสงบ是心安定不乱的状态，两者常一起出现但不是一回事。"
+          }
+        ]
+      }
     },
     {
       "thai": "กิเลสคนอื่น",
@@ -628,7 +1899,25 @@
       "zh": "别人的烦恼",
       "en": "others' defilements",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "15",
+          "line": 2
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "别人的烦恼。隆波常说，我们很容易看见别人的烦恼，却看不见自己的，这是修行的盲点。另外，刺激别人生起烦恼，自己也要承担过失。",
+        "compare": [
+          {
+            "thai": "กิเลสตัวเอง",
+            "zh": "自己的烦恼",
+            "diff": "修行要看的是กิเลสตัวเอง，不是กิเลสคนอื่น。"
+          }
+        ]
+      }
     },
     {
       "thai": "กิเลสตัวเอง",
@@ -636,7 +1925,25 @@
       "zh": "自己的烦恼",
       "en": "your own defilements",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "15",
+          "line": 4
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "自己的烦恼。隆波强调修行要学着看见自己心里的烦恼生灭，而不是只盯着别人。看得越清楚，越能认识自己。",
+        "compare": [
+          {
+            "thai": "กิเลสคนอื่น",
+            "zh": "别人的烦恼",
+            "diff": "กิเลสคนอื่น是别人身上的，容易看见却对修行帮助不大。"
+          }
+        ]
+      }
     },
     {
       "thai": "นั่ง สมาธิ เยอะ ๆ",
@@ -644,7 +1951,25 @@
       "zh": "多多打坐",
       "en": "meditate a lot",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "10",
+          "line": 3
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "多多打坐。นั่ง สมาธิ是坐下来修定，เยอะ ๆ是“很多”。隆波用它提醒：只是坐得多、走得多不一定就好，关键是方法要对。",
+        "compare": [
+          {
+            "thai": "เดิน จงกรม",
+            "zh": "经行",
+            "diff": "经行是边走边修，打坐是坐着修，是两种不同的修行姿势。"
+          }
+        ]
+      }
     },
     {
       "thai": "ขาด",
@@ -652,7 +1977,29 @@
       "zh": "中断",
       "en": "break off",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 9,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 0
+        },
+        {
+          "clip": "4",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "缺少、中断、断掉的意思。可以指修行中断（不要让修行断掉），也可以指缺乏某样东西（缺觉性、缺戒、缺禅定、缺智慧）。隆波常用来提醒：每天要持续用功，不要断。",
+        "compare": [
+          {
+            "thai": "หมด",
+            "zh": "没有了、用完了",
+            "diff": "หมด 是东西用尽了；ขาด 是本该有的却缺了或断了。"
+          }
+        ]
+      }
     },
     {
       "thai": "เก่งมาตั้งแต่แรก",
@@ -660,7 +2007,18 @@
       "zh": "一开始就很棒",
       "en": "good from the start",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "6",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "「一开始就很棒」。เก่ง 是擅长、厉害，มา 表示一路过来，ตั้งแต่แรก 是从最初。隆波常用来说：没有人一开始就修得好，都是慢慢练出来的。"
+      }
     },
     {
       "thai": "ฝึกมาเยอะ",
@@ -668,7 +2026,25 @@
       "zh": "练习得多",
       "en": "well practised",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "6",
+          "line": 1
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "「练习得多」。ฝึก 是训练、练习，มา 表示过去一路练过来，เยอะ 是多。隆波常用它说明：有人修得快，是因为以前（包括前世）练得多，不是天生特别。",
+        "compare": [
+          {
+            "thai": "ฝึกฝน",
+            "zh": "磨练、锻炼",
+            "diff": "ฝึกฝน 更强调反复磨练的过程；ฝึกมาเยอะ 强调已经练过的量多。"
+          }
+        ]
+      }
     },
     {
       "thai": "จิตเคลื่อนออกไป",
@@ -676,7 +2052,25 @@
       "zh": "心移出去了",
       "en": "the mind moves out",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "9",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "「心移出去了」。指修行时心从当下的所缘（如呼吸、身体、觉知）移开，跑去想别的事、或跑到外面的境界，而自己没有发现。隆波的重点是：要能看到心跑出去了，这就是觉性在工作。",
+        "compare": [
+          {
+            "thai": "จิตหลง",
+            "zh": "心迷失、走神",
+            "diff": "จิตหลง 是心被烦恼或念头带走而忘了自己；จิตเคลื่อนออกไป 是描述心从原来的位置移出去的动作。"
+          }
+        ]
+      }
     },
     {
       "thai": "ทำ ให้ ถูก",
@@ -684,7 +2078,29 @@
       "zh": "修对",
       "en": "do it right",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "8",
+          "line": 0
+        },
+        {
+          "clip": "10",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "把它做对、修对。隆波强调先知道正确的修行方法，再照着去做，而且要做得够量，这是修行的第一步。",
+        "compare": [
+          {
+            "thai": "ทำ ให้ พอ",
+            "zh": "做到足够",
+            "diff": "ทำ ให้ ถูก讲方法对不对，ทำ ให้ พอ讲量够不够。"
+          }
+        ]
+      }
     },
     {
       "thai": "ใจ",
@@ -692,7 +2108,29 @@
       "zh": "心（日常说法）",
       "en": "heart · mind",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 48,
+      "examples": [
+        {
+          "clip": "3",
+          "line": 0
+        },
+        {
+          "clip": "4",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "「心」的日常说法，可指心、心意、心情。ตั้งใจ 是用心、决意去做；ใจรู้สึกตัว 是心有觉知。隆波讲法时 ใจ 和 จิต 多半指同一个心，只是 ใจ 更口语。",
+        "compare": [
+          {
+            "thai": "จิต",
+            "zh": "心（偏法义用语）",
+            "diff": "จิต 是佛法里正式讲「心」的词，来自巴利语；ใจ 更日常、口语。"
+          }
+        ]
+      }
     },
     {
       "thai": "เห็น",
@@ -700,7 +2138,34 @@
       "zh": "看到",
       "en": "see",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 42,
+      "examples": [
+        {
+          "clip": "8",
+          "line": 3
+        },
+        {
+          "clip": "9",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "「看到」。日常指眼睛看见，隆波讲修行时常指心里清楚地看到、知道，比如看到心跑出去了、看到烦恼生起。多用于「看见实相」的意思，而不只是用眼睛看。",
+        "compare": [
+          {
+            "thai": "ดู",
+            "zh": "看、观看",
+            "diff": "ดู 是主动去看；เห็น 是看到了、看见的结果。"
+          },
+          {
+            "thai": "รู้",
+            "zh": "知道",
+            "diff": "รู้ 范围更广，可以是任何方式的知；เห็น 强调清楚看到。"
+          }
+        ]
+      }
     },
     {
       "thai": "สบาย",
@@ -708,7 +2173,25 @@
       "zh": "舒服",
       "en": "at ease",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 8,
+      "examples": [
+        {
+          "clip": "33",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "「舒服、自在」，可指身体舒服、心里轻松，也可指没有病（如句中「ไม่สบาย」是不舒服、生病）。隆波常提醒：修行时觉得舒服、快乐，容易让心陶醉而迷失。",
+        "compare": [
+          {
+            "thai": "สุข",
+            "zh": "快乐",
+            "diff": "สุข 是快乐的感受，偏法义；สบาย 是舒适、轻松，较口语。"
+          }
+        ]
+      }
     },
     {
       "thai": "ทำ ทาน",
@@ -716,7 +2199,26 @@
       "zh": "做布施",
       "en": "give",
       "title": "其他",
-      "titleEn": "Other"
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "50",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "dāna",
+        "meaning": "做布施，把东西或财物给予他人，是修福的基础之一。例句里说连动物也可能因为曾经懂得布施、持戒，才有较好的去处。",
+        "compare": [
+          {
+            "thai": "ศีล",
+            "zh": "戒",
+            "diff": "ทำ ทาน是主动给予，ศีล是约束自己不去做伤害别人的事。"
+          }
+        ]
+      }
     }
   ],
   "coverage": {
