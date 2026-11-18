@@ -82,11 +82,11 @@
       "count": 4,
       "examples": [
         {
-          "clip": "3",
+          "clip": "4",
           "line": 2
         },
         {
-          "clip": "4",
+          "clip": "3",
           "line": 2
         }
       ],
@@ -151,12 +151,12 @@
       "count": 21,
       "examples": [
         {
-          "clip": "1",
-          "line": 0
-        },
-        {
           "clip": "8",
           "line": 3
+        },
+        {
+          "clip": "9",
+          "line": 0
         }
       ],
       "kind": "法义词",
@@ -203,12 +203,12 @@
       "count": 8,
       "examples": [
         {
-          "clip": "9",
-          "line": 2
-        },
-        {
           "clip": "10",
           "line": 0
+        },
+        {
+          "clip": "9",
+          "line": 2
         }
       ],
       "kind": "法义词",
@@ -443,12 +443,12 @@
       "count": 56,
       "examples": [
         {
-          "clip": "6",
-          "line": 3
+          "clip": "27",
+          "line": 0
         },
         {
-          "clip": "15",
-          "line": 1
+          "clip": "6",
+          "line": 3
         }
       ],
       "kind": "常用词",
@@ -474,11 +474,11 @@
       "count": 20,
       "examples": [
         {
-          "clip": "23",
+          "clip": "28",
           "line": 0
         },
         {
-          "clip": "28",
+          "clip": "23",
           "line": 0
         }
       ],
@@ -719,11 +719,11 @@
       "count": 16,
       "examples": [
         {
-          "clip": "1",
+          "clip": "33",
           "line": 2
         },
         {
-          "clip": "9",
+          "clip": "1",
           "line": 2
         }
       ],
@@ -752,10 +752,6 @@
         {
           "clip": "33",
           "line": 2
-        },
-        {
-          "clip": "34",
-          "line": 0
         }
       ],
       "kind": "常用词",
@@ -976,12 +972,12 @@
       "count": 59,
       "examples": [
         {
-          "clip": "34",
-          "line": 2
-        },
-        {
           "clip": "37",
           "line": 0
+        },
+        {
+          "clip": "34",
+          "line": 2
         }
       ],
       "kind": "常用词",
@@ -1007,11 +1003,11 @@
       "count": 12,
       "examples": [
         {
-          "clip": "1",
+          "clip": "37",
           "line": 0
         },
         {
-          "clip": "34",
+          "clip": "1",
           "line": 0
         }
       ],
@@ -1039,12 +1035,12 @@
       "count": 21,
       "examples": [
         {
-          "clip": "37",
-          "line": 2
-        },
-        {
           "clip": "39",
           "line": 0
+        },
+        {
+          "clip": "37",
+          "line": 2
         }
       ],
       "kind": "常用词",
@@ -1063,7 +1059,7 @@
     {
       "thai": "ตั้ง",
       "roman": "tâng",
-      "zh": "多达",
+      "zh": "足足",
       "en": "as many as",
       "title": "投生为动物会一直重复",
       "here": "连续",
@@ -1072,8 +1068,8 @@
       "count": 17,
       "examples": [
         {
-          "clip": "3",
-          "line": 0
+          "clip": "39",
+          "line": 4
         },
         {
           "clip": "4",
@@ -1082,7 +1078,7 @@
       ],
       "kind": "小词",
       "detail": {
-        "meaning": "放在数量前面，表示数量多得出乎意料，如“多达”；也常说ตั้งแต่（从……起）。另外ตั้ง作动词是设立、安放，如ตั้งใจ（用心、下决心）。"
+        "meaning": "放在数字前面，强调数量很多，相当于「足足、整整」。比如 ตั้ง 500 ชาติ，就是「足足五百世」。另外 ตั้งใจ（用心）、ตั้งแต่（从……起）里也有 ตั้ง，但那是别的意思。"
       }
     },
     {
@@ -1096,12 +1092,12 @@
       "count": 3,
       "examples": [
         {
-          "clip": "33",
-          "line": 2
-        },
-        {
           "clip": "40",
           "line": 0
+        },
+        {
+          "clip": "33",
+          "line": 2
         }
       ],
       "kind": "常用词",
@@ -1154,12 +1150,12 @@
       "count": 55,
       "examples": [
         {
-          "clip": "5",
-          "line": 0
+          "clip": "40",
+          "line": 1
         },
         {
-          "clip": "6",
-          "line": 1
+          "clip": "5",
+          "line": 0
         }
       ],
       "kind": "常用词",
@@ -1186,12 +1182,12 @@
       "count": 2,
       "examples": [
         {
-          "clip": "37",
-          "line": 2
-        },
-        {
           "clip": "41",
           "line": 1
+        },
+        {
+          "clip": "37",
+          "line": 2
         }
       ],
       "kind": "法义词",
@@ -1223,10 +1219,6 @@
       "titleEn": "Being Born an Animal: Strongest Side Effects",
       "count": 2,
       "examples": [
-        {
-          "clip": "37",
-          "line": 2
-        },
         {
           "clip": "41",
           "line": 1
@@ -1286,11 +1278,11 @@
       "count": 6,
       "examples": [
         {
-          "clip": "36",
+          "clip": "42",
           "line": 0
         },
         {
-          "clip": "42",
+          "clip": "36",
           "line": 0
         }
       ],
@@ -1376,11 +1368,11 @@
       "count": 129,
       "examples": [
         {
-          "clip": "3",
-          "line": 2
+          "clip": "44",
+          "line": 0
         },
         {
-          "clip": "4",
+          "clip": "3",
           "line": 2
         }
       ],
@@ -1510,12 +1502,12 @@
       "count": 15,
       "examples": [
         {
-          "clip": "27",
+          "clip": "46",
           "line": 0
         },
         {
-          "clip": "29",
-          "line": 1
+          "clip": "27",
+          "line": 0
         }
       ],
       "kind": "常用词",
@@ -1547,12 +1539,12 @@
       "count": 18,
       "examples": [
         {
-          "clip": "39",
-          "line": 4
+          "clip": "46",
+          "line": 0
         },
         {
-          "clip": "41",
-          "line": 3
+          "clip": "39",
+          "line": 4
         }
       ],
       "kind": "常用词",
@@ -1626,12 +1618,12 @@
       "count": 3,
       "examples": [
         {
-          "clip": "46",
-          "line": 3
-        },
-        {
           "clip": "47",
           "line": 0
+        },
+        {
+          "clip": "46",
+          "line": 3
         }
       ],
       "kind": "常用词",
@@ -2175,12 +2167,7 @@
       "title": "其他",
       "titleEn": "Other",
       "count": 8,
-      "examples": [
-        {
-          "clip": "33",
-          "line": 2
-        }
-      ],
+      "examples": [],
       "kind": "常用词",
       "detail": {
         "meaning": "「舒服、自在」，可指身体舒服、心里轻松，也可指没有病（如句中「ไม่สบาย」是不舒服、生病）。在修行语境里常提醒：觉得舒服、快乐，容易让心陶醉而迷失。",
