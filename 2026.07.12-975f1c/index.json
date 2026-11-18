@@ -47,9 +47,10 @@
     {
       "thai": "ต้นทุน",
       "roman": "tôn-thun",
-      "zh": "原始资本",
-      "en": "starting capital",
+      "zh": "本钱",
+      "en": "capital",
       "title": "没有谁一开始就很棒",
+      "here": "原始资本",
       "no": 6,
       "titleEn": "No One Is Good from the Start"
     },
@@ -128,18 +129,20 @@
     {
       "thai": "ใจลอย",
       "roman": "jai-lɔɔi",
-      "zh": "走神",
+      "zh": "心走神",
       "en": "mind wandering",
       "title": "走神太松苦闷太紧",
+      "here": "走神",
       "no": 26,
       "titleEn": "Wandering Is Too Loose; Strain Is Too Tight"
     },
     {
       "thai": "เคร่ง",
       "roman": "khrêng",
-      "zh": "苦闷",
+      "zh": "太严",
       "en": "too strict",
       "title": "走神太松苦闷太紧",
+      "here": "苦闷",
       "no": 26,
       "titleEn": "Wandering Is Too Loose; Strain Is Too Tight"
     },
@@ -281,9 +284,10 @@
     {
       "thai": "ผล",
       "roman": "phǒn",
-      "zh": "果报",
+      "zh": "结果 · 果报",
       "en": "result",
       "title": "走神的心非常危险",
+      "here": "果报",
       "no": 34,
       "titleEn": "A Wandering Mind Is Very Dangerous"
     },
@@ -317,18 +321,20 @@
     {
       "thai": "เปรต",
       "roman": "prèet",
-      "zh": "饿鬼道",
+      "zh": "饿鬼",
       "en": "hungry ghosts",
       "title": "畜生因痴而生",
+      "here": "饿鬼道",
       "no": 36,
       "titleEn": "Animals Are Born from Delusion"
     },
     {
       "thai": "เกิด",
       "roman": "kə̀ət",
-      "zh": "投生",
+      "zh": "出生 · 投生",
       "en": "be born",
       "title": "畜生带着痴来出生",
+      "here": "投生",
       "no": 37,
       "titleEn": "Animals Are Born Carrying Delusion"
     },
@@ -353,9 +359,10 @@
     {
       "thai": "ตั้ง",
       "roman": "tâng",
-      "zh": "连续",
+      "zh": "多达",
       "en": "as many as",
       "title": "投生为动物会一直重复",
+      "here": "连续",
       "no": 39,
       "titleEn": "Being Born as an Animal Keeps Repeating"
     },
@@ -389,18 +396,20 @@
     {
       "thai": "โทษ",
       "roman": "thôot",
-      "zh": "副作用",
+      "zh": "过患 · 害处",
       "en": "harm",
       "title": "投生为动物副作用最强",
+      "here": "副作用",
       "no": 41,
       "titleEn": "Being Born an Animal: Strongest Side Effects"
     },
     {
       "thai": "ร้ายแรง",
       "roman": "ráai-rɛɛng",
-      "zh": "最强的",
+      "zh": "严重",
       "en": "severe",
       "title": "投生为动物副作用最强",
+      "here": "最强的",
       "no": 41,
       "titleEn": "Being Born an Animal: Strongest Side Effects"
     },
@@ -434,18 +443,20 @@
     {
       "thai": "สำนึก",
       "roman": "sǎm-nʉ́k",
-      "zh": "意识",
+      "zh": "良知 · 悔悟",
       "en": "conscience",
       "title": "地狱众生也会后悔",
+      "here": "意识",
       "no": 44,
       "titleEn": "Hell Beings Feel Regret Too"
     },
     {
       "thai": "รู้",
       "roman": "rúu",
-      "zh": "后悔",
+      "zh": "知道 · 觉知",
       "en": "know · be aware",
       "title": "地狱众生也会后悔",
+      "here": "后悔",
       "no": 44,
       "titleEn": "Hell Beings Feel Regret Too"
     },
@@ -479,27 +490,30 @@
     {
       "thai": "จิตใจ",
       "roman": "jìt-jai",
-      "zh": "心灵水平",
+      "zh": "心灵",
       "en": "mind",
       "title": "能提升心灵水平的狗",
+      "here": "心灵水平",
       "no": 46,
       "titleEn": "Dogs That Can Develop Their Minds"
     },
     {
       "thai": "หมา",
       "roman": "mǎa",
-      "zh": "流浪狗",
+      "zh": "狗",
       "en": "dog",
       "title": "能提升心灵水平的狗",
+      "here": "流浪狗",
       "no": 46,
       "titleEn": "Dogs That Can Develop Their Minds"
     },
     {
       "thai": "เก็บ",
       "roman": "kèp",
-      "zh": "捡回来",
-      "en": "take in",
+      "zh": "捡 · 收",
+      "en": "pick up · keep",
       "title": "能提升心灵水平的狗",
+      "here": "捡回来",
       "no": 46,
       "titleEn": "Dogs That Can Develop Their Minds"
     },
@@ -542,18 +556,20 @@
     {
       "thai": "ขโมย",
       "roman": "khà-mooi",
-      "zh": "不偷盗",
+      "zh": "偷",
       "en": "steal",
       "title": "狗也懂布施持戒",
+      "here": "不偷盗",
       "no": 50,
       "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
     },
     {
       "thai": "ทำ ร้าย",
       "roman": "tham-ráai",
-      "zh": "不伤害",
+      "zh": "伤害",
       "en": "harm",
       "title": "狗也懂布施持戒",
+      "here": "不伤害",
       "no": 50,
       "titleEn": "This Dog Knows Giving and Keeps Precepts: No Harming, No Stealing"
     },
@@ -618,7 +634,7 @@
       "thai": "กิเลสตัวเอง",
       "roman": "kì-lèet tua-eeng",
       "zh": "自己的烦恼",
-      "en": "one's own defilements",
+      "en": "your own defilements",
       "title": "其他",
       "titleEn": "Other"
     },
@@ -681,7 +697,7 @@
     {
       "thai": "เห็น",
       "roman": "hěn",
-      "zh": "看到（亲眼看见身体在呼吸）",
+      "zh": "看到",
       "en": "see",
       "title": "其他",
       "titleEn": "Other"
@@ -689,7 +705,7 @@
     {
       "thai": "สบาย",
       "roman": "sà-baai",
-      "zh": "享受",
+      "zh": "舒服",
       "en": "at ease",
       "title": "其他",
       "titleEn": "Other"
@@ -698,7 +714,7 @@
       "thai": "ทำ ทาน",
       "roman": "tham-thaan",
       "zh": "做布施",
-      "en": "",
+      "en": "give",
       "title": "其他",
       "titleEn": "Other"
     }
