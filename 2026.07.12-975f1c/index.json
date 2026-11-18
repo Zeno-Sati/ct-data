@@ -2303,7 +2303,7 @@
       "en": "not",
       "title": "",
       "kind": "小词",
-      "count": 183,
+      "count": 191,
       "examples": [
         {
           "clip": "1",
@@ -2311,7 +2311,7 @@
         },
         {
           "clip": "6",
-          "line": 3
+          "line": 0
         }
       ],
       "detail": {
@@ -2337,15 +2337,15 @@
       "en": "then · also",
       "title": "",
       "kind": "小词",
-      "count": 201,
+      "count": 206,
       "examples": [
         {
-          "clip": "5",
+          "clip": "1",
           "line": 0
         },
         {
-          "clip": "6",
-          "line": 3
+          "clip": "5",
+          "line": 0
         }
       ],
       "detail": {
@@ -2405,15 +2405,15 @@
       "en": "that · which",
       "title": "",
       "kind": "小词",
-      "count": 137,
+      "count": 140,
       "examples": [
         {
           "clip": "1",
           "line": 2
         },
         {
-          "clip": "8",
-          "line": 3
+          "clip": "6",
+          "line": 1
         }
       ],
       "detail": {
@@ -2439,14 +2439,14 @@
       "en": "can · get",
       "title": "",
       "kind": "小词",
-      "count": 121,
+      "count": 123,
       "examples": [
         {
-          "clip": "3",
+          "clip": "1",
           "line": 0
         },
         {
-          "clip": "4",
+          "clip": "3",
           "line": 0
         }
       ],
@@ -2514,8 +2514,8 @@
           "line": 2
         },
         {
-          "clip": "12",
-          "line": 1
+          "clip": "10",
+          "line": 3
         }
       ],
       "detail": {
@@ -2541,14 +2541,14 @@
       "en": "already · then",
       "title": "",
       "kind": "小词",
-      "count": 114,
+      "count": 112,
       "examples": [
         {
           "clip": "8",
           "line": 3
         },
         {
-          "clip": "10",
+          "clip": "9",
           "line": 3
         }
       ],
@@ -2575,7 +2575,7 @@
       "en": "give · let · for",
       "title": "",
       "kind": "小词",
-      "count": 101,
+      "count": 104,
       "examples": [
         {
           "clip": "3",
@@ -2643,14 +2643,14 @@
       "en": "makes a noun",
       "title": "",
       "kind": "小词",
-      "count": 33,
+      "count": 73,
       "examples": [
         {
-          "clip": "29",
+          "clip": "12",
           "line": 1
         },
         {
-          "clip": "30",
+          "clip": "29",
           "line": 0
         }
       ],
@@ -2677,7 +2677,7 @@
       "en": "this",
       "title": "",
       "kind": "小词",
-      "count": 59,
+      "count": 78,
       "examples": [
         {
           "clip": "12",
@@ -2779,7 +2779,7 @@
       "en": "that · say",
       "title": "",
       "kind": "小词",
-      "count": 50,
+      "count": 63,
       "examples": [
         {
           "clip": "9",
@@ -2915,7 +2915,7 @@
       "en": "oneself",
       "title": "",
       "kind": "小词",
-      "count": 40,
+      "count": 43,
       "examples": [
         {
           "clip": "6",
@@ -2923,7 +2923,7 @@
         },
         {
           "clip": "15",
-          "line": 1
+          "line": 0
         }
       ],
       "detail": {
@@ -2949,7 +2949,7 @@
       "en": "but",
       "title": "",
       "kind": "小词",
-      "count": 39,
+      "count": 40,
       "examples": [
         {
           "clip": "9",
@@ -2987,7 +2987,7 @@
       "examples": [
         {
           "clip": "44",
-          "line": 4
+          "line": 0
         },
         {
           "clip": "46",
@@ -3020,11 +3020,11 @@
       "count": 38,
       "examples": [
         {
-          "clip": "37",
-          "line": 0
+          "clip": "15",
+          "line": 2
         },
         {
-          "clip": "50",
+          "clip": "36",
           "line": 2
         }
       ],
@@ -3051,15 +3051,15 @@
       "en": "with · and",
       "title": "",
       "kind": "小词",
-      "count": 29,
+      "count": 31,
       "examples": [
+        {
+          "clip": "1",
+          "line": 0
+        },
         {
           "clip": "12",
           "line": 1
-        },
-        {
-          "clip": "27",
-          "line": 0
         }
       ],
       "detail": {
@@ -3120,7 +3120,16 @@
       "title": "",
       "kind": "小词",
       "count": 26,
-      "examples": [],
+      "examples": [
+        {
+          "clip": "1",
+          "line": 2
+        },
+        {
+          "clip": "9",
+          "line": 3
+        }
+      ],
       "detail": {
         "meaning": "放在形容词或动词后面，表示程度很高或数量很多。比如「ดี มาก」是很好。",
         "compare": [
@@ -3242,15 +3251,15 @@
       "en": "that",
       "title": "",
       "kind": "小词",
-      "count": 23,
+      "count": 28,
       "examples": [
+        {
+          "clip": "36",
+          "line": 2
+        },
         {
           "clip": "37",
           "line": 0
-        },
-        {
-          "clip": "41",
-          "line": 1
         }
       ],
       "detail": {
@@ -3279,11 +3288,11 @@
       "count": 19,
       "examples": [
         {
-          "clip": "41",
-          "line": 1
+          "clip": "34",
+          "line": 2
         },
         {
-          "clip": "42",
+          "clip": "37",
           "line": 0
         }
       ],
