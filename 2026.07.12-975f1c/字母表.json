@@ -1,0 +1,518 @@
+{
+  "说明": "泰语字母表（2026-11-20 词条页「拆开读」、以后的字母表页共用）。name 是字母的名字（泰国人念字母就念这个，点字母放的是它）；initial 是在音节开头的读音，final 是在音节末尾的读音（空 = 不能放末尾）；class 中/高/低 决定声调，第三步再讲。",
+  "consonants": [
+    {
+      "letter": "ก",
+      "name": "กอ ไก่",
+      "nameRoman": "kaw kài",
+      "initial": "k",
+      "final": "k",
+      "class": "中"
+    },
+    {
+      "letter": "ข",
+      "name": "ขอ ไข่",
+      "nameRoman": "khǎw khài",
+      "initial": "kh",
+      "final": "k",
+      "class": "高"
+    },
+    {
+      "letter": "ฃ",
+      "name": "ขอ ขวด",
+      "nameRoman": "khǎw khùat",
+      "initial": "kh",
+      "final": "k",
+      "class": "高",
+      "old": true
+    },
+    {
+      "letter": "ค",
+      "name": "คอ ควาย",
+      "nameRoman": "khaw khwaai",
+      "initial": "kh",
+      "final": "k",
+      "class": "低"
+    },
+    {
+      "letter": "ฅ",
+      "name": "คอ คน",
+      "nameRoman": "khaw khon",
+      "initial": "kh",
+      "final": "k",
+      "class": "低",
+      "old": true
+    },
+    {
+      "letter": "ฆ",
+      "name": "ฆอ ระฆัง",
+      "nameRoman": "khaw rá-khang",
+      "initial": "kh",
+      "final": "k",
+      "class": "低"
+    },
+    {
+      "letter": "ง",
+      "name": "งอ งู",
+      "nameRoman": "ngaw nguu",
+      "initial": "ng",
+      "final": "ng",
+      "class": "低"
+    },
+    {
+      "letter": "จ",
+      "name": "จอ จาน",
+      "nameRoman": "jaw jaan",
+      "initial": "j",
+      "final": "t",
+      "class": "中"
+    },
+    {
+      "letter": "ฉ",
+      "name": "ฉอ ฉิ่ง",
+      "nameRoman": "chǎw chìng",
+      "initial": "ch",
+      "final": "",
+      "class": "高"
+    },
+    {
+      "letter": "ช",
+      "name": "ชอ ช้าง",
+      "nameRoman": "chaw cháang",
+      "initial": "ch",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "ซ",
+      "name": "ซอ โซ่",
+      "nameRoman": "saw sôo",
+      "initial": "s",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "ฌ",
+      "name": "ฌอ เฌอ",
+      "nameRoman": "chaw choe",
+      "initial": "ch",
+      "final": "",
+      "class": "低"
+    },
+    {
+      "letter": "ญ",
+      "name": "ยอ หญิง",
+      "nameRoman": "yaw yǐng",
+      "initial": "y",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "ฎ",
+      "name": "ดอ ชฎา",
+      "nameRoman": "daw chá-daa",
+      "initial": "d",
+      "final": "t",
+      "class": "中"
+    },
+    {
+      "letter": "ฏ",
+      "name": "ตอ ปฏัก",
+      "nameRoman": "taw pà-tàk",
+      "initial": "t",
+      "final": "t",
+      "class": "中"
+    },
+    {
+      "letter": "ฐ",
+      "name": "ฐอ ฐาน",
+      "nameRoman": "thǎw thǎan",
+      "initial": "th",
+      "final": "t",
+      "class": "高"
+    },
+    {
+      "letter": "ฑ",
+      "name": "ทอ มณโฑ",
+      "nameRoman": "thaw mon-thoo",
+      "initial": "th",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "ฒ",
+      "name": "ฒอ ผู้เฒ่า",
+      "nameRoman": "thaw phûu-thâo",
+      "initial": "th",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "ณ",
+      "name": "ณอ เณร",
+      "nameRoman": "naw neen",
+      "initial": "n",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "ด",
+      "name": "ดอ เด็ก",
+      "nameRoman": "daw dèk",
+      "initial": "d",
+      "final": "t",
+      "class": "中"
+    },
+    {
+      "letter": "ต",
+      "name": "ตอ เต่า",
+      "nameRoman": "taw tào",
+      "initial": "t",
+      "final": "t",
+      "class": "中"
+    },
+    {
+      "letter": "ถ",
+      "name": "ถอ ถุง",
+      "nameRoman": "thǎw thǔng",
+      "initial": "th",
+      "final": "t",
+      "class": "高"
+    },
+    {
+      "letter": "ท",
+      "name": "ทอ ทหาร",
+      "nameRoman": "thaw thá-hǎan",
+      "initial": "th",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "ธ",
+      "name": "ธอ ธง",
+      "nameRoman": "thaw thong",
+      "initial": "th",
+      "final": "t",
+      "class": "低"
+    },
+    {
+      "letter": "น",
+      "name": "นอ หนู",
+      "nameRoman": "naw nǔu",
+      "initial": "n",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "บ",
+      "name": "บอ ใบไม้",
+      "nameRoman": "baw bai-máai",
+      "initial": "b",
+      "final": "p",
+      "class": "中"
+    },
+    {
+      "letter": "ป",
+      "name": "ปอ ปลา",
+      "nameRoman": "paw plaa",
+      "initial": "p",
+      "final": "p",
+      "class": "中"
+    },
+    {
+      "letter": "ผ",
+      "name": "ผอ ผึ้ง",
+      "nameRoman": "phǎw phûeng",
+      "initial": "ph",
+      "final": "",
+      "class": "高"
+    },
+    {
+      "letter": "ฝ",
+      "name": "ฝอ ฝา",
+      "nameRoman": "fǎw fǎa",
+      "initial": "f",
+      "final": "",
+      "class": "高"
+    },
+    {
+      "letter": "พ",
+      "name": "พอ พาน",
+      "nameRoman": "phaw phaan",
+      "initial": "ph",
+      "final": "p",
+      "class": "低"
+    },
+    {
+      "letter": "ฟ",
+      "name": "ฟอ ฟัน",
+      "nameRoman": "faw fan",
+      "initial": "f",
+      "final": "p",
+      "class": "低"
+    },
+    {
+      "letter": "ภ",
+      "name": "ภอ สำเภา",
+      "nameRoman": "phaw sǎm-phao",
+      "initial": "ph",
+      "final": "p",
+      "class": "低"
+    },
+    {
+      "letter": "ม",
+      "name": "มอ ม้า",
+      "nameRoman": "maw máa",
+      "initial": "m",
+      "final": "m",
+      "class": "低"
+    },
+    {
+      "letter": "ย",
+      "name": "ยอ ยักษ์",
+      "nameRoman": "yaw yák",
+      "initial": "y",
+      "final": "y",
+      "class": "低"
+    },
+    {
+      "letter": "ร",
+      "name": "รอ เรือ",
+      "nameRoman": "raw ruea",
+      "initial": "r",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "ล",
+      "name": "ลอ ลิง",
+      "nameRoman": "law ling",
+      "initial": "l",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "ว",
+      "name": "วอ แหวน",
+      "nameRoman": "waw wǎen",
+      "initial": "w",
+      "final": "w",
+      "class": "低"
+    },
+    {
+      "letter": "ศ",
+      "name": "ศอ ศาลา",
+      "nameRoman": "sǎw sǎa-laa",
+      "initial": "s",
+      "final": "t",
+      "class": "高"
+    },
+    {
+      "letter": "ษ",
+      "name": "ษอ ฤๅษี",
+      "nameRoman": "sǎw rue-sǐi",
+      "initial": "s",
+      "final": "t",
+      "class": "高"
+    },
+    {
+      "letter": "ส",
+      "name": "สอ เสือ",
+      "nameRoman": "sǎw sǔea",
+      "initial": "s",
+      "final": "t",
+      "class": "高"
+    },
+    {
+      "letter": "ห",
+      "name": "หอ หีบ",
+      "nameRoman": "hǎw hìip",
+      "initial": "h",
+      "final": "",
+      "class": "高"
+    },
+    {
+      "letter": "ฬ",
+      "name": "ฬอ จุฬา",
+      "nameRoman": "law jù-laa",
+      "initial": "l",
+      "final": "n",
+      "class": "低"
+    },
+    {
+      "letter": "อ",
+      "name": "ออ อ่าง",
+      "nameRoman": "aw àang",
+      "initial": "",
+      "final": "",
+      "class": "中"
+    },
+    {
+      "letter": "ฮ",
+      "name": "ฮอ นกฮูก",
+      "nameRoman": "haw nók-hûuk",
+      "initial": "h",
+      "final": "",
+      "class": "低"
+    }
+  ],
+  "initials": {
+    "k": "像「哥」的 g，不送气",
+    "kh": "像「科」的 k，送气",
+    "ng": "像「昂」最后的 ng，放在开头读",
+    "j": "像「鸡」的 j",
+    "ch": "像「七」的 q",
+    "s": "像「丝」的 s",
+    "y": "像「呀」的 y",
+    "d": "浊音 d，声带要振动，比「多」更重",
+    "t": "像「多」的 d，不送气",
+    "th": "像「他」的 t，送气",
+    "n": "像「你」的 n",
+    "b": "浊音 b，声带要振动，比「波」更重",
+    "p": "像「玻」的 b，不送气",
+    "ph": "像「坡」的 p，送气",
+    "f": "像「夫」的 f",
+    "m": "像「妈」的 m",
+    "r": "舌尖轻轻打一下的 r，口语里常读成 l",
+    "l": "像「拉」的 l",
+    "w": "像「哇」的 w",
+    "h": "像「喝」的 h",
+    "": "开头的 อ 不发音，直接读后面的元音"
+  },
+  "finals": {
+    "k": "收在 k 的口型，不爆出声（像粤语「得」的尾音）",
+    "t": "收在 t 的口型，不爆出声（像粤语「一 yat」的尾音）",
+    "p": "嘴唇闭上收住，不爆出声（像粤语「十 sap」的尾音）",
+    "n": "像「安」最后的 n",
+    "m": "嘴唇闭上，像「姆」",
+    "ng": "像「昂」最后的 ng",
+    "w": "收尾轻轻带一个「乌」",
+    "y": "收尾轻轻带一个「衣」"
+  },
+  "vowels": {
+    "a": {
+      "say": "อะ",
+      "zh": "短 a，像很短的「啊」"
+    },
+    "aa": {
+      "say": "อา",
+      "zh": "长 a，「啊——」拖长"
+    },
+    "i": {
+      "say": "อิ",
+      "zh": "短 i，像很短的「衣」"
+    },
+    "ii": {
+      "say": "อี",
+      "zh": "长 i，「衣——」拖长"
+    },
+    "ue": {
+      "say": "อึ",
+      "zh": "短 ue：嘴角往两边拉，不圆唇地发「乌」"
+    },
+    "uue": {
+      "say": "อือ",
+      "zh": "长 ue：嘴角往两边拉，不圆唇的「乌——」"
+    },
+    "u": {
+      "say": "อุ",
+      "zh": "短 u，像很短的「乌」"
+    },
+    "uu": {
+      "say": "อู",
+      "zh": "长 u，「乌——」拖长"
+    },
+    "e": {
+      "say": "เอะ",
+      "zh": "短 e，像很短的「诶」"
+    },
+    "ee": {
+      "say": "เอ",
+      "zh": "长 e，「诶——」拖长"
+    },
+    "ae": {
+      "say": "แอะ",
+      "zh": "短 ae，嘴比「诶」张得更大（像英语 cat 的 a）"
+    },
+    "aae": {
+      "say": "แอ",
+      "zh": "长 ae，嘴张大的「诶——」"
+    },
+    "o": {
+      "say": "โอะ",
+      "zh": "短 o，圆唇，像很短的「哦」"
+    },
+    "oo": {
+      "say": "โอ",
+      "zh": "长 o，圆唇的「哦——」"
+    },
+    "aw": {
+      "say": "เอาะ",
+      "zh": "短 aw，嘴张大的「奥」（像英语 law），很短"
+    },
+    "aaw": {
+      "say": "ออ",
+      "zh": "长 aw，嘴张大的「奥——」"
+    },
+    "oe": {
+      "say": "เออะ",
+      "zh": "短 oe，像很短的「额」"
+    },
+    "ooe": {
+      "say": "เออ",
+      "zh": "长 oe，「额——」拖长"
+    },
+    "ia": {
+      "say": "เอีย",
+      "zh": "ia，「衣」滑到「啊」"
+    },
+    "uea": {
+      "say": "เอือ",
+      "zh": "uea，不圆唇的「乌」滑到「啊」"
+    },
+    "ua": {
+      "say": "อัว",
+      "zh": "ua，「乌」滑到「啊」"
+    },
+    "ai": {
+      "say": "ไอ",
+      "zh": "ai，像「爱」"
+    },
+    "ao": {
+      "say": "เอา",
+      "zh": "ao，像「凹」"
+    },
+    "am": {
+      "say": "อำ",
+      "zh": "am，「啊」完闭上嘴收 m"
+    }
+  },
+  "tones": {
+    "1": {
+      "name": "平调",
+      "zh": "平平的中音，像普通话第一声，但低一点"
+    },
+    "2": {
+      "name": "低调",
+      "zh": "低而平，略往下，比平调低"
+    },
+    "3": {
+      "name": "降调",
+      "zh": "先高再往下掉，像普通话第四声"
+    },
+    "4": {
+      "name": "高调",
+      "zh": "起得高、尾巴往上扬，像偏高的普通话第二声"
+    },
+    "5": {
+      "name": "升调",
+      "zh": "先往下压再升上去，像普通话第三声"
+    }
+  },
+  "marks": {
+    "่": "ไม้เอก",
+    "้": "ไม้โท",
+    "๊": "ไม้ตรี",
+    "๋": "ไม้จัตวา"
+  }
+}

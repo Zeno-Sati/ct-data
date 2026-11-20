@@ -39,7 +39,37 @@
             "roman": "sà-maa-thí"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ติ",
+          "say": "ติ",
+          "roman": "tì",
+          "initial": "ต",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "t",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "รู้สึกตัว",
@@ -71,7 +101,54 @@
             "roman": "luuem-tua-eeng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "รู้",
+          "say": "รู้",
+          "roman": "rúu",
+          "initial": "ร",
+          "vowel": "◌ู",
+          "mark": "้",
+          "sound": {
+            "initial": "r",
+            "vowel": "uu",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "uu"
+        },
+        {
+          "thai": "สึก",
+          "say": "สึก",
+          "roman": "sùek",
+          "initial": "ส",
+          "vowel": "◌ึ",
+          "final": "ก",
+          "sound": {
+            "initial": "s",
+            "vowel": "ue",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "ue"
+        },
+        {
+          "thai": "ตัว",
+          "say": "ตัว",
+          "roman": "tua",
+          "initial": "ต",
+          "vowel": "◌ัว",
+          "note": "ว 是元音的一部分",
+          "sound": {
+            "initial": "t",
+            "vowel": "ua",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ua"
+        }
+      ]
     },
     {
       "thai": "สม่ำเสมอ",
@@ -91,7 +168,68 @@
       "kind": "常用词",
       "detail": {
         "meaning": "指做事一直持续、规律、不间断。常用来劝人修行要天天做、长期做，不是想起才做一下。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ม่ำ",
+          "say": "หม่ำ",
+          "roman": "màm",
+          "initial": "ม",
+          "vowel": "◌ำ",
+          "mark": "่",
+          "note": "ำ 读 am；ม 跟着前面的 ส 读低调",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "m",
+            "tone": 2
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "这个 ส 写在 เ 和 ม 中间（เสมอ），先读 sà",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "เมอ",
+          "say": "เหมอ",
+          "roman": "mǒe",
+          "initial": "ม",
+          "vowel": "เ◌อ",
+          "note": "เ 写在 ส 前面，却在 ม 后面读；ม 跟着 ส 读升调",
+          "sound": {
+            "initial": "m",
+            "vowel": "ooe",
+            "final": "",
+            "tone": 5
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "อดทน",
@@ -115,7 +253,39 @@
       "kind": "常用词",
       "detail": {
         "meaning": "忍耐、耐得住，遇到困难、进步慢或不舒服时仍坚持下去。学得慢的人要靠这个，不断地学、不断地练。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "อด",
+          "say": "อด",
+          "roman": "òt",
+          "initial": "อ",
+          "final": "ด",
+          "note": "隐藏元音 o；ด 作尾音读 t",
+          "sound": {
+            "initial": "",
+            "vowel": "o",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "o"
+        },
+        {
+          "thai": "ทน",
+          "say": "ทน",
+          "roman": "thon",
+          "initial": "ท",
+          "final": "น",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "th",
+            "vowel": "o",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "ต้นทุน",
@@ -136,7 +306,40 @@
       "kind": "常用词",
       "detail": {
         "meaning": "本意是做生意的本钱、资本。在讲法中借来比喻每个人过去积累下来的修行基础，各人不一样，所以进步的快慢也不同。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ต้น",
+          "say": "ต้น",
+          "roman": "tôn",
+          "initial": "ต",
+          "final": "น",
+          "mark": "้",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "t",
+            "vowel": "o",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "o"
+        },
+        {
+          "thai": "ทุน",
+          "say": "ทุน",
+          "roman": "thun",
+          "initial": "ท",
+          "vowel": "◌ุ",
+          "final": "น",
+          "sound": {
+            "initial": "th",
+            "vowel": "u",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "u"
+        }
+      ]
     },
     {
       "thai": "สมาธิ",
@@ -169,7 +372,51 @@
             "roman": "sà-tì"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "มา",
+          "say": "มา",
+          "roman": "maa",
+          "initial": "ม",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ธิ",
+          "say": "ธิ",
+          "roman": "thí",
+          "initial": "ธ",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "th",
+            "vowel": "i",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "ตั้งมั่น",
@@ -189,7 +436,41 @@
       "kind": "法义词",
       "detail": {
         "meaning": "指心稳稳地安住、立在那里，是觉知的、不被念头拉走的状态。讲正确的定时常用“心ตั้งมั่น”，心一跑出去就不再ตั้งมั่น。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ตั้ง",
+          "say": "ตั้ง",
+          "roman": "tâng",
+          "initial": "ต",
+          "vowel": "◌ั◌",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "t",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "มั่น",
+          "say": "มั่น",
+          "roman": "mân",
+          "initial": "ม",
+          "vowel": "◌ั◌",
+          "final": "น",
+          "mark": "่",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "ปฏิบัติ",
@@ -214,7 +495,55 @@
       "detail": {
         "pali": "paṭipatti",
         "meaning": "修行，就是实际去做，把佛法用在自己的身心上。修行不只是打坐，日常生活中除了睡觉和必须动脑工作的时间，其余时间都可以修。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ป",
+          "say": "ปะ",
+          "roman": "pà",
+          "initial": "ป",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "p",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ฏิ",
+          "say": "ติ",
+          "roman": "tì",
+          "initial": "ฏ",
+          "vowel": "◌ิ",
+          "note": "ฏ 读 t",
+          "sound": {
+            "initial": "t",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "บัติ",
+          "say": "บัด",
+          "roman": "bàt",
+          "initial": "บ",
+          "vowel": "◌ั◌",
+          "final": "ต",
+          "silent": "ิ",
+          "note": "ต 作尾音读 t，ิ 不发音",
+          "sound": {
+            "initial": "b",
+            "vowel": "a",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "จุดตั้งต้น",
@@ -234,7 +563,57 @@
       "kind": "常用词",
       "detail": {
         "meaning": "起点、出发点，由“จุด（点）”和“ตั้งต้น（开始）”组成。用来说明觉知自己是修行的起点，从这里才能开始对治烦恼。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "จุด",
+          "say": "จุด",
+          "roman": "jùt",
+          "initial": "จ",
+          "vowel": "◌ุ",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "j",
+            "vowel": "u",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "u"
+        },
+        {
+          "thai": "ตั้ง",
+          "say": "ตั้ง",
+          "roman": "tâng",
+          "initial": "ต",
+          "vowel": "◌ั◌",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "t",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ต้น",
+          "say": "ต้น",
+          "roman": "tôn",
+          "initial": "ต",
+          "final": "น",
+          "mark": "้",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "t",
+            "vowel": "o",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "ลืมตัวเอง",
@@ -262,7 +641,55 @@
             "roman": "rúu-sùek-tua"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ลืม",
+          "say": "ลืม",
+          "roman": "luuem",
+          "initial": "ล",
+          "vowel": "◌ื",
+          "final": "ม",
+          "sound": {
+            "initial": "l",
+            "vowel": "uue",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "uue"
+        },
+        {
+          "thai": "ตัว",
+          "say": "ตัว",
+          "roman": "tua",
+          "initial": "ต",
+          "vowel": "◌ัว",
+          "note": "ว是元音的一部分",
+          "sound": {
+            "initial": "t",
+            "vowel": "ua",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ua"
+        },
+        {
+          "thai": "เอง",
+          "say": "เอง",
+          "roman": "eeng",
+          "initial": "อ",
+          "vowel": "เ◌",
+          "final": "ง",
+          "note": "เ写在前面却在后面读",
+          "sound": {
+            "initial": "",
+            "vowel": "ee",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "หายใจ",
@@ -294,7 +721,40 @@
             "roman": "lom-hǎai-jai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หาย",
+          "say": "หาย",
+          "roman": "hǎai",
+          "initial": "ห",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "h",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "หายใจออก",
@@ -322,7 +782,56 @@
             "roman": "hǎai-jai-khâo"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หาย",
+          "say": "หาย",
+          "roman": "hǎai",
+          "initial": "ห",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "h",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "ออก",
+          "say": "ออก",
+          "roman": "àwk",
+          "initial": "อ",
+          "vowel": "◌อ",
+          "final": "ก",
+          "note": "第二个อ是元音 aw；ก作尾音读 k",
+          "sound": {
+            "initial": "",
+            "vowel": "aaw",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "หายใจเข้า",
@@ -350,7 +859,56 @@
             "roman": "hǎai-jai-òk"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หาย",
+          "say": "หาย",
+          "roman": "hǎai",
+          "initial": "ห",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "h",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "เข้า",
+          "say": "เข้า",
+          "roman": "khâo",
+          "initial": "ข",
+          "vowel": "เ◌า",
+          "mark": "้",
+          "note": "เ写在前面却在后面读",
+          "sound": {
+            "initial": "kh",
+            "vowel": "a",
+            "final": "w",
+            "tone": 3
+          },
+          "vowelKey": "ao"
+        }
+      ]
     },
     {
       "thai": "ใจลอย",
@@ -379,7 +937,40 @@
             "roman": "khrêng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "ลอย",
+          "say": "ลอย",
+          "roman": "loi",
+          "initial": "ล",
+          "vowel": "◌อ",
+          "final": "ย",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "l",
+            "vowel": "aaw",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "เคร่ง",
@@ -408,7 +999,26 @@
             "roman": "tueng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เคร่ง",
+          "say": "เคร่ง",
+          "roman": "khrêng",
+          "initial": "คร",
+          "vowel": "เ◌",
+          "final": "ง",
+          "mark": "่",
+          "note": "เ 写在前面却在后面读；有声调符号，这里读短音",
+          "sound": {
+            "initial": "khr",
+            "vowel": "ee",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "ตึง",
@@ -436,7 +1046,24 @@
             "roman": "khrêng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ตึง",
+          "say": "ตึง",
+          "roman": "tueng",
+          "initial": "ต",
+          "vowel": "◌ึ",
+          "final": "ง",
+          "sound": {
+            "initial": "t",
+            "vowel": "ue",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "ue"
+        }
+      ]
     },
     {
       "thai": "ตัว",
@@ -468,7 +1095,24 @@
             "roman": "ton"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ตัว",
+          "say": "ตัว",
+          "roman": "tua",
+          "initial": "ต",
+          "vowel": "◌ัว",
+          "note": "ว 是元音 ◌ัว 的一部分，不是尾音",
+          "sound": {
+            "initial": "t",
+            "vowel": "ua",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ua"
+        }
+      ]
     },
     {
       "thai": "ร่างกาย",
@@ -500,11 +1144,45 @@
             "roman": "kaai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ร่าง",
+          "say": "ร่าง",
+          "roman": "râang",
+          "initial": "ร",
+          "vowel": "◌า",
+          "final": "ง",
+          "mark": "่",
+          "sound": {
+            "initial": "r",
+            "vowel": "aa",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "กาย",
+          "say": "กาย",
+          "roman": "kaai",
+          "initial": "ก",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "尾音 ย 读 i",
+          "sound": {
+            "initial": "k",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "เคลื่อนไหว",
-      "roman": "khlûuean-wǎi",
+      "roman": "khlûean-wǎi",
       "zh": "移动",
       "en": "move",
       "title": "身体行住坐卧不停觉知",
@@ -528,7 +1206,41 @@
             "roman": "yùt-nîng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เคลื่อน",
+          "say": "เคลื่อน",
+          "roman": "khlûean",
+          "initial": "คล",
+          "vowel": "เ◌ือ",
+          "final": "น",
+          "mark": "่",
+          "note": "เ写在前面却在后面读，อ 是元音的一部分",
+          "sound": {
+            "initial": "khl",
+            "vowel": "uea",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "uea"
+        },
+        {
+          "thai": "ไหว",
+          "say": "ไหว",
+          "roman": "wǎi",
+          "initial": "หว",
+          "vowel": "ไ◌",
+          "note": "ไ写在前面却在后面读，ห不发音只管声调",
+          "sound": {
+            "initial": "w",
+            "vowel": "a",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "หยุดนิ่ง",
@@ -553,10 +1265,44 @@
             "thai": "เคลื่อนไหว",
             "zh": "移动",
             "diff": "意思相反，เคลื่อนไหว 是在动，หยุดนิ่ง 是停住不动。",
-            "roman": "khlûuean-wǎi"
+            "roman": "khlûean-wǎi"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หยุด",
+          "say": "หยุด",
+          "roman": "yùt",
+          "initial": "หย",
+          "vowel": "◌ุ",
+          "final": "ด",
+          "note": "ห 不发音，只改声调；ด 作尾音读 t",
+          "sound": {
+            "initial": "y",
+            "vowel": "u",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "u"
+        },
+        {
+          "thai": "นิ่ง",
+          "say": "นิ่ง",
+          "roman": "nîng",
+          "initial": "น",
+          "vowel": "◌ิ",
+          "final": "ง",
+          "mark": "่",
+          "sound": {
+            "initial": "n",
+            "vowel": "i",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "ความสุข",
@@ -589,11 +1335,44 @@
             "roman": "khwaam-thúk"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "สุข",
+          "say": "สุข",
+          "roman": "sùk",
+          "initial": "ส",
+          "vowel": "◌ุ",
+          "final": "ข",
+          "note": "尾音 ข 读 k",
+          "sound": {
+            "initial": "s",
+            "vowel": "u",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "u"
+        }
+      ]
     },
     {
       "thai": "เกิดขึ้น",
-      "roman": "kòet-khûn",
+      "roman": "kòet-khûen",
       "zh": "生起",
       "en": "arise",
       "title": "乐苦生起都要觉知",
@@ -609,7 +1388,41 @@
       "kind": "常用词",
       "detail": {
         "meaning": "指某个东西出现、生起。常见于“某某生起了就去觉知”，如乐、苦、贪、嗔生起，强调它们是自己来、自己去的，不是我们造出来的。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "เกิด",
+          "say": "เกิด",
+          "roman": "kòet",
+          "initial": "ก",
+          "vowel": "เ◌ิ",
+          "final": "ด",
+          "note": "เ写在前面却在后面读，ด作尾音读 t",
+          "sound": {
+            "initial": "k",
+            "vowel": "ooe",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "ooe"
+        },
+        {
+          "thai": "ขึ้น",
+          "say": "ขึ้น",
+          "roman": "khûen",
+          "initial": "ข",
+          "vowel": "◌ึ",
+          "final": "น",
+          "mark": "้",
+          "sound": {
+            "initial": "kh",
+            "vowel": "ue",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "ue"
+        }
+      ]
     },
     {
       "thai": "ความทุกข์",
@@ -642,7 +1455,41 @@
             "roman": "khwaam-sùk"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ทุกข์",
+          "say": "ทุก",
+          "roman": "thúk",
+          "initial": "ท",
+          "vowel": "◌ุ",
+          "final": "ก",
+          "silent": "ข์",
+          "note": "ข์ 不发音",
+          "sound": {
+            "initial": "th",
+            "vowel": "u",
+            "final": "k",
+            "tone": 4
+          },
+          "vowelKey": "u"
+        }
+      ]
     },
     {
       "thai": "โลภ",
@@ -671,7 +1518,25 @@
             "roman": "kròot"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "โลภ",
+          "say": "โลภ",
+          "roman": "lôop",
+          "initial": "ล",
+          "vowel": "โ◌",
+          "final": "ภ",
+          "note": "โ 写在前面却在后面读；尾音 ภ 读 p",
+          "sound": {
+            "initial": "l",
+            "vowel": "oo",
+            "final": "p",
+            "tone": 3
+          },
+          "vowelKey": "oo"
+        }
+      ]
     },
     {
       "thai": "โกรธ",
@@ -699,7 +1564,25 @@
             "roman": "lôop"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "โกรธ",
+          "say": "โกรด",
+          "roman": "kròot",
+          "initial": "กร",
+          "vowel": "โ◌",
+          "final": "ธ",
+          "note": "โ 写在前面却在后面读；ธ 作尾音读 t",
+          "sound": {
+            "initial": "kr",
+            "vowel": "oo",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "oo"
+        }
+      ]
     },
     {
       "thai": "ฟุ้งซ่าน",
@@ -720,7 +1603,41 @@
       "detail": {
         "pali": "uddhacca",
         "meaning": "散乱，指心飘来飘去、静不下来，思绪乱飞。可以把它当作一种心的状态，来了就知道，不必赶走。也可以用在日常，形容人心浮、静不下来。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ฟุ้ง",
+          "say": "ฟุ้ง",
+          "roman": "fúng",
+          "initial": "ฟ",
+          "vowel": "◌ุ",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "f",
+            "vowel": "u",
+            "final": "ng",
+            "tone": 4
+          },
+          "vowelKey": "u"
+        },
+        {
+          "thai": "ซ่าน",
+          "say": "ซ่าน",
+          "roman": "sâan",
+          "initial": "ซ",
+          "vowel": "◌า",
+          "final": "น",
+          "mark": "่",
+          "sound": {
+            "initial": "s",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "หลง",
@@ -752,7 +1669,24 @@
             "roman": "phlǒe"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หลง",
+          "say": "หลง",
+          "roman": "lǒng",
+          "initial": "หล",
+          "final": "ง",
+          "note": "ห 不发音只管声调；隐藏元音 o",
+          "sound": {
+            "initial": "l",
+            "vowel": "o",
+            "final": "ng",
+            "tone": 5
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "เผลอ",
@@ -786,7 +1720,24 @@
             "roman": "phloen"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เผลอ",
+          "say": "เผลอ",
+          "roman": "phlǒe",
+          "initial": "ผล",
+          "vowel": "เ◌อ",
+          "note": "เ 写在前面却在后面读；อ 是元音的一部分",
+          "sound": {
+            "initial": "phl",
+            "vowel": "ooe",
+            "final": "",
+            "tone": 5
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "เพลิน",
@@ -814,7 +1765,25 @@
             "roman": "phlǒe"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เพลิน",
+          "say": "เพลิน",
+          "roman": "phloen",
+          "initial": "พล",
+          "vowel": "เ◌ิ",
+          "final": "น",
+          "note": "เ 写在前面却在后面读",
+          "sound": {
+            "initial": "phl",
+            "vowel": "ooe",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "อันตราย",
@@ -834,7 +1803,54 @@
       "kind": "常用词",
       "detail": {
         "meaning": "危险，指可能带来伤害或坏结果的事。用于提醒：心走神、陶醉看似舒服，其实是在累积痴，对修行有害。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "อัน",
+          "say": "อัน",
+          "roman": "an",
+          "initial": "อ",
+          "vowel": "◌ั",
+          "final": "น",
+          "sound": {
+            "initial": "",
+            "vowel": "a",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ต",
+          "say": "ตะ",
+          "roman": "tà",
+          "initial": "ต",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "t",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ราย",
+          "say": "ราย",
+          "roman": "raai",
+          "initial": "ร",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย 作尾音读 i",
+          "sound": {
+            "initial": "r",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ผล",
@@ -864,7 +1880,24 @@
             "roman": "wí-bàak"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ผล",
+          "say": "ผล",
+          "roman": "phǒn",
+          "initial": "ผ",
+          "final": "ล",
+          "note": "隐藏元音 o；ล 作尾音读 n",
+          "sound": {
+            "initial": "ph",
+            "vowel": "o",
+            "final": "n",
+            "tone": 5
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "สัตว์ เดรัจฉาน",
@@ -897,11 +1930,76 @@
             "roman": "sàt"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "สัตว์",
+          "say": "สัด",
+          "roman": "sàt",
+          "initial": "ส",
+          "vowel": "◌ั",
+          "final": "ต",
+          "silent": "ว์",
+          "note": "ว์ 不发音",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "เด",
+          "say": "เด",
+          "roman": "dee",
+          "initial": "ด",
+          "vowel": "เ◌",
+          "note": "เ 写在前面却在后面读",
+          "sound": {
+            "initial": "d",
+            "vowel": "ee",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ee"
+        },
+        {
+          "thai": "รัจ",
+          "say": "รัด",
+          "roman": "rát",
+          "initial": "ร",
+          "vowel": "◌ั",
+          "final": "จ",
+          "note": "จ 作尾音读 t",
+          "sound": {
+            "initial": "r",
+            "vowel": "a",
+            "final": "t",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ฉาน",
+          "say": "ฉาน",
+          "roman": "chǎan",
+          "initial": "ฉ",
+          "vowel": "◌า",
+          "final": "น",
+          "sound": {
+            "initial": "ch",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "อบาย ภูมิ",
-      "roman": "à-baa-yá-phuum",
+      "roman": "à-baai-yá-phuum",
       "zh": "四恶道",
       "en": "the woeful realms",
       "title": "畜生因痴而生",
@@ -922,7 +2020,70 @@
       "detail": {
         "pali": "apāyabhūmi",
         "meaning": "恶道，指没有快乐、容易受苦的生存界，共四种：地狱、阿修罗（饿鬼的一类）、饿鬼、畜生。这个词用来提醒心被痴、嗔、贪带着走的危险。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "อ",
+          "say": "อะ",
+          "roman": "à",
+          "initial": "อ",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "บาย",
+          "say": "บาย",
+          "roman": "baai",
+          "initial": "บ",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "b",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ย",
+          "say": "ยะ",
+          "roman": "yá",
+          "initial": "ย",
+          "note": "隐藏元音 a，同时是前一音节的尾音",
+          "sound": {
+            "initial": "y",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ภูมิ",
+          "say": "ภูม",
+          "roman": "phuum",
+          "initial": "ภ",
+          "vowel": "◌ู",
+          "final": "ม",
+          "silent": "ิ",
+          "note": "ิ 不发音",
+          "sound": {
+            "initial": "ph",
+            "vowel": "uu",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "uu"
+        }
+      ]
     },
     {
       "thai": "นรก",
@@ -946,7 +2107,38 @@
             "roman": "prèet"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "น",
+          "say": "นะ",
+          "roman": "ná",
+          "initial": "น",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "n",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "รก",
+          "say": "รก",
+          "roman": "rók",
+          "initial": "ร",
+          "final": "ก",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "r",
+            "vowel": "o",
+            "final": "k",
+            "tone": 4
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "เปรต",
@@ -976,7 +2168,25 @@
             "roman": "ná-rók"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เปรต",
+          "say": "เปรต",
+          "roman": "prèet",
+          "initial": "ปร",
+          "vowel": "เ◌",
+          "final": "ต",
+          "note": "เ 写在前面却在辅音后面读",
+          "sound": {
+            "initial": "pr",
+            "vowel": "ee",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "เกิด",
@@ -1009,7 +2219,25 @@
             "roman": "taai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เกิด",
+          "say": "เกิด",
+          "roman": "kòet",
+          "initial": "ก",
+          "vowel": "เ◌ิ",
+          "final": "ด",
+          "note": "เ 写在前面却在辅音后面读",
+          "sound": {
+            "initial": "k",
+            "vowel": "ooe",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "โมหะ",
@@ -1042,7 +2270,38 @@
             "roman": "à-wít-chaa"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "โม",
+          "say": "โม",
+          "roman": "moo",
+          "initial": "ม",
+          "vowel": "โ◌",
+          "note": "โ 写在前面却在辅音后面读",
+          "sound": {
+            "initial": "m",
+            "vowel": "oo",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "oo"
+        },
+        {
+          "thai": "หะ",
+          "say": "หะ",
+          "roman": "hà",
+          "initial": "ห",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "h",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "สัตว์",
@@ -1075,7 +2334,26 @@
             "roman": "sàt dee-rát-chǎan"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "สัตว์",
+          "say": "สัด",
+          "roman": "sàt",
+          "initial": "ส",
+          "vowel": "◌ั◌",
+          "final": "ต",
+          "silent": "ว์",
+          "note": "ว์ 不发音",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "ตั้ง",
@@ -1096,7 +2374,25 @@
       "kind": "小词",
       "detail": {
         "meaning": "放在数字前面，强调数量很多，相当于「足足、整整」。比如 ตั้ง 500 ชาติ，就是「足足五百世」。另外 ตั้งใจ（用心）、ตั้งแต่（从……起）里也有 ตั้ง，但那是别的意思。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ตั้ง",
+          "say": "ตั้ง",
+          "roman": "tâng",
+          "initial": "ต",
+          "vowel": "◌ั◌",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "t",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "พอใจ",
@@ -1128,7 +2424,39 @@
             "roman": "phlôet-phloen"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "พอ",
+          "say": "พอ",
+          "roman": "phaw",
+          "initial": "พ",
+          "vowel": "◌อ",
+          "note": "อ 在这里是元音，不是声母",
+          "sound": {
+            "initial": "ph",
+            "vowel": "aaw",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aaw"
+        },
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ 写在前面却在辅音后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "ติด",
@@ -1156,7 +2484,25 @@
             "roman": "yúuet"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ติด",
+          "say": "ติด",
+          "roman": "tìt",
+          "initial": "ต",
+          "vowel": "◌ิ",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "t",
+            "vowel": "i",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "คน",
@@ -1188,7 +2534,24 @@
             "roman": "má-nút"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "คน",
+          "say": "คน",
+          "roman": "khon",
+          "initial": "ค",
+          "final": "น",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "kh",
+            "vowel": "o",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "โทษ",
@@ -1228,7 +2591,25 @@
             "roman": "thoo-sà"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "โทษ",
+          "say": "โทด",
+          "roman": "thôot",
+          "initial": "ท",
+          "vowel": "โ◌",
+          "final": "ษ",
+          "note": "ษ作尾音读 t",
+          "sound": {
+            "initial": "th",
+            "vowel": "oo",
+            "final": "t",
+            "tone": 3
+          },
+          "vowelKey": "oo"
+        }
+      ]
     },
     {
       "thai": "ร้ายแรง",
@@ -1257,7 +2638,41 @@
             "roman": "run-raeng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ร้าย",
+          "say": "ร้าย",
+          "roman": "ráai",
+          "initial": "ร",
+          "vowel": "◌า",
+          "final": "ย",
+          "mark": "้",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "r",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 4
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "แรง",
+          "say": "แรง",
+          "roman": "raeng",
+          "initial": "ร",
+          "vowel": "แ◌",
+          "final": "ง",
+          "sound": {
+            "initial": "r",
+            "vowel": "aae",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "aae"
+        }
+      ]
     },
     {
       "thai": "ผิดชอบชั่วดี",
@@ -1289,7 +2704,71 @@
             "roman": "bàap-bun"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ผิด",
+          "say": "ผิด",
+          "roman": "phìt",
+          "initial": "ผ",
+          "vowel": "◌ิ",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "ph",
+            "vowel": "i",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ชอบ",
+          "say": "ชอบ",
+          "roman": "châwp",
+          "initial": "ช",
+          "vowel": "◌อ",
+          "final": "บ",
+          "note": "บ作尾音读 p",
+          "sound": {
+            "initial": "ch",
+            "vowel": "aaw",
+            "final": "p",
+            "tone": 3
+          },
+          "vowelKey": "aaw"
+        },
+        {
+          "thai": "ชั่ว",
+          "say": "ชั่ว",
+          "roman": "chûa",
+          "initial": "ช",
+          "vowel": "◌ัว",
+          "mark": "่",
+          "note": "ว是元音的一部分",
+          "sound": {
+            "initial": "ch",
+            "vowel": "ua",
+            "final": "",
+            "tone": 3
+          },
+          "vowelKey": "ua"
+        },
+        {
+          "thai": "ดี",
+          "say": "ดี",
+          "roman": "dii",
+          "initial": "ด",
+          "vowel": "◌ี",
+          "sound": {
+            "initial": "d",
+            "vowel": "ii",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ii"
+        }
+      ]
     },
     {
       "thai": "สัตว์ นรก",
@@ -1328,7 +2807,55 @@
             "roman": "sàt dee-rát-chǎan"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "สัตว์",
+          "say": "สัด",
+          "roman": "sàt",
+          "initial": "ส",
+          "vowel": "◌ั",
+          "final": "ต",
+          "silent": "ว์",
+          "note": "ว์不发音",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "น",
+          "say": "นะ",
+          "roman": "ná",
+          "initial": "น",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "n",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "รก",
+          "say": "รก",
+          "roman": "rók",
+          "initial": "ร",
+          "final": "ก",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "r",
+            "vowel": "o",
+            "final": "k",
+            "tone": 4
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "ครอบ งำ",
@@ -1352,11 +2879,44 @@
       "kind": "常用词",
       "detail": {
         "meaning": "指被某种力量压住、控制住。常用来说烦恼（嗔、痴等）占据了心，让心不由自主地被它牵着走。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ครอบ",
+          "say": "ครอบ",
+          "roman": "khrâwp",
+          "initial": "คร",
+          "vowel": "◌อ",
+          "final": "บ",
+          "note": "บ作尾音读 p",
+          "sound": {
+            "initial": "khr",
+            "vowel": "aaw",
+            "final": "p",
+            "tone": 3
+          },
+          "vowelKey": "aaw"
+        },
+        {
+          "thai": "งำ",
+          "say": "งำ",
+          "roman": "ngam",
+          "initial": "ง",
+          "vowel": "◌ำ",
+          "note": "ำ读 am",
+          "sound": {
+            "initial": "ng",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "am"
+        }
+      ]
     },
     {
       "thai": "สำนึก",
-      "roman": "sǎm-nʉ́k",
+      "roman": "sǎm-núek",
       "zh": "良知 · 悔悟",
       "en": "conscience",
       "title": "地狱众生也会后悔",
@@ -1381,7 +2941,39 @@
             "roman": "sǐa-jai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "สำ",
+          "say": "สำ",
+          "roman": "sǎm",
+          "initial": "ส",
+          "vowel": "◌ำ",
+          "note": "◌ำ 读 am",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "m",
+            "tone": 5
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "นึก",
+          "say": "นึก",
+          "roman": "núek",
+          "initial": "น",
+          "vowel": "◌ึ",
+          "final": "ก",
+          "sound": {
+            "initial": "n",
+            "vowel": "ue",
+            "final": "k",
+            "tone": 4
+          },
+          "vowelKey": "ue"
+        }
+      ]
     },
     {
       "thai": "รู้",
@@ -1421,7 +3013,24 @@
             "roman": "rúu-sùek"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "รู้",
+          "say": "รู้",
+          "roman": "rúu",
+          "initial": "ร",
+          "vowel": "◌ู",
+          "mark": "้",
+          "sound": {
+            "initial": "r",
+            "vowel": "uu",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "uu"
+        }
+      ]
     },
     {
       "thai": "บุญ",
@@ -1460,7 +3069,25 @@
             "roman": "bàap"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "บุญ",
+          "say": "บุน",
+          "roman": "bun",
+          "initial": "บ",
+          "vowel": "◌ุ",
+          "final": "ญ",
+          "note": "ญ 作尾音读 n",
+          "sound": {
+            "initial": "b",
+            "vowel": "u",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "u"
+        }
+      ]
     },
     {
       "thai": "อธิษฐาน",
@@ -1489,11 +3116,58 @@
             "roman": "praat-thà-nǎa"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อ",
+          "say": "อะ",
+          "roman": "à",
+          "initial": "อ",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ธิษ",
+          "say": "ธิด",
+          "roman": "thít",
+          "initial": "ธ",
+          "vowel": "◌ิ",
+          "final": "ษ",
+          "note": "ษ 作尾音读 t",
+          "sound": {
+            "initial": "th",
+            "vowel": "i",
+            "final": "t",
+            "tone": 4
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ฐาน",
+          "say": "ฐาน",
+          "roman": "thǎan",
+          "initial": "ฐ",
+          "vowel": "◌า",
+          "final": "น",
+          "sound": {
+            "initial": "th",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "พัฒนา",
-      "roman": "phát-tha-naa",
+      "roman": "phát-thá-naa",
       "zh": "提升",
       "en": "develop",
       "title": "祈愿投生为狗很困难",
@@ -1521,7 +3195,53 @@
             "roman": "jà-roen"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "พัฒ",
+          "say": "พัฒ",
+          "roman": "phát",
+          "initial": "พ",
+          "vowel": "◌ั◌",
+          "final": "ฒ",
+          "note": "ฒ作尾音读 t",
+          "sound": {
+            "initial": "ph",
+            "vowel": "a",
+            "final": "t",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ฒ",
+          "say": "ฒะ",
+          "roman": "thá",
+          "initial": "ฒ",
+          "note": "隐藏元音 a，同时是前一音节的尾音",
+          "sound": {
+            "initial": "th",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "นา",
+          "say": "นา",
+          "roman": "naa",
+          "initial": "น",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "n",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "จิตใจ",
@@ -1560,7 +3280,40 @@
             "roman": "jai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "จิต",
+          "say": "จิด",
+          "roman": "jìt",
+          "initial": "จ",
+          "vowel": "◌ิ",
+          "final": "ต",
+          "note": "ต 作尾音读 t",
+          "sound": {
+            "initial": "j",
+            "vowel": "i",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ 写在前面，在辅音后读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "หมา",
@@ -1593,7 +3346,24 @@
             "roman": "sù-nák"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หมา",
+          "say": "หมา",
+          "roman": "mǎa",
+          "initial": "หม",
+          "vowel": "◌า",
+          "note": "ห 不发音，只用来抬高声调",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "เก็บ",
@@ -1622,7 +3392,25 @@
             "roman": "yìp"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เก็บ",
+          "say": "เก็บ",
+          "roman": "kèp",
+          "initial": "ก",
+          "vowel": "เ◌็",
+          "final": "บ",
+          "note": "เ 写在前面，在辅音后读；บ 作尾音读 p",
+          "sound": {
+            "initial": "k",
+            "vowel": "e",
+            "final": "p",
+            "tone": 2
+          },
+          "vowelKey": "e"
+        }
+      ]
     },
     {
       "thai": "แมว",
@@ -1642,7 +3430,25 @@
       "kind": "常用词",
       "detail": {
         "meaning": "猫。开示里常与狗一起出现，用来举动物的例子。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "แมว",
+          "say": "แมว",
+          "roman": "maeo",
+          "initial": "ม",
+          "vowel": "แ◌",
+          "final": "ว",
+          "note": "แ 写在前面，在辅音后读；ว 作尾音读 o",
+          "sound": {
+            "initial": "m",
+            "vowel": "aae",
+            "final": "w",
+            "tone": 1
+          },
+          "vowelKey": "aae"
+        }
+      ]
     },
     {
       "thai": "ไม่ กัด",
@@ -1666,7 +3472,41 @@
       "kind": "常用词",
       "detail": {
         "meaning": "不咬。由否定词 ไม่（不）加动词 กัด（咬）组成。例句里指一条善良的狗遇到别的小动物也不咬、不伤害它们。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ไม่",
+          "say": "ไม่",
+          "roman": "mâi",
+          "initial": "ม",
+          "vowel": "ไ◌",
+          "mark": "่",
+          "note": "元音写在前面却在后面读",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "กัด",
+          "say": "กัด",
+          "roman": "kàt",
+          "initial": "ก",
+          "vowel": "◌ั◌",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "k",
+            "vowel": "a",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "อาหาร",
@@ -1694,7 +3534,39 @@
             "roman": "khâao"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อา",
+          "say": "อา",
+          "roman": "aa",
+          "initial": "อ",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "หาร",
+          "say": "หาน",
+          "roman": "hǎan",
+          "initial": "ห",
+          "vowel": "◌า",
+          "final": "ร",
+          "note": "ร作尾音读 n",
+          "sound": {
+            "initial": "h",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 5
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ทาน",
@@ -1718,7 +3590,24 @@
             "roman": "bun"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ทาน",
+          "say": "ทาน",
+          "roman": "thaan",
+          "initial": "ท",
+          "vowel": "◌า",
+          "final": "น",
+          "sound": {
+            "initial": "th",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ขโมย",
@@ -1739,7 +3628,39 @@
       "kind": "常用词",
       "detail": {
         "meaning": "偷，指不经允许拿走别人的东西。在例句里与“不伤害别的众生”并列，说明那条狗持守了不偷盗这一条戒。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ข",
+          "say": "ขะ",
+          "roman": "khà",
+          "initial": "ข",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "kh",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "โมย",
+          "say": "โมย",
+          "roman": "mooi",
+          "initial": "ม",
+          "vowel": "โ◌",
+          "final": "ย",
+          "note": "元音写在前面却在后面读；ย作尾音读 i",
+          "sound": {
+            "initial": "m",
+            "vowel": "oo",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "oo"
+        }
+      ]
     },
     {
       "thai": "ทำ ร้าย",
@@ -1760,7 +3681,41 @@
       "kind": "常用词",
       "detail": {
         "meaning": "伤害、加害，对象可以是人、动物，也可以是身体。例句里既指对别的众生的伤害，也指恶业的果报回头伤害身体。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ทำ",
+          "say": "ทำ",
+          "roman": "tham",
+          "initial": "ท",
+          "vowel": "◌ำ",
+          "note": "ำ 读 am",
+          "sound": {
+            "initial": "th",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "ร้าย",
+          "say": "ร้าย",
+          "roman": "ráai",
+          "initial": "ร",
+          "vowel": "◌า",
+          "final": "ย",
+          "mark": "้",
+          "note": "ย作尾音读 i",
+          "sound": {
+            "initial": "r",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 4
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "พลาด",
@@ -1788,7 +3743,25 @@
             "roman": "phìt"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "พลาด",
+          "say": "พลาด",
+          "roman": "phlâat",
+          "initial": "พล",
+          "vowel": "◌า",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "phl",
+            "vowel": "aa",
+            "final": "t",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "สงบ",
@@ -1827,7 +3800,38 @@
             "roman": "ngîap"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "งบ",
+          "say": "หงบ",
+          "roman": "ngòp",
+          "initial": "ง",
+          "final": "บ",
+          "note": "隐藏元音 o；ง 跟着前面的 ส 读低调；บ 作尾音读 p",
+          "sound": {
+            "initial": "ng",
+            "vowel": "o",
+            "final": "p",
+            "tone": 2
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "ภพ",
@@ -1860,7 +3864,24 @@
             "roman": "châat"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ภพ",
+          "say": "ภพ",
+          "roman": "phóp",
+          "initial": "ภ",
+          "final": "พ",
+          "note": "隐藏元音 o；พ作尾音读 p",
+          "sound": {
+            "initial": "ph",
+            "vowel": "o",
+            "final": "p",
+            "tone": 4
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "กรรม",
@@ -1889,7 +3910,25 @@
             "roman": "wí-bàak"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กรรม",
+          "say": "กัม",
+          "roman": "kam",
+          "initial": "ก",
+          "vowel": "◌รร◌",
+          "final": "ม",
+          "note": "รร 合起来当元音 a",
+          "sound": {
+            "initial": "k",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "แผ่ ส่วน บุญ",
@@ -1923,11 +3962,62 @@
             "diff": "意思几乎相同，是更书面、更正式的说法；แผ่ส่วนบุญ更口语。"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "แผ่",
+          "say": "แผ่",
+          "roman": "phàe",
+          "initial": "ผ",
+          "vowel": "แ◌",
+          "mark": "่",
+          "note": "แ 写在前面却在后面读",
+          "sound": {
+            "initial": "ph",
+            "vowel": "aae",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "aae"
+        },
+        {
+          "thai": "ส่วน",
+          "say": "ส่วน",
+          "roman": "sùan",
+          "initial": "ส",
+          "vowel": "◌ว◌",
+          "final": "น",
+          "mark": "่",
+          "note": "ว 在这里当元音 ua",
+          "sound": {
+            "initial": "s",
+            "vowel": "ua",
+            "final": "n",
+            "tone": 2
+          },
+          "vowelKey": "ua"
+        },
+        {
+          "thai": "บุญ",
+          "say": "บุน",
+          "roman": "bun",
+          "initial": "บ",
+          "vowel": "◌ุ",
+          "final": "ญ",
+          "note": "ญ 当尾音读 n",
+          "sound": {
+            "initial": "b",
+            "vowel": "u",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "u"
+        }
+      ]
     },
     {
       "thai": "หมอง",
-      "roman": "mǒng",
+      "roman": "mǎwng",
       "zh": "郁闷",
       "en": "heavy",
       "title": "功德回向给快死的动物",
@@ -1955,7 +4045,25 @@
             "diff": "เศร้า 是伤心难过的感受，หมอง 是心变得暗淡、不明朗的状态。"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "หมอง",
+          "say": "หมอง",
+          "roman": "mǎwng",
+          "initial": "หม",
+          "vowel": "◌อ",
+          "final": "ง",
+          "note": "ห不发音只管声调",
+          "sound": {
+            "initial": "m",
+            "vowel": "aaw",
+            "final": "ng",
+            "tone": 5
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "เศร้า",
@@ -1982,12 +4090,31 @@
         "compare": [
           {
             "thai": "หมอง",
-            "roman": "mǒng",
+            "roman": "mǎwng",
             "zh": "郁闷、暗淡",
             "diff": "หมอง 偏重心不明朗、不清净的状态，เศร้า 偏重伤心难过的情绪。"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เศร้า",
+          "say": "เส้า",
+          "roman": "sâo",
+          "initial": "ศ",
+          "vowel": "เ◌า",
+          "mark": "้",
+          "silent": "ร",
+          "note": "ร 不发音；เ 写在前面却在后面读",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "w",
+            "tone": 3
+          },
+          "vowelKey": "ao"
+        }
+      ]
     },
     {
       "thai": "ไม่ สบาย",
@@ -2021,11 +4148,58 @@
             "diff": "指某个地方痛或受了伤；ไม่สบาย是整体不舒服。"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ไม่",
+          "say": "ไม่",
+          "roman": "mâi",
+          "initial": "ม",
+          "vowel": "ไ◌",
+          "mark": "่",
+          "note": "ไ 写在前面却在后面读",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "บาย",
+          "say": "บาย",
+          "roman": "baai",
+          "initial": "บ",
+          "vowel": "◌า",
+          "final": "ย",
+          "sound": {
+            "initial": "b",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "คิด ถึง บ้าน",
-      "roman": "khít-thʉ̌ng-bâan",
+      "roman": "khít-thǔeng-bâan",
       "zh": "想家",
       "en": "miss home",
       "title": "狗死时心会悲伤",
@@ -2055,7 +4229,56 @@
             "diff": "偏重放不下、担心对方的情况；คิดถึง偏重思念。"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "คิด",
+          "say": "คิด",
+          "roman": "khít",
+          "initial": "ค",
+          "vowel": "◌ิ",
+          "final": "ด",
+          "note": "ด作尾音读 t",
+          "sound": {
+            "initial": "kh",
+            "vowel": "i",
+            "final": "t",
+            "tone": 4
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ถึง",
+          "say": "ถึง",
+          "roman": "thǔeng",
+          "initial": "ถ",
+          "vowel": "◌ึ",
+          "final": "ง",
+          "sound": {
+            "initial": "th",
+            "vowel": "ue",
+            "final": "ng",
+            "tone": 5
+          },
+          "vowelKey": "ue"
+        },
+        {
+          "thai": "บ้าน",
+          "say": "บ้าน",
+          "roman": "bâan",
+          "initial": "บ",
+          "vowel": "◌า",
+          "final": "น",
+          "mark": "้",
+          "sound": {
+            "initial": "b",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ความรู้สึกตัว",
@@ -2086,7 +4309,70 @@
             "roman": "sà-tì"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "รู้",
+          "say": "รู้",
+          "roman": "rúu",
+          "initial": "ร",
+          "vowel": "◌ู",
+          "mark": "้",
+          "sound": {
+            "initial": "r",
+            "vowel": "uu",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "uu"
+        },
+        {
+          "thai": "สึก",
+          "say": "สึก",
+          "roman": "sùek",
+          "initial": "ส",
+          "vowel": "◌ึ",
+          "final": "ก",
+          "note": "ก 当尾音读 k",
+          "sound": {
+            "initial": "s",
+            "vowel": "ue",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "ue"
+        },
+        {
+          "thai": "ตัว",
+          "say": "ตัว",
+          "roman": "tua",
+          "initial": "ต",
+          "vowel": "◌ัว",
+          "note": "ว 是元音的一部分，不是尾音",
+          "sound": {
+            "initial": "t",
+            "vowel": "ua",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ua"
+        }
+      ]
     },
     {
       "thai": "จิต",
@@ -2118,7 +4404,25 @@
             "roman": "jìt-jai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "จิต",
+          "say": "จิด",
+          "roman": "jìt",
+          "initial": "จ",
+          "vowel": "◌ิ",
+          "final": "ต",
+          "note": "ต 当尾音读 t",
+          "sound": {
+            "initial": "j",
+            "vowel": "i",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "กิเลส",
@@ -2150,7 +4454,39 @@
             "roman": "tan-hǎa"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กิ",
+          "say": "กิ",
+          "roman": "kì",
+          "initial": "ก",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "k",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "เลส",
+          "say": "เหลด",
+          "roman": "lèet",
+          "initial": "ล",
+          "vowel": "เ◌",
+          "final": "ส",
+          "note": "เ 写在前面却在后面读；尾音 ส 读 t",
+          "sound": {
+            "initial": "l",
+            "vowel": "ee",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "ปัญญา",
@@ -2173,7 +4509,40 @@
             "roman": "khwaam-rúu"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ปัญ",
+          "say": "ปัน",
+          "roman": "pan",
+          "initial": "ป",
+          "vowel": "◌ั",
+          "final": "ญ",
+          "note": "尾音 ญ 读 n",
+          "sound": {
+            "initial": "p",
+            "vowel": "a",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ญา",
+          "say": "ยา",
+          "roman": "yaa",
+          "initial": "ญ",
+          "vowel": "◌า",
+          "note": "声母 ญ 读 y",
+          "sound": {
+            "initial": "y",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ความสงบ",
@@ -2195,7 +4564,53 @@
             "roman": "khwaam-sùk"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "งบ",
+          "say": "หงบ",
+          "roman": "ngòp",
+          "initial": "ง",
+          "final": "บ",
+          "note": "隐藏元音 o；ง 跟着前面的 ส 读低调；บ 作尾音读 p",
+          "sound": {
+            "initial": "ng",
+            "vowel": "o",
+            "final": "p",
+            "tone": 2
+          },
+          "vowelKey": "o"
+        }
+      ]
     },
     {
       "thai": "กิเลสคนอื่น",
@@ -2222,7 +4637,71 @@
             "roman": "kì-lèet tua-eeng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กิ",
+          "say": "กิ",
+          "roman": "kì",
+          "initial": "ก",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "k",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "เลส",
+          "say": "เหลด",
+          "roman": "lèet",
+          "initial": "ล",
+          "vowel": "เ◌",
+          "final": "ส",
+          "note": "เ 写在前面却在后面读；尾音 ส 读 t",
+          "sound": {
+            "initial": "l",
+            "vowel": "ee",
+            "final": "t",
+            "tone": 3
+          },
+          "vowelKey": "ee"
+        },
+        {
+          "thai": "คน",
+          "say": "คน",
+          "roman": "khon",
+          "initial": "ค",
+          "final": "น",
+          "note": "隐藏元音 o",
+          "sound": {
+            "initial": "kh",
+            "vowel": "o",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "o"
+        },
+        {
+          "thai": "อื่น",
+          "say": "อื่น",
+          "roman": "ùuen",
+          "initial": "อ",
+          "vowel": "◌ื",
+          "final": "น",
+          "mark": "่",
+          "note": "อ 是空声母；ื 读 ue",
+          "sound": {
+            "initial": "",
+            "vowel": "uue",
+            "final": "n",
+            "tone": 2
+          },
+          "vowelKey": "uue"
+        }
+      ]
     },
     {
       "thai": "กิเลสตัวเอง",
@@ -2249,7 +4728,70 @@
             "roman": "kì-lèet khon-ùuen"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กิ",
+          "say": "กิ",
+          "roman": "kì",
+          "initial": "ก",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "k",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "เลส",
+          "say": "เหลด",
+          "roman": "lèet",
+          "initial": "ล",
+          "vowel": "เ◌",
+          "final": "ส",
+          "note": "เ 写在前面却在后面读；尾音 ส 读 t",
+          "sound": {
+            "initial": "l",
+            "vowel": "ee",
+            "final": "t",
+            "tone": 3
+          },
+          "vowelKey": "ee"
+        },
+        {
+          "thai": "ตัว",
+          "say": "ตัว",
+          "roman": "tua",
+          "initial": "ต",
+          "vowel": "◌ัว",
+          "note": "ว 是元音的一部分",
+          "sound": {
+            "initial": "t",
+            "vowel": "ua",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ua"
+        },
+        {
+          "thai": "เอง",
+          "say": "เอง",
+          "roman": "eeng",
+          "initial": "อ",
+          "vowel": "เ◌",
+          "final": "ง",
+          "note": "อ 是空声母；เ 写在前面却在后面读",
+          "sound": {
+            "initial": "",
+            "vowel": "ee",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "นั่ง สมาธิ เยอะ ๆ",
@@ -2303,7 +4845,25 @@
             "roman": "mòt"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ขาด",
+          "say": "ขาด",
+          "roman": "khàat",
+          "initial": "ข",
+          "vowel": "◌า",
+          "final": "ด",
+          "note": "尾音 ด 读 t",
+          "sound": {
+            "initial": "kh",
+            "vowel": "aa",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "เก่งมาตั้งแต่แรก",
@@ -2322,7 +4882,88 @@
       "kind": "常用词",
       "detail": {
         "meaning": "「一开始就很棒」。เก่ง 是擅长、厉害，มา 表示一路过来，ตั้งแต่แรก 是从最初。常用来说：没有人一开始就修得好，都是慢慢练出来的。"
-      }
+      },
+      "parts": [
+        {
+          "thai": "เก่ง",
+          "say": "เก่ง",
+          "roman": "kèng",
+          "initial": "ก",
+          "vowel": "เ◌",
+          "final": "ง",
+          "mark": "่",
+          "note": "เ 写在前面却在后面读；有声调符号，这里读短音",
+          "sound": {
+            "initial": "k",
+            "vowel": "ee",
+            "final": "ng",
+            "tone": 2
+          },
+          "vowelKey": "ee"
+        },
+        {
+          "thai": "มา",
+          "say": "มา",
+          "roman": "maa",
+          "initial": "ม",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ตั้ง",
+          "say": "ตั้ง",
+          "roman": "tâng",
+          "initial": "ต",
+          "vowel": "◌ั",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "t",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "แต่",
+          "say": "แต่",
+          "roman": "tàe",
+          "initial": "ต",
+          "vowel": "แ◌",
+          "mark": "่",
+          "note": "แ 写在前面却在后面读",
+          "sound": {
+            "initial": "t",
+            "vowel": "aae",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "aae"
+        },
+        {
+          "thai": "แรก",
+          "say": "แรก",
+          "roman": "râek",
+          "initial": "ร",
+          "vowel": "แ◌",
+          "final": "ก",
+          "note": "แ 写在前面却在后面读；尾音 ก 读 k",
+          "sound": {
+            "initial": "r",
+            "vowel": "aae",
+            "final": "k",
+            "tone": 3
+          },
+          "vowelKey": "aae"
+        }
+      ]
     },
     {
       "thai": "ฝึกมาเยอะ",
@@ -2349,11 +4990,58 @@
             "roman": "fùek-fǒn"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ฝึก",
+          "say": "ฝึก",
+          "roman": "fùek",
+          "initial": "ฝ",
+          "vowel": "◌ึ",
+          "final": "ก",
+          "note": "ึ 读 ue；尾音 ก 读 k",
+          "sound": {
+            "initial": "f",
+            "vowel": "ue",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "ue"
+        },
+        {
+          "thai": "มา",
+          "say": "มา",
+          "roman": "maa",
+          "initial": "ม",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "เยอะ",
+          "say": "เยอะ",
+          "roman": "yóe",
+          "initial": "ย",
+          "vowel": "เ◌อะ",
+          "note": "เ 写在前面却在后面读；เ◌อะ 读 oe",
+          "sound": {
+            "initial": "y",
+            "vowel": "oe",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "oe"
+        }
+      ]
     },
     {
       "thai": "จิตเคลื่อนออกไป",
-      "roman": "jìt khlûuean àwk-pai",
+      "roman": "jìt khlûean àwk-pai",
       "zh": "心移出去了",
       "en": "the mind moves out",
       "title": "其他",
@@ -2376,7 +5064,73 @@
             "roman": "jìt-lǒng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "จิต",
+          "say": "จิต",
+          "roman": "jìt",
+          "initial": "จ",
+          "vowel": "◌ิ",
+          "final": "ต",
+          "note": "ต作尾音读 t",
+          "sound": {
+            "initial": "j",
+            "vowel": "i",
+            "final": "t",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        },
+        {
+          "thai": "เคลื่อน",
+          "say": "เคลื่อน",
+          "roman": "khlûean",
+          "initial": "คล",
+          "vowel": "เ◌ือ",
+          "final": "น",
+          "mark": "่",
+          "note": "เ写在前面却在后面读，อ 是元音的一部分",
+          "sound": {
+            "initial": "khl",
+            "vowel": "uea",
+            "final": "n",
+            "tone": 3
+          },
+          "vowelKey": "uea"
+        },
+        {
+          "thai": "ออก",
+          "say": "ออก",
+          "roman": "àwk",
+          "initial": "อ",
+          "vowel": "◌อ",
+          "final": "ก",
+          "note": "第一个อ是声母，第二个是元音",
+          "sound": {
+            "initial": "",
+            "vowel": "aaw",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "aaw"
+        },
+        {
+          "thai": "ไป",
+          "say": "ไป",
+          "roman": "pai",
+          "initial": "ป",
+          "vowel": "ไ◌",
+          "note": "ไ写在前面却在后面读",
+          "sound": {
+            "initial": "p",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "ทำ ให้ ถูก",
@@ -2407,7 +5161,55 @@
             "roman": "tham hâi phaw"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ทำ",
+          "say": "ทำ",
+          "roman": "tham",
+          "initial": "ท",
+          "vowel": "◌ำ",
+          "note": "ำ读 am",
+          "sound": {
+            "initial": "th",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "ให้",
+          "say": "ให้",
+          "roman": "hâi",
+          "initial": "ห",
+          "vowel": "ใ◌",
+          "mark": "้",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "h",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "ถูก",
+          "say": "ถูก",
+          "roman": "thùuk",
+          "initial": "ถ",
+          "vowel": "◌ู",
+          "final": "ก",
+          "sound": {
+            "initial": "th",
+            "vowel": "uu",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "uu"
+        }
+      ]
     },
     {
       "thai": "ใจ",
@@ -2438,7 +5240,24 @@
             "roman": "jìt"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ใจ",
+          "say": "ใจ",
+          "roman": "jai",
+          "initial": "จ",
+          "vowel": "ใ◌",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "เห็น",
@@ -2475,7 +5294,25 @@
             "roman": "rúu"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เห็น",
+          "say": "เห็น",
+          "roman": "hěn",
+          "initial": "ห",
+          "vowel": "เ◌็◌",
+          "final": "น",
+          "note": "เ写在前面却在后面读",
+          "sound": {
+            "initial": "h",
+            "vowel": "e",
+            "final": "n",
+            "tone": 5
+          },
+          "vowelKey": "e"
+        }
+      ]
     },
     {
       "thai": "สบาย",
@@ -2497,7 +5334,39 @@
             "roman": "sùk"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "บาย",
+          "say": "บาย",
+          "roman": "baai",
+          "initial": "บ",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "尾音ย读 i",
+          "sound": {
+            "initial": "b",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ทำ ทาน",
@@ -2525,7 +5394,39 @@
             "roman": "sǐin"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ทำ",
+          "say": "ทำ",
+          "roman": "tham",
+          "initial": "ท",
+          "vowel": "◌ำ",
+          "note": "ำ读 am",
+          "sound": {
+            "initial": "th",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "ทาน",
+          "say": "ทาน",
+          "roman": "thaan",
+          "initial": "ท",
+          "vowel": "◌า",
+          "final": "น",
+          "sound": {
+            "initial": "th",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ไม่",
@@ -2561,7 +5462,25 @@
             "roman": "yang mâi"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ไม่",
+          "say": "ไม่",
+          "roman": "mâi",
+          "initial": "ม",
+          "vowel": "ไ◌",
+          "mark": "่",
+          "note": "ไ写在前面却在后面读",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "ก็",
@@ -2597,7 +5516,24 @@
             "roman": "dûai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ก็",
+          "say": "ก็",
+          "roman": "kâw",
+          "initial": "ก",
+          "vowel": "◌็",
+          "note": "读法特别,读 kâw",
+          "sound": {
+            "initial": "k",
+            "vowel": "aaw",
+            "final": "",
+            "tone": 3
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "เรา",
@@ -2633,7 +5569,24 @@
             "roman": "khǎo"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เรา",
+          "say": "เรา",
+          "roman": "rao",
+          "initial": "ร",
+          "vowel": "เ◌า",
+          "note": "เ写在前面却在后面读",
+          "sound": {
+            "initial": "r",
+            "vowel": "a",
+            "final": "w",
+            "tone": 1
+          },
+          "vowelKey": "ao"
+        }
+      ]
     },
     {
       "thai": "ที่",
@@ -2669,7 +5622,24 @@
             "roman": "khǎwng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ที่",
+          "say": "ที่",
+          "roman": "thîi",
+          "initial": "ท",
+          "vowel": "◌ี",
+          "mark": "่",
+          "sound": {
+            "initial": "th",
+            "vowel": "ii",
+            "final": "",
+            "tone": 3
+          },
+          "vowelKey": "ii"
+        }
+      ]
     },
     {
       "thai": "ได้",
@@ -2705,7 +5675,25 @@
             "roman": "sǎa-mâat"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ได้",
+          "say": "ได้",
+          "roman": "dâai",
+          "initial": "ด",
+          "vowel": "ไ◌",
+          "mark": "้",
+          "note": "ไ写在前面却在后面读",
+          "sound": {
+            "initial": "d",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "มัน",
@@ -2741,7 +5729,24 @@
             "roman": "nân"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "มัน",
+          "say": "มัน",
+          "roman": "man",
+          "initial": "ม",
+          "vowel": "◌ั◌",
+          "final": "น",
+          "sound": {
+            "initial": "m",
+            "vowel": "a",
+            "final": "n",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "จะ",
@@ -2777,7 +5782,23 @@
             "roman": "yàak"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "จะ",
+          "say": "จะ",
+          "roman": "jà",
+          "initial": "จ",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "j",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "แล้ว",
@@ -2813,7 +5834,26 @@
             "roman": "yang"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "แล้ว",
+          "say": "แล้ว",
+          "roman": "láeo",
+          "initial": "ล",
+          "vowel": "แ◌",
+          "final": "ว",
+          "mark": "้",
+          "note": "แ写在前面却在后面读；ว作尾音读成 o",
+          "sound": {
+            "initial": "l",
+            "vowel": "aae",
+            "final": "w",
+            "tone": 4
+          },
+          "vowelKey": "aae"
+        }
+      ]
     },
     {
       "thai": "ให้",
@@ -2849,7 +5889,25 @@
             "roman": "tham hâi"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ให้",
+          "say": "ให้",
+          "roman": "hâi",
+          "initial": "ห",
+          "vowel": "ใ◌",
+          "mark": "้",
+          "note": "ใ写在前面却在后面读",
+          "sound": {
+            "initial": "h",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "อยู่",
@@ -2885,7 +5943,25 @@
             "roman": "kam-lang"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อยู่",
+          "say": "อยู่",
+          "roman": "yùu",
+          "initial": "อย",
+          "vowel": "◌ู",
+          "mark": "่",
+          "note": "อ不发音，只用来改变ย的声调",
+          "sound": {
+            "initial": "y",
+            "vowel": "uu",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "uu"
+        }
+      ]
     },
     {
       "thai": "ความ",
@@ -2921,7 +5997,24 @@
             "roman": "rûeang"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "นี้",
@@ -2957,7 +6050,24 @@
             "roman": "nîi"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "นี้",
+          "say": "นี้",
+          "roman": "níi",
+          "initial": "น",
+          "vowel": "◌ี",
+          "mark": "้",
+          "sound": {
+            "initial": "n",
+            "vowel": "ii",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "ii"
+        }
+      ]
     },
     {
       "thai": "เลย",
@@ -2993,7 +6103,25 @@
             "roman": "kâw"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เลย",
+          "say": "เลย",
+          "roman": "loei",
+          "initial": "ล",
+          "vowel": "เ◌",
+          "final": "ย",
+          "note": "เ 写在前面却在后面读",
+          "sound": {
+            "initial": "l",
+            "vowel": "ooe",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "อะไร",
@@ -3029,7 +6157,38 @@
             "roman": "nǎi"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อะ",
+          "say": "อะ",
+          "roman": "à",
+          "initial": "อ",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ไร",
+          "say": "ไร",
+          "roman": "rai",
+          "initial": "ร",
+          "vowel": "ไ◌",
+          "note": "ไ 写在前面却在后面读",
+          "sound": {
+            "initial": "r",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "ว่า",
@@ -3065,7 +6224,24 @@
             "roman": "khuue"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ว่า",
+          "say": "ว่า",
+          "roman": "wâa",
+          "initial": "ว",
+          "vowel": "◌า",
+          "mark": "่",
+          "sound": {
+            "initial": "w",
+            "vowel": "aa",
+            "final": "",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ของ",
@@ -3101,7 +6277,24 @@
             "roman": "hàeng"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ของ",
+          "say": "ของ",
+          "roman": "khǎwng",
+          "initial": "ข",
+          "vowel": "◌อ",
+          "final": "ง",
+          "sound": {
+            "initial": "kh",
+            "vowel": "aaw",
+            "final": "ng",
+            "tone": 5
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "ถ้า",
@@ -3137,7 +6330,24 @@
             "roman": "mûea"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ถ้า",
+          "say": "ถ้า",
+          "roman": "thâa",
+          "initial": "ถ",
+          "vowel": "◌า",
+          "mark": "้",
+          "sound": {
+            "initial": "th",
+            "vowel": "aa",
+            "final": "",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ใน",
@@ -3173,7 +6383,24 @@
             "roman": "khâang nai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ใน",
+          "say": "ใน",
+          "roman": "nai",
+          "initial": "น",
+          "vowel": "ใ◌",
+          "note": "ใ 写在前面却在后面读",
+          "sound": {
+            "initial": "n",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        }
+      ]
     },
     {
       "thai": "เอง",
@@ -3209,7 +6436,25 @@
             "roman": "dûai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เอง",
+          "say": "เอง",
+          "roman": "eeng",
+          "initial": "อ",
+          "vowel": "เ◌",
+          "final": "ง",
+          "note": "元音เ写在前面却在后面读",
+          "sound": {
+            "initial": "",
+            "vowel": "ee",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "ee"
+        }
+      ]
     },
     {
       "thai": "แต่",
@@ -3245,7 +6490,25 @@
             "roman": "thǔeng máe"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "แต่",
+          "say": "แต่",
+          "roman": "tàe",
+          "initial": "ต",
+          "vowel": "แ◌",
+          "mark": "่",
+          "note": "元音แ写在前面却在后面读",
+          "sound": {
+            "initial": "t",
+            "vowel": "aae",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "aae"
+        }
+      ]
     },
     {
       "thai": "ยัง",
@@ -3281,7 +6544,24 @@
             "roman": "khoei"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ยัง",
+          "say": "ยัง",
+          "roman": "yang",
+          "initial": "ย",
+          "vowel": "◌ั◌",
+          "final": "ง",
+          "sound": {
+            "initial": "y",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "อย่าง",
@@ -3317,7 +6597,26 @@
             "roman": "mǔean"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อย่าง",
+          "say": "อย่าง",
+          "roman": "yàang",
+          "initial": "อย",
+          "vowel": "◌า",
+          "final": "ง",
+          "mark": "่",
+          "note": "อ不发音，只是把ย变成中辅音",
+          "sound": {
+            "initial": "y",
+            "vowel": "aa",
+            "final": "ng",
+            "tone": 2
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "กับ",
@@ -3353,7 +6652,25 @@
             "roman": "dûai"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กับ",
+          "say": "กับ",
+          "roman": "kàp",
+          "initial": "ก",
+          "vowel": "◌ั◌",
+          "final": "บ",
+          "note": "尾音บ读p",
+          "sound": {
+            "initial": "k",
+            "vowel": "a",
+            "final": "p",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "ต้อง",
@@ -3389,7 +6706,25 @@
             "roman": "jam-pen"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ต้อง",
+          "say": "ต้อง",
+          "roman": "tâwng",
+          "initial": "ต",
+          "vowel": "◌อ",
+          "final": "ง",
+          "mark": "้",
+          "sound": {
+            "initial": "t",
+            "vowel": "aaw",
+            "final": "ng",
+            "tone": 3
+          },
+          "vowelKey": "aaw"
+        }
+      ]
     },
     {
       "thai": "มาก",
@@ -3425,7 +6760,25 @@
             "roman": "thîi sùt"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "มาก",
+          "say": "มาก",
+          "roman": "mâak",
+          "initial": "ม",
+          "vowel": "◌า",
+          "final": "ก",
+          "note": "尾音ก读k；无声调符号却读降调",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "k",
+            "tone": 3
+          },
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "อีก",
@@ -3457,7 +6810,25 @@
             "roman": "sám"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "อีก",
+          "say": "อีก",
+          "roman": "ìik",
+          "initial": "อ",
+          "vowel": "◌ี",
+          "final": "ก",
+          "note": "อ在这里是声母，不发辅音；尾音ก读k",
+          "sound": {
+            "initial": "",
+            "vowel": "ii",
+            "final": "k",
+            "tone": 2
+          },
+          "vowelKey": "ii"
+        }
+      ]
     },
     {
       "thai": "เพราะ",
@@ -3493,7 +6864,24 @@
             "roman": "dang nán"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "เพราะ",
+          "say": "เพราะ",
+          "roman": "phráw",
+          "initial": "พร",
+          "vowel": "เ◌าะ",
+          "note": "เ 写在前面却在后面读；元音 เ◌าะ 包住复辅音 พร",
+          "sound": {
+            "initial": "phr",
+            "vowel": "aw",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "aw"
+        }
+      ]
     },
     {
       "thai": "กำลัง",
@@ -3529,7 +6917,39 @@
             "roman": "jà"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "กำ",
+          "say": "กำ",
+          "roman": "kam",
+          "initial": "ก",
+          "vowel": "◌ำ",
+          "note": "◌ำ 读 am，带 m 尾音",
+          "sound": {
+            "initial": "k",
+            "vowel": "a",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "am"
+        },
+        {
+          "thai": "ลัง",
+          "say": "ลัง",
+          "roman": "lang",
+          "initial": "ล",
+          "vowel": "◌ั◌",
+          "final": "ง",
+          "sound": {
+            "initial": "l",
+            "vowel": "a",
+            "final": "ng",
+            "tone": 1
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "นั้น",
@@ -3565,7 +6985,25 @@
             "roman": "nóon"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "นั้น",
+          "say": "นั้น",
+          "roman": "nán",
+          "initial": "น",
+          "vowel": "◌ั◌",
+          "final": "น",
+          "mark": "◌้",
+          "sound": {
+            "initial": "n",
+            "vowel": "a",
+            "final": "n",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        }
+      ]
     },
     {
       "thai": "ด้วย",
@@ -3601,7 +7039,26 @@
             "roman": "kâw"
           }
         ]
-      }
+      },
+      "parts": [
+        {
+          "thai": "ด้วย",
+          "say": "ด้วย",
+          "roman": "dûai",
+          "initial": "ด",
+          "vowel": "◌ว◌",
+          "final": "ย",
+          "mark": "◌้",
+          "note": "ว 当元音 ua，ย 尾音读 i",
+          "sound": {
+            "initial": "d",
+            "vowel": "ua",
+            "final": "y",
+            "tone": 3
+          },
+          "vowelKey": "ua"
+        }
+      ]
     }
   ],
   "coverage": {
@@ -19659,6 +23116,523 @@
         }
       ],
       "splitChecked": true
+    }
+  },
+  "letters": {
+    "consonants": [
+      {
+        "letter": "ก",
+        "name": "กอ ไก่",
+        "nameRoman": "kaw kài",
+        "initial": "k",
+        "final": "k",
+        "class": "中"
+      },
+      {
+        "letter": "ข",
+        "name": "ขอ ไข่",
+        "nameRoman": "khǎw khài",
+        "initial": "kh",
+        "final": "k",
+        "class": "高"
+      },
+      {
+        "letter": "ฃ",
+        "name": "ขอ ขวด",
+        "nameRoman": "khǎw khùat",
+        "initial": "kh",
+        "final": "k",
+        "class": "高",
+        "old": true
+      },
+      {
+        "letter": "ค",
+        "name": "คอ ควาย",
+        "nameRoman": "khaw khwaai",
+        "initial": "kh",
+        "final": "k",
+        "class": "低"
+      },
+      {
+        "letter": "ฅ",
+        "name": "คอ คน",
+        "nameRoman": "khaw khon",
+        "initial": "kh",
+        "final": "k",
+        "class": "低",
+        "old": true
+      },
+      {
+        "letter": "ฆ",
+        "name": "ฆอ ระฆัง",
+        "nameRoman": "khaw rá-khang",
+        "initial": "kh",
+        "final": "k",
+        "class": "低"
+      },
+      {
+        "letter": "ง",
+        "name": "งอ งู",
+        "nameRoman": "ngaw nguu",
+        "initial": "ng",
+        "final": "ng",
+        "class": "低"
+      },
+      {
+        "letter": "จ",
+        "name": "จอ จาน",
+        "nameRoman": "jaw jaan",
+        "initial": "j",
+        "final": "t",
+        "class": "中"
+      },
+      {
+        "letter": "ฉ",
+        "name": "ฉอ ฉิ่ง",
+        "nameRoman": "chǎw chìng",
+        "initial": "ch",
+        "final": "",
+        "class": "高"
+      },
+      {
+        "letter": "ช",
+        "name": "ชอ ช้าง",
+        "nameRoman": "chaw cháang",
+        "initial": "ch",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "ซ",
+        "name": "ซอ โซ่",
+        "nameRoman": "saw sôo",
+        "initial": "s",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "ฌ",
+        "name": "ฌอ เฌอ",
+        "nameRoman": "chaw choe",
+        "initial": "ch",
+        "final": "",
+        "class": "低"
+      },
+      {
+        "letter": "ญ",
+        "name": "ยอ หญิง",
+        "nameRoman": "yaw yǐng",
+        "initial": "y",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "ฎ",
+        "name": "ดอ ชฎา",
+        "nameRoman": "daw chá-daa",
+        "initial": "d",
+        "final": "t",
+        "class": "中"
+      },
+      {
+        "letter": "ฏ",
+        "name": "ตอ ปฏัก",
+        "nameRoman": "taw pà-tàk",
+        "initial": "t",
+        "final": "t",
+        "class": "中"
+      },
+      {
+        "letter": "ฐ",
+        "name": "ฐอ ฐาน",
+        "nameRoman": "thǎw thǎan",
+        "initial": "th",
+        "final": "t",
+        "class": "高"
+      },
+      {
+        "letter": "ฑ",
+        "name": "ทอ มณโฑ",
+        "nameRoman": "thaw mon-thoo",
+        "initial": "th",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "ฒ",
+        "name": "ฒอ ผู้เฒ่า",
+        "nameRoman": "thaw phûu-thâo",
+        "initial": "th",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "ณ",
+        "name": "ณอ เณร",
+        "nameRoman": "naw neen",
+        "initial": "n",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "ด",
+        "name": "ดอ เด็ก",
+        "nameRoman": "daw dèk",
+        "initial": "d",
+        "final": "t",
+        "class": "中"
+      },
+      {
+        "letter": "ต",
+        "name": "ตอ เต่า",
+        "nameRoman": "taw tào",
+        "initial": "t",
+        "final": "t",
+        "class": "中"
+      },
+      {
+        "letter": "ถ",
+        "name": "ถอ ถุง",
+        "nameRoman": "thǎw thǔng",
+        "initial": "th",
+        "final": "t",
+        "class": "高"
+      },
+      {
+        "letter": "ท",
+        "name": "ทอ ทหาร",
+        "nameRoman": "thaw thá-hǎan",
+        "initial": "th",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "ธ",
+        "name": "ธอ ธง",
+        "nameRoman": "thaw thong",
+        "initial": "th",
+        "final": "t",
+        "class": "低"
+      },
+      {
+        "letter": "น",
+        "name": "นอ หนู",
+        "nameRoman": "naw nǔu",
+        "initial": "n",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "บ",
+        "name": "บอ ใบไม้",
+        "nameRoman": "baw bai-máai",
+        "initial": "b",
+        "final": "p",
+        "class": "中"
+      },
+      {
+        "letter": "ป",
+        "name": "ปอ ปลา",
+        "nameRoman": "paw plaa",
+        "initial": "p",
+        "final": "p",
+        "class": "中"
+      },
+      {
+        "letter": "ผ",
+        "name": "ผอ ผึ้ง",
+        "nameRoman": "phǎw phûeng",
+        "initial": "ph",
+        "final": "",
+        "class": "高"
+      },
+      {
+        "letter": "ฝ",
+        "name": "ฝอ ฝา",
+        "nameRoman": "fǎw fǎa",
+        "initial": "f",
+        "final": "",
+        "class": "高"
+      },
+      {
+        "letter": "พ",
+        "name": "พอ พาน",
+        "nameRoman": "phaw phaan",
+        "initial": "ph",
+        "final": "p",
+        "class": "低"
+      },
+      {
+        "letter": "ฟ",
+        "name": "ฟอ ฟัน",
+        "nameRoman": "faw fan",
+        "initial": "f",
+        "final": "p",
+        "class": "低"
+      },
+      {
+        "letter": "ภ",
+        "name": "ภอ สำเภา",
+        "nameRoman": "phaw sǎm-phao",
+        "initial": "ph",
+        "final": "p",
+        "class": "低"
+      },
+      {
+        "letter": "ม",
+        "name": "มอ ม้า",
+        "nameRoman": "maw máa",
+        "initial": "m",
+        "final": "m",
+        "class": "低"
+      },
+      {
+        "letter": "ย",
+        "name": "ยอ ยักษ์",
+        "nameRoman": "yaw yák",
+        "initial": "y",
+        "final": "y",
+        "class": "低"
+      },
+      {
+        "letter": "ร",
+        "name": "รอ เรือ",
+        "nameRoman": "raw ruea",
+        "initial": "r",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "ล",
+        "name": "ลอ ลิง",
+        "nameRoman": "law ling",
+        "initial": "l",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "ว",
+        "name": "วอ แหวน",
+        "nameRoman": "waw wǎen",
+        "initial": "w",
+        "final": "w",
+        "class": "低"
+      },
+      {
+        "letter": "ศ",
+        "name": "ศอ ศาลา",
+        "nameRoman": "sǎw sǎa-laa",
+        "initial": "s",
+        "final": "t",
+        "class": "高"
+      },
+      {
+        "letter": "ษ",
+        "name": "ษอ ฤๅษี",
+        "nameRoman": "sǎw rue-sǐi",
+        "initial": "s",
+        "final": "t",
+        "class": "高"
+      },
+      {
+        "letter": "ส",
+        "name": "สอ เสือ",
+        "nameRoman": "sǎw sǔea",
+        "initial": "s",
+        "final": "t",
+        "class": "高"
+      },
+      {
+        "letter": "ห",
+        "name": "หอ หีบ",
+        "nameRoman": "hǎw hìip",
+        "initial": "h",
+        "final": "",
+        "class": "高"
+      },
+      {
+        "letter": "ฬ",
+        "name": "ฬอ จุฬา",
+        "nameRoman": "law jù-laa",
+        "initial": "l",
+        "final": "n",
+        "class": "低"
+      },
+      {
+        "letter": "อ",
+        "name": "ออ อ่าง",
+        "nameRoman": "aw àang",
+        "initial": "",
+        "final": "",
+        "class": "中"
+      },
+      {
+        "letter": "ฮ",
+        "name": "ฮอ นกฮูก",
+        "nameRoman": "haw nók-hûuk",
+        "initial": "h",
+        "final": "",
+        "class": "低"
+      }
+    ],
+    "initials": {
+      "k": "像「哥」的 g，不送气",
+      "kh": "像「科」的 k，送气",
+      "ng": "像「昂」最后的 ng，放在开头读",
+      "j": "像「鸡」的 j",
+      "ch": "像「七」的 q",
+      "s": "像「丝」的 s",
+      "y": "像「呀」的 y",
+      "d": "浊音 d，声带要振动，比「多」更重",
+      "t": "像「多」的 d，不送气",
+      "th": "像「他」的 t，送气",
+      "n": "像「你」的 n",
+      "b": "浊音 b，声带要振动，比「波」更重",
+      "p": "像「玻」的 b，不送气",
+      "ph": "像「坡」的 p，送气",
+      "f": "像「夫」的 f",
+      "m": "像「妈」的 m",
+      "r": "舌尖轻轻打一下的 r，口语里常读成 l",
+      "l": "像「拉」的 l",
+      "w": "像「哇」的 w",
+      "h": "像「喝」的 h",
+      "": "开头的 อ 不发音，直接读后面的元音"
+    },
+    "finals": {
+      "k": "收在 k 的口型，不爆出声（像粤语「得」的尾音）",
+      "t": "收在 t 的口型，不爆出声（像粤语「一 yat」的尾音）",
+      "p": "嘴唇闭上收住，不爆出声（像粤语「十 sap」的尾音）",
+      "n": "像「安」最后的 n",
+      "m": "嘴唇闭上，像「姆」",
+      "ng": "像「昂」最后的 ng",
+      "w": "收尾轻轻带一个「乌」",
+      "y": "收尾轻轻带一个「衣」"
+    },
+    "vowels": {
+      "a": {
+        "say": "อะ",
+        "zh": "短 a，像很短的「啊」"
+      },
+      "aa": {
+        "say": "อา",
+        "zh": "长 a，「啊——」拖长"
+      },
+      "i": {
+        "say": "อิ",
+        "zh": "短 i，像很短的「衣」"
+      },
+      "ii": {
+        "say": "อี",
+        "zh": "长 i，「衣——」拖长"
+      },
+      "ue": {
+        "say": "อึ",
+        "zh": "短 ue：嘴角往两边拉，不圆唇地发「乌」"
+      },
+      "uue": {
+        "say": "อือ",
+        "zh": "长 ue：嘴角往两边拉，不圆唇的「乌——」"
+      },
+      "u": {
+        "say": "อุ",
+        "zh": "短 u，像很短的「乌」"
+      },
+      "uu": {
+        "say": "อู",
+        "zh": "长 u，「乌——」拖长"
+      },
+      "e": {
+        "say": "เอะ",
+        "zh": "短 e，像很短的「诶」"
+      },
+      "ee": {
+        "say": "เอ",
+        "zh": "长 e，「诶——」拖长"
+      },
+      "ae": {
+        "say": "แอะ",
+        "zh": "短 ae，嘴比「诶」张得更大（像英语 cat 的 a）"
+      },
+      "aae": {
+        "say": "แอ",
+        "zh": "长 ae，嘴张大的「诶——」"
+      },
+      "o": {
+        "say": "โอะ",
+        "zh": "短 o，圆唇，像很短的「哦」"
+      },
+      "oo": {
+        "say": "โอ",
+        "zh": "长 o，圆唇的「哦——」"
+      },
+      "aw": {
+        "say": "เอาะ",
+        "zh": "短 aw，嘴张大的「奥」（像英语 law），很短"
+      },
+      "aaw": {
+        "say": "ออ",
+        "zh": "长 aw，嘴张大的「奥——」"
+      },
+      "oe": {
+        "say": "เออะ",
+        "zh": "短 oe，像很短的「额」"
+      },
+      "ooe": {
+        "say": "เออ",
+        "zh": "长 oe，「额——」拖长"
+      },
+      "ia": {
+        "say": "เอีย",
+        "zh": "ia，「衣」滑到「啊」"
+      },
+      "uea": {
+        "say": "เอือ",
+        "zh": "uea，不圆唇的「乌」滑到「啊」"
+      },
+      "ua": {
+        "say": "อัว",
+        "zh": "ua，「乌」滑到「啊」"
+      },
+      "ai": {
+        "say": "ไอ",
+        "zh": "ai，像「爱」"
+      },
+      "ao": {
+        "say": "เอา",
+        "zh": "ao，像「凹」"
+      },
+      "am": {
+        "say": "อำ",
+        "zh": "am，「啊」完闭上嘴收 m"
+      }
+    },
+    "tones": {
+      "1": {
+        "name": "平调",
+        "zh": "平平的中音，像普通话第一声，但低一点"
+      },
+      "2": {
+        "name": "低调",
+        "zh": "低而平，略往下，比平调低"
+      },
+      "3": {
+        "name": "降调",
+        "zh": "先高再往下掉，像普通话第四声"
+      },
+      "4": {
+        "name": "高调",
+        "zh": "起得高、尾巴往上扬，像偏高的普通话第二声"
+      },
+      "5": {
+        "name": "升调",
+        "zh": "先往下压再升上去，像普通话第三声"
+      }
+    },
+    "marks": {
+      "่": "ไม้เอก",
+      "้": "ไม้โท",
+      "๊": "ไม้ตรี",
+      "๋": "ไม้จัตวา"
     }
   }
 }
