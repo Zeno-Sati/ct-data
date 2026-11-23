@@ -24350,6 +24350,48 @@
         "tone": "5",
         "zh": "腿"
       }
-    ]
+    ],
+    "finalWords": {
+      "k": {
+        "thai": "มาก",
+        "roman": "mâak",
+        "zh": "多"
+      },
+      "t": {
+        "thai": "บาท",
+        "roman": "bàat",
+        "zh": "铢"
+      },
+      "p": {
+        "thai": "ภาพ",
+        "roman": "phâap",
+        "zh": "图像"
+      },
+      "n": {
+        "thai": "บาน",
+        "roman": "baan",
+        "zh": "（花）开"
+      },
+      "m": {
+        "thai": "ตาม",
+        "roman": "taam",
+        "zh": "跟随"
+      },
+      "ng": {
+        "thai": "บาง",
+        "roman": "baang",
+        "zh": "薄、一些"
+      },
+      "w": {
+        "thai": "ขาว",
+        "roman": "khǎao",
+        "zh": "白"
+      },
+      "y": {
+        "thai": "ยาย",
+        "roman": "yaai",
+        "zh": "外婆"
+      }
+    }
   }
 }
