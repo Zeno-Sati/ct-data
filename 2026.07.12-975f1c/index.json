@@ -5854,11 +5854,11 @@
           "note": "แ 写在前面却在后面读",
           "sound": {
             "initial": "th",
-            "vowel": "aae",
+            "vowel": "ae",
             "final": "",
             "tone": 4
           },
-          "vowelKey": "aae"
+          "vowelKey": "ae"
         },
         {
           "thai": "จริง",
@@ -5891,7 +5891,55 @@
       "kind": "原话词",
       "detail": {
         "meaning": "平淡、没感觉"
-      }
+      },
+      "parts": [
+        {
+          "thai": "ความ",
+          "say": "ความ",
+          "roman": "khwaam",
+          "initial": "คว",
+          "vowel": "◌า",
+          "final": "ม",
+          "sound": {
+            "initial": "khw",
+            "vowel": "aa",
+            "final": "m",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "เฉย",
+          "say": "เฉย",
+          "roman": "chǒei",
+          "initial": "ฉ",
+          "vowel": "เ◌",
+          "final": "ย",
+          "sound": {
+            "initial": "ch",
+            "vowel": "ooe",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "ooe"
+        },
+        {
+          "thai": "เฉย",
+          "say": "เฉย",
+          "roman": "chǒei",
+          "initial": "ฉ",
+          "vowel": "เ◌",
+          "final": "ย",
+          "note": "这里写成 ๆ，意思是把前面的词再说一遍",
+          "sound": {
+            "initial": "ch",
+            "vowel": "ooe",
+            "final": "y",
+            "tone": 5
+          },
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "ครู บา อาจารย์",
@@ -6194,7 +6242,71 @@
       "kind": "原话词",
       "detail": {
         "meaning": "诸如此类"
-      }
+      },
+      "parts": [
+        {
+          "thai": "อะ",
+          "say": "อะ",
+          "roman": "à",
+          "initial": "อ",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ไร",
+          "say": "ไร",
+          "roman": "rai",
+          "initial": "ร",
+          "vowel": "ไ◌",
+          "note": "ไ 写在前面却在后面读",
+          "sound": {
+            "initial": "r",
+            "vowel": "a",
+            "final": "y",
+            "tone": 1
+          },
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "อย่าง",
+          "say": "อย่าง",
+          "roman": "yàang",
+          "initial": "อย",
+          "vowel": "◌า",
+          "final": "ง",
+          "mark": "่",
+          "note": "อ不发音，只是把ย变成中辅音",
+          "sound": {
+            "initial": "y",
+            "vowel": "aa",
+            "final": "ng",
+            "tone": 2
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "เงี้",
+          "say": "เงี้ย",
+          "roman": "ngía",
+          "initial": "ง",
+          "vowel": "เ◌ี",
+          "mark": "้",
+          "note": "原文少写了一个 ย，读 เงี้ย（口语的「这样」）",
+          "sound": {
+            "initial": "ng",
+            "vowel": "ia",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "ia"
+        }
+      ]
     },
     {
       "thai": "ความ แช่ม ชื่น",
@@ -50113,6 +50225,10 @@
     [
       "读音/拆读/เจ้า.mp3",
       2636
+    ],
+    [
+      "读音/拆读/เฉย.mp3",
+      3020
     ],
     [
       "读音/拆读/เด.mp3",
