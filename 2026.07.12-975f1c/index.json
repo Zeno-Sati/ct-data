@@ -5881,14 +5881,14 @@
           "roman": "kâw",
           "initial": "ก",
           "vowel": "◌็",
-          "note": "读法特别,读 kâw",
+          "note": "读法特别：写法像 เก้าะ，元音是短的 aw，读 kâw",
           "sound": {
             "initial": "k",
-            "vowel": "aaw",
+            "vowel": "aw",
             "final": "",
             "tone": 3
           },
-          "vowelKey": "aaw"
+          "vowelKey": "aw"
         }
       ]
     },
