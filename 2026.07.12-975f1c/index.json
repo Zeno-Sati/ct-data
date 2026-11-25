@@ -3706,7 +3706,7 @@
         {
           "thai": "โมย",
           "say": "โมย",
-          "roman": "mooi",
+          "roman": "mǒoi",
           "initial": "ม",
           "vowel": "โ◌",
           "final": "ย",
@@ -3715,7 +3715,7 @@
             "initial": "m",
             "vowel": "oo",
             "final": "y",
-            "tone": 1
+            "tone": 5
           },
           "vowelKey": "oo"
         }
