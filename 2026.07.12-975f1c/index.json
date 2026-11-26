@@ -3172,7 +3172,7 @@
       "here": "投生",
       "no": 37,
       "titleEn": "Animals Are Born Carrying Delusion",
-      "count": 59,
+      "count": 57,
       "examples": [
         {
           "clip": "37",
@@ -5845,6 +5845,10 @@
         {
           "clip": "53",
           "line": 2
+        },
+        {
+          "clip": "58",
+          "line": 3
         }
       ],
       "kind": "法义词",
@@ -6729,13 +6733,58 @@
       "en": "",
       "title": "有些饿鬼可以提升",
       "no": 57,
+      "titleEn": "Some Hungry Ghosts Can Rise Higher",
       "count": 1,
       "examples": [
         {
           "clip": "57",
           "line": 1
         }
-      ]
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "diṭṭhi",
+        "meaning": "原意是「见」，就是看法、见解。开示里多指认定自己是对的、不肯改变的固执己见，也就是邪见、我见。日常说一个人「有ทิฐิ」，是说他固执、听不进别人的话。",
+        "compare": [
+          {
+            "thai": "ความเห็น",
+            "roman": "khwaam-hěn",
+            "zh": "看法、意见",
+            "diff": "只是一般的看法，没有固执、不肯放下的意思。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "邪见",
+            "use": "固执己见、执着错误的看法，如 ทิฐิแรง"
+          },
+          {
+            "zh": "见解",
+            "use": "中性的看法、观点，如 ทิฐิของเรา"
+          }
+        ],
+        "en": {
+          "meaning": "ทิฐิ originally means a view or opinion. In Dhamma talks it usually means clinging to one's own view as right and refusing to change it, which is a form of wrong view or self-view. In everyday Thai, saying someone 'has ทิฐิ' means they are stubborn and do not listen to others.",
+          "senses": [
+            {
+              "en": "wrong view",
+              "use": "Stubborn attachment to one's own view, as in ทิฐิแรง, meaning someone with very strong fixed opinions who will not listen."
+            },
+            {
+              "en": "view",
+              "use": "A neutral view or opinion, as in ทิฐิของเรา, 'our view'."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ความเห็น",
+              "en": "opinion",
+              "diff": "ความเห็น is just an ordinary view with no sense of stubbornness or refusing to let go, while ทิฐิ implies holding on to it."
+            }
+          ]
+        }
+      }
     },
     {
       "thai": "มานะ",
@@ -6744,11 +6793,93 @@
       "en": "",
       "title": "有些饿鬼可以提升",
       "no": 57,
+      "titleEn": "Some Hungry Ghosts Can Rise Higher",
       "count": 2,
-      "examples": [
+      "examples": [],
+      "kind": "法义词",
+      "detail": {
+        "pali": "māna",
+        "meaning": "我慢，就是拿自己跟别人比，觉得自己高、自己低或自己一样，由此生出的自我感觉。它是一种烦恼。日常泰语里它也可以指咬牙坚持的毅力，要看上下文。",
+        "compare": [
+          {
+            "thai": "ทิฐิ",
+            "roman": "thít-thì",
+            "zh": "邪见、固执己见",
+            "diff": "ทิฐิ是认定自己的看法对，มานะ是拿自己跟人比的高低感。",
+            "say": true
+          },
+          {
+            "thai": "ถือตัว",
+            "roman": "thǔue tua",
+            "zh": "自视甚高",
+            "diff": "ถือตัว是日常说的摆架子、自以为了不起，มานะ是更深一层的心里的烦恼。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "我慢",
+            "use": "以自我比较而生的傲慢、自大"
+          },
+          {
+            "zh": "努力",
+            "use": "咬牙坚持、奋发的毅力，如 มานะทำ"
+          }
+        ],
+        "en": {
+          "meaning": "มานะ is conceit: the sense of self that arises from comparing oneself with others and feeling higher, lower, or equal. It is a kind of defilement. In everyday Thai it can also mean gritty determination, so the context decides which is meant.",
+          "senses": [
+            {
+              "en": "conceit",
+              "use": "Pride or self-importance that comes from comparing oneself with others."
+            },
+            {
+              "en": "perseverance",
+              "use": "Gritting one's teeth and pushing on with effort, as in มานะทำ."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ทิฐิ",
+              "en": "wrong view",
+              "diff": "ทิฐิ is being sure one's own view is right, while มานะ is the sense of being higher or lower that comes from comparing oneself with others."
+            },
+            {
+              "thai": "ถือตัว",
+              "en": "being arrogant",
+              "diff": "ถือตัว is the everyday word for putting on airs and thinking oneself important, while มานะ is a deeper defilement in the mind."
+            }
+          ]
+        }
+      },
+      "parts": [
         {
-          "clip": "57",
-          "line": 1
+          "thai": "มา",
+          "say": "มา",
+          "roman": "maa",
+          "initial": "ม",
+          "vowel": "◌า",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "นะ",
+          "say": "นะ",
+          "roman": "ná",
+          "initial": "น",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "n",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
         }
       ]
     },
@@ -6759,6 +6890,7 @@
       "en": "",
       "title": "有些饿鬼可以提升",
       "no": 57,
+      "titleEn": "Some Hungry Ghosts Can Rise Higher",
       "count": 3,
       "examples": [
         {
@@ -6861,11 +6993,97 @@
       "en": "",
       "title": "狗和人打成一片变饿鬼",
       "no": 58,
+      "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
       "count": 1,
       "examples": [
         {
           "clip": "58",
           "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "形容人或动物顽劣、不守规矩、爱捣乱、不听话。说一只狗不เกเร，是说它乖、不惹事。",
+        "compare": [
+          {
+            "thai": "ดื้อ",
+            "roman": "dûue",
+            "zh": "倔强、不听劝",
+            "diff": "ดื้อ偏重不听话、硬顶着不改，เกเร偏重行为上调皮捣乱、不守规矩。",
+            "say": true
+          },
+          {
+            "thai": "ซน",
+            "roman": "son",
+            "zh": "淘气好动",
+            "diff": "ซน多指小孩或小动物活泼乱动，没有那么坏，เกเร带有不守规矩的意思。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "不刁难",
+            "use": "指不捣乱、不惹事、不使坏（多用否定 ไม่เกเร）"
+          },
+          {
+            "zh": "顽劣",
+            "use": "形容人或孩子调皮捣蛋、行为不端"
+          }
+        ],
+        "en": {
+          "meaning": "เกเร describes a person or animal that is naughty, unruly, and likes to make trouble. It is often used in the negative: saying a dog is ไม่เกเร means it is well-behaved and does not cause trouble.",
+          "senses": [
+            {
+              "en": "not unruly",
+              "use": "Used as ไม่เกเร to say someone or something is well-behaved and does not make trouble."
+            },
+            {
+              "en": "naughty",
+              "use": "Describes a child or person who is mischievous and badly behaved."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ดื้อ",
+              "en": "stubborn",
+              "diff": "ดื้อ stresses not obeying and refusing to give way, while เกเร stresses mischievous, rule-breaking behavior."
+            },
+            {
+              "thai": "ซน",
+              "en": "restless, playful",
+              "diff": "ซน is mostly for lively children or young animals moving about and is not so bad, while เกเร carries the sense of breaking the rules."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "เก",
+          "say": "เก",
+          "roman": "kee",
+          "initial": "ก",
+          "vowel": "เ◌",
+          "sound": {
+            "initial": "k",
+            "vowel": "ee",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ee"
+        },
+        {
+          "thai": "เร",
+          "say": "เร",
+          "roman": "ree",
+          "initial": "ร",
+          "vowel": "เ◌",
+          "sound": {
+            "initial": "r",
+            "vowel": "ee",
+            "final": "",
+            "tone": 1
+          },
+          "vowelKey": "ee"
         }
       ]
     },
@@ -6876,11 +7094,126 @@
       "en": "",
       "title": "狗和人打成一片变饿鬼",
       "no": 58,
+      "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
       "count": 3,
       "examples": [
         {
           "clip": "58",
           "line": 3
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "合起来说，就是礼拜佛像、念诵经文，像早晚课那样每天做的修持。ไหว้是合掌礼拜，พระ是佛、僧，สวดมนต์是念诵经咒。",
+        "compare": [
+          {
+            "thai": "ทำวัตร",
+            "roman": "tham wát",
+            "zh": "做早晚课",
+            "diff": "ทำวัตร特指寺院里按固定仪轨做的早晚课诵，ไหว้พระสวดมนต์是更宽泛的说法。",
+            "say": true
+          },
+          {
+            "thai": "นั่งสมาธิ",
+            "roman": "nâng sà-maa-thí",
+            "zh": "坐禅",
+            "diff": "坐禅是打坐修定，ไหว้พระสวดมนต์是礼拜和念诵。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "礼佛诵经",
+            "use": "每天向佛像礼拜并念诵经文的修习"
+          }
+        ],
+        "en": {
+          "meaning": "This phrase means paying respect to the Buddha and chanting, the daily practice done in the morning and evening. ไหว้ is bowing with palms together, พระ is the Buddha or monks, and สวดมนต์ is chanting scriptures or verses.",
+          "senses": [
+            {
+              "en": "worship and chanting",
+              "use": "The daily practice of paying respects to the Buddha image and chanting."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ทำวัตร",
+              "en": "monastic chanting",
+              "diff": "ทำวัตร is the fixed morning and evening chanting done in a monastery, while ไหว้พระสวดมนต์ is the broader everyday phrase."
+            },
+            {
+              "thai": "นั่งสมาธิ",
+              "en": "sitting meditation",
+              "diff": "นั่งสมาธิ is sitting to practice concentration, while ไหว้พระสวดมนต์ is bowing and chanting."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "ไหว้",
+          "say": "ไหว้",
+          "roman": "wâi",
+          "initial": "หว",
+          "vowel": "ไ◌",
+          "mark": "้",
+          "note": "ห不发音，只管声调",
+          "sound": {
+            "initial": "w",
+            "vowel": "a",
+            "final": "y",
+            "tone": 3
+          },
+          "noteEn": "ห is silent; it only sets the tone",
+          "vowelKey": "ai"
+        },
+        {
+          "thai": "พระ",
+          "say": "พระ",
+          "roman": "phrá",
+          "initial": "พร",
+          "vowel": "◌ะ",
+          "sound": {
+            "initial": "phr",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "vowelKey": "a"
+        },
+        {
+          "thai": "สวด",
+          "say": "สวด",
+          "roman": "sùat",
+          "initial": "ส",
+          "vowel": "◌ว◌",
+          "final": "ด",
+          "note": "ว是元音的一部分，ด尾音读 t",
+          "sound": {
+            "initial": "s",
+            "vowel": "ua",
+            "final": "t",
+            "tone": 2
+          },
+          "noteEn": "ว is part of the vowel; ด as a final reads t",
+          "vowelKey": "ua"
+        },
+        {
+          "thai": "มนต์",
+          "say": "มน",
+          "roman": "mon",
+          "initial": "ม",
+          "final": "น",
+          "silent": "ต์",
+          "note": "隐藏元音 o，ต์不发音",
+          "sound": {
+            "initial": "m",
+            "vowel": "o",
+            "final": "n",
+            "tone": 1
+          },
+          "noteEn": "Hidden vowel o; ต์ is silent",
+          "vowelKey": "o"
         }
       ]
     },
@@ -6891,11 +7224,327 @@
       "en": "",
       "title": "狗和人打成一片变饿鬼",
       "no": 58,
+      "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
       "count": 8,
       "examples": [
         {
           "clip": "58",
           "line": 5
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "sugati",
+        "meaning": "善道、善趣，就是好的去处，指投生为人或天人等苦少乐多的境界。造善业，死后就会往这样的去处。",
+        "compare": [
+          {
+            "thai": "ทุคติ",
+            "roman": "thú-khá-tì",
+            "zh": "恶道",
+            "diff": "ทุคติ是地狱、饿鬼、畜生等苦多的去处，和สุคติ正好相反。",
+            "say": true
+          },
+          {
+            "thai": "สวรรค์",
+            "roman": "sà-wǎn",
+            "zh": "天界",
+            "diff": "สวรรค์只是天界，สุคติ范围更大，人道和天道都算。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "善道",
+            "use": "好的去处，指人、天等善的投生处，如 ไปสุคติ"
+          }
+        ],
+        "en": {
+          "meaning": "สุคติ means a good destination after death, a realm of existence with more happiness than suffering, such as the human or heavenly realms. Good karma leads there after death.",
+          "senses": [
+            {
+              "en": "good realm",
+              "use": "A fortunate place of rebirth such as the human or heaven realms, as in ไปสุคติ."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ทุคติ",
+              "en": "bad realm",
+              "diff": "ทุคติ is the realms full of suffering, such as hell, hungry ghosts, and animals, the opposite of สุคติ."
+            },
+            {
+              "thai": "สวรรค์",
+              "en": "heaven",
+              "diff": "สวรรค์ is only the heavenly realms, while สุคติ is wider and includes the human realm as well."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "สุ",
+          "say": "สุ",
+          "roman": "sù",
+          "initial": "ส",
+          "vowel": "◌ุ",
+          "sound": {
+            "initial": "s",
+            "vowel": "u",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "u"
+        },
+        {
+          "thai": "ค",
+          "say": "คะ",
+          "roman": "khá",
+          "initial": "ค",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "kh",
+            "vowel": "a",
+            "final": "",
+            "tone": 4
+          },
+          "noteEn": "Hidden vowel a.",
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ติ",
+          "say": "ติ",
+          "roman": "tì",
+          "initial": "ต",
+          "vowel": "◌ิ",
+          "sound": {
+            "initial": "t",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "i"
+        }
+      ]
+    },
+    {
+      "thai": "เวียน ว่าย ตาย เกิด",
+      "roman": "wian wâai taai kòet",
+      "zh": "轮回",
+      "en": "rebirth",
+      "title": "轮回是很神奇的",
+      "no": 59,
+      "titleEn": "Rebirth Is Truly Wondrous",
+      "count": 2,
+      "examples": [
+        {
+          "clip": "59",
+          "line": 0
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "meaning": "轮回，就是不停地死了又生、生了又死，像在水里漂来漂去停不下来。เวียน是绕圈，ว่าย是游，ตาย是死，เกิด是生。",
+        "compare": [
+          {
+            "thai": "สังสารวัฏ",
+            "roman": "sǎng-sǎa-rá-wát",
+            "zh": "轮回",
+            "diff": "这是巴利来源的书面词，เวียนว่ายตายเกิด是口语化的说法，意思相同。",
+            "say": true
+          },
+          {
+            "thai": "ชาติ",
+            "roman": "chàat",
+            "zh": "一世、一生",
+            "diff": "ชาติ指轮回中的某一世，เวียนว่ายตายเกิด指整个循环。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "轮回",
+            "use": "众生在生死中不断流转，如 ไม่ต้องเวียนว่ายตายเกิดอีก"
+          }
+        ],
+        "en": {
+          "meaning": "This phrase means rebirth: dying and being born again and again, like drifting about in water without being able to stop. เวียน is going around, ว่าย is swimming, ตาย is dying, and เกิด is being born.",
+          "senses": [
+            {
+              "en": "rebirth",
+              "use": "Beings going round and round through death and birth, as in ไม่ต้องเวียนว่ายตายเกิดอีก."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "สังสารวัฏ",
+              "en": "samsara",
+              "diff": "สังสารวัฏ is the written word from Pali, while เวียนว่ายตายเกิด is the spoken way of saying the same thing."
+            },
+            {
+              "thai": "ชาติ",
+              "en": "lifetime",
+              "diff": "ชาติ is one single life within the cycle, while เวียนว่ายตายเกิด is the whole cycle."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "thai": "พิสดาร",
+      "roman": "phít-sà-daan",
+      "zh": "神奇",
+      "en": "wondrous",
+      "title": "轮回是很神奇的",
+      "no": 59,
+      "titleEn": "Rebirth Is Truly Wondrous",
+      "count": 1,
+      "examples": [
+        {
+          "clip": "59",
+          "line": 0
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "原指内容详尽、说得很细。日常多指事情离奇、不寻常、不是一般人想得到的。说轮回พิสดาร，是说其中的变化很出人意料。",
+        "compare": [
+          {
+            "thai": "แปลก",
+            "roman": "plàaek",
+            "zh": "奇怪、特别",
+            "diff": "แปลก只是和平常不一样，พิสดาร更有曲折离奇、超出想象的味道。",
+            "say": true
+          },
+          {
+            "thai": "อัศจรรย์",
+            "roman": "àt-sà-jan",
+            "zh": "神奇、惊叹",
+            "diff": "อัศจรรย์带有惊叹赞叹的意思，พิสดาร偏重离奇复杂。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "神奇",
+            "use": "形容事情奇特、出人意料、不寻常"
+          },
+          {
+            "zh": "详尽",
+            "use": "说明得详细、细致，如 อธิบายพิสดาร"
+          }
+        ],
+        "en": {
+          "meaning": "พิสดาร originally means detailed and fully explained. In everyday Thai it more often means strange, out of the ordinary, and beyond what ordinary people would imagine. Saying rebirth is พิสดาร means its twists and turns are surprising.",
+          "senses": [
+            {
+              "en": "wondrous",
+              "use": "Something unusual and surprising, beyond what one would expect."
+            },
+            {
+              "en": "detailed",
+              "use": "An explanation given in full detail, as in อธิบายพิสดาร."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "แปลก",
+              "en": "strange",
+              "diff": "แปลก just means different from the usual, while พิสดาร has more of a sense of being twisting, odd, and beyond imagination."
+            },
+            {
+              "thai": "อัศจรรย์",
+              "en": "amazing",
+              "diff": "อัศจรรย์ carries a sense of awe and admiration, while พิสดาร stresses being odd and complex."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "thai": "ป่า",
+      "roman": "pàa",
+      "zh": "森林里",
+      "en": "forest",
+      "title": "轮回是很神奇的",
+      "no": 59,
+      "titleEn": "Rebirth Is Truly Wondrous",
+      "count": 5,
+      "examples": [
+        {
+          "clip": "59",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "森林、野外。放在动物名前表示野生的，例如สัตว์ป่า是野生动物，หมาป่า是野外生活的犬类。",
+        "compare": [
+          {
+            "thai": "ดง",
+            "roman": "dong",
+            "zh": "密林",
+            "diff": "ดง指树木茂密的林子，ป่า是泛指的森林和野外。",
+            "say": true
+          },
+          {
+            "thai": "เขา",
+            "roman": "khǎo",
+            "zh": "山",
+            "diff": "เขา是山，ป่า是长满树木的地方，不一定在山上。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "森林里",
+            "use": "树林、山林，野外的地方，如 สัตว์ป่า"
+          },
+          {
+            "zh": "野",
+            "use": "野生、不开化的，如 หมาป่า"
+          }
+        ],
+        "en": {
+          "meaning": "ป่า means forest or the wild outdoors. Placed before an animal's name it means wild or living in the wild, as in สัตว์ป่า, 'wild animals'.",
+          "senses": [
+            {
+              "en": "forest",
+              "use": "Woods or wild country, as in สัตว์ป่า."
+            },
+            {
+              "en": "wild",
+              "use": "Wild or living in the wild, as in หมาป่า."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "ดง",
+              "en": "thicket",
+              "diff": "ดง is a dense stretch of woodland, while ป่า is the general word for forest and wild country."
+            },
+            {
+              "thai": "เขา",
+              "en": "mountain",
+              "diff": "เขา is a mountain, while ป่า is any place covered in trees, which need not be on a mountain."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "ป่า",
+          "say": "ป่า",
+          "roman": "pàa",
+          "initial": "ป",
+          "vowel": "◌า",
+          "mark": "่",
+          "sound": {
+            "initial": "p",
+            "vowel": "aa",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "aa"
         }
       ]
     },
@@ -16543,6 +17192,10 @@
         {
           "clip": "15",
           "line": 1
+        },
+        {
+          "clip": "59",
+          "line": 0
         }
       ],
       "detail": {
@@ -18953,6 +19606,10 @@
         {
           "clip": "3",
           "line": 0
+        },
+        {
+          "clip": "59",
+          "line": 2
         }
       ],
       "detail": {
@@ -19029,6 +19686,10 @@
         {
           "clip": "3",
           "line": 0
+        },
+        {
+          "clip": "59",
+          "line": 2
         }
       ],
       "detail": {
@@ -24846,6 +25507,10 @@
         {
           "clip": "44",
           "line": 0
+        },
+        {
+          "clip": "59",
+          "line": 0
         }
       ],
       "detail": {
@@ -26268,6 +26933,10 @@
         {
           "clip": "47",
           "line": 1
+        },
+        {
+          "clip": "59",
+          "line": 2
         }
       ],
       "detail": {
@@ -28834,6 +29503,7 @@
   "coverage": {
     "total": 7877,
     "words": {
+      "เวียน ว่าย ตาย เกิด": 8,
       "เก่งมาตั้งแต่แรก": 5,
       "จิตเคลื่อนออกไป": 4,
       "ไหว้ พระ สวด มนต์": 12,
@@ -28954,6 +29624,7 @@
       "ไม่ กัด": 6,
       "ทำ ร้าย": 8,
       "ผูกพัน": 20,
+      "พิสดาร": 1,
       "รู้ สึก": 64,
       "แล้ว ก็": 42,
       "ตัว เอง": 50,
@@ -29071,7 +29742,7 @@
       "โกรธ": 5,
       "เผลอ": 2,
       "เปรต": 34,
-      "เกิด": 59,
+      "เกิด": 57,
       "โมหะ": 12,
       "ตั้ง": 6,
       "พอใจ": 4,
@@ -29152,6 +29823,7 @@
       "แมว": 5,
       "ทาน": 0,
       "สงบ": 3,
+      "ป่า": 5,
       "จิต": 112,
       "ขาด": 9,
       "ไม่": 105,
@@ -29171,7 +29843,7 @@
       "กับ": 29,
       "มาก": 19,
       "อีก": 20,
-      "ตาย": 36,
+      "ตาย": 34,
       "ไว้": 18,
       "กิน": 11,
       "ถูก": 15,
@@ -29795,7 +30467,7 @@
             },
             {
               "n": 1,
-              "zh": "多",
+              "zh": "厉害",
               "en": "more"
             },
             {
@@ -29805,7 +30477,7 @@
             },
             {
               "n": 1,
-              "zh": "多",
+              "zh": "厉害",
               "en": "more"
             },
             {
@@ -29998,7 +30670,7 @@
             },
             {
               "n": 1,
-              "zh": "多",
+              "zh": "厉害",
               "en": "more"
             },
             {
@@ -30008,7 +30680,7 @@
             },
             {
               "n": 1,
-              "zh": "多",
+              "zh": "厉害",
               "en": "more"
             },
             {
@@ -32036,7 +32708,7 @@
             {
               "n": 1,
               "zh": "（过来）",
-              "en": "come"
+              "en": "have been (doing)"
             },
             {
               "n": 1,
@@ -32184,7 +32856,7 @@
             {
               "n": 1,
               "zh": "（过来）",
-              "en": "come"
+              "en": "have been (doing)"
             },
             {
               "n": 1,
@@ -34428,7 +35100,7 @@
             {
               "n": 2,
               "zh": "多少",
-              "en": "how much"
+              "en": "(not) much"
             },
             {
               "n": 1,
@@ -34624,7 +35296,7 @@
             {
               "n": 2,
               "zh": "多少",
-              "en": "how much"
+              "en": "(not) much"
             },
             {
               "n": 1,
@@ -34820,7 +35492,7 @@
             {
               "n": 2,
               "zh": "多少",
-              "en": "how much"
+              "en": "(not) much"
             },
             {
               "n": 1,
@@ -36172,7 +36844,7 @@
             },
             {
               "n": 1,
-              "zh": "他们",
+              "zh": "他",
               "en": "they"
             },
             {
@@ -36336,7 +37008,7 @@
             },
             {
               "n": 1,
-              "zh": "他们",
+              "zh": "他",
               "en": "they"
             },
             {
@@ -36964,7 +37636,7 @@
             },
             {
               "n": 1,
-              "zh": "就",
+              "zh": "也",
               "en": "then"
             },
             {
@@ -44259,7 +44931,7 @@
             },
             {
               "n": 1,
-              "zh": "那样",
+              "zh": "所以",
               "en": "like that"
             },
             {
@@ -44397,7 +45069,7 @@
             },
             {
               "n": 1,
-              "zh": "那样",
+              "zh": "所以",
               "en": "like that"
             },
             {
@@ -58833,15 +59505,18 @@
           "beats": [
             {
               "text": "เป็น",
-              "at": 0.1
+              "at": 0.1,
+              "zh": "作为"
             },
             {
               "text": "สัตว์",
-              "at": 0.36
+              "at": 0.36,
+              "zh": "动物"
             },
             {
               "text": "เดรัจฉาน",
-              "at": 0.54
+              "at": 0.54,
+              "zh": "动物"
             },
             {
               "text": "นะ",
@@ -58853,39 +59528,111 @@
             },
             {
               "text": "สอน",
-              "at": 1.54
+              "at": 1.54,
+              "zh": "教"
             },
             {
               "text": "ไม่",
-              "at": 1.88
+              "at": 1.88,
+              "zh": "没法"
             },
             {
               "text": "ได้",
-              "at": 2.14
+              "at": 2.14,
+              "zh": "没法"
             },
             {
               "text": "เป็น",
-              "at": 3.4
+              "at": 3.4,
+              "zh": "作为"
             },
             {
               "text": "สัตว์",
-              "at": 3.86
+              "at": 3.86,
+              "zh": "众生"
             },
             {
               "text": "นรก",
-              "at": 4.12
+              "at": 4.12,
+              "zh": "地狱"
             },
             {
               "text": "สอน",
-              "at": 4.5
+              "at": 4.5,
+              "zh": "教"
             },
             {
               "text": "ไม่",
-              "at": 5.36
+              "at": 5.36,
+              "zh": "没法"
             },
             {
               "text": "ได้",
-              "at": 5.62
+              "at": 5.62,
+              "zh": "没法"
+            }
+          ],
+          "en": "As an animal, you can't be taught. As a hell being, you can't be taught either.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "作为",
+              "en": "be"
+            },
+            {
+              "n": 2,
+              "zh": "动物",
+              "en": "animals"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "教",
+              "en": "teach"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
+            },
+            {
+              "n": 1,
+              "zh": "作为",
+              "en": "be"
+            },
+            {
+              "n": 2,
+              "zh": "地狱众生",
+              "en": "hell beings"
+            },
+            {
+              "n": 1,
+              "zh": "教",
+              "en": "teach"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
             }
           ]
         },
@@ -58897,11 +59644,13 @@
           "beats": [
             {
               "text": "เป็น",
-              "at": 6.86
+              "at": 6.86,
+              "zh": "作为"
             },
             {
               "text": "อสุรกาย",
-              "at": 7.04
+              "at": 7.04,
+              "zh": "阿修罗道"
             },
             {
               "text": "เจ้า",
@@ -58909,11 +59658,13 @@
             },
             {
               "text": "ทิฐิ",
-              "at": 9.14
+              "at": 9.14,
+              "zh": "邪见"
             },
             {
               "text": "มา",
-              "at": 9.58
+              "at": 9.58,
+              "zh": "很强"
             },
             {
               "text": "นะ",
@@ -58921,7 +59672,8 @@
             },
             {
               "text": "แรง",
-              "at": 10.08
+              "at": 10.08,
+              "zh": "很强"
             },
             {
               "text": "มัน",
@@ -58929,19 +59681,23 @@
             },
             {
               "text": "ไม่",
-              "at": 11.32
+              "at": 11.32,
+              "zh": "不听"
             },
             {
               "text": "ฟัง",
-              "at": 11.48
+              "at": 11.48,
+              "zh": "任何人"
             },
             {
               "text": "ใคร",
-              "at": 11.74
+              "at": 11.74,
+              "zh": "这些"
             },
             {
               "text": "พวก",
-              "at": 12.15
+              "at": 12.15,
+              "zh": "这些"
             },
             {
               "text": "นี้",
@@ -58953,19 +59709,100 @@
             },
             {
               "text": "สอน",
-              "at": 12.82
+              "at": 12.82,
+              "zh": "没法教"
             },
             {
               "text": "ไม่",
-              "at": 13.02
+              "at": 13.02,
+              "zh": "没法教"
             },
             {
               "text": "ได้",
-              "at": 13.3
+              "at": 13.3,
+              "zh": "没法教"
             },
             {
               "text": "นะ",
               "at": 14.19
+            }
+          ],
+          "en": "As an asura, with strong wrong views and conceit,",
+          "words": [
+            {
+              "n": 1,
+              "zh": "作为",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "阿修罗",
+              "en": "asura"
+            },
+            {
+              "n": 1,
+              "zh": "（……的主，指具有者）",
+              "en": "(prefix)"
+            },
+            {
+              "n": 3,
+              "zh": "邪见我慢",
+              "en": "wrong views and conceit"
+            },
+            {
+              "n": 1,
+              "zh": "强",
+              "en": "strong"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "听",
+              "en": "listen"
+            },
+            {
+              "n": 1,
+              "zh": "任何人",
+              "en": "anyone"
+            },
+            {
+              "n": 2,
+              "zh": "这些",
+              "en": "these beings"
+            },
+            {
+              "n": 1,
+              "zh": "也",
+              "en": "also"
+            },
+            {
+              "n": 1,
+              "zh": "教",
+              "en": "teach"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -58977,11 +59814,13 @@
           "beats": [
             {
               "text": "เป็น",
-              "at": 6.86
+              "at": 6.86,
+              "zh": "作为"
             },
             {
               "text": "อสุรกาย",
-              "at": 7.04
+              "at": 7.04,
+              "zh": "阿修罗道"
             },
             {
               "text": "เจ้า",
@@ -58989,11 +59828,13 @@
             },
             {
               "text": "ทิฐิ",
-              "at": 9.14
+              "at": 9.14,
+              "zh": "邪见"
             },
             {
               "text": "มา",
-              "at": 9.58
+              "at": 9.58,
+              "zh": "很强"
             },
             {
               "text": "นะ",
@@ -59001,7 +59842,8 @@
             },
             {
               "text": "แรง",
-              "at": 10.08
+              "at": 10.08,
+              "zh": "很强"
             },
             {
               "text": "มัน",
@@ -59009,19 +59851,23 @@
             },
             {
               "text": "ไม่",
-              "at": 11.32
+              "at": 11.32,
+              "zh": "不听"
             },
             {
               "text": "ฟัง",
-              "at": 11.48
+              "at": 11.48,
+              "zh": "任何人"
             },
             {
               "text": "ใคร",
-              "at": 11.74
+              "at": 11.74,
+              "zh": "这些"
             },
             {
               "text": "พวก",
-              "at": 12.15
+              "at": 12.15,
+              "zh": "这些"
             },
             {
               "text": "นี้",
@@ -59033,19 +59879,100 @@
             },
             {
               "text": "สอน",
-              "at": 12.82
+              "at": 12.82,
+              "zh": "没法教"
             },
             {
               "text": "ไม่",
-              "at": 13.02
+              "at": 13.02,
+              "zh": "没法教"
             },
             {
               "text": "ได้",
-              "at": 13.3
+              "at": 13.3,
+              "zh": "没法教"
             },
             {
               "text": "นะ",
               "at": 14.19
+            }
+          ],
+          "en": "who won't listen to anyone, these beings can't be taught either.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "作为",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "阿修罗",
+              "en": "asura"
+            },
+            {
+              "n": 1,
+              "zh": "（……的主，指具有者）",
+              "en": "(prefix)"
+            },
+            {
+              "n": 3,
+              "zh": "邪见我慢",
+              "en": "wrong views and conceit"
+            },
+            {
+              "n": 1,
+              "zh": "强",
+              "en": "strong"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "听",
+              "en": "listen"
+            },
+            {
+              "n": 1,
+              "zh": "任何人",
+              "en": "anyone"
+            },
+            {
+              "n": 2,
+              "zh": "这些",
+              "en": "these beings"
+            },
+            {
+              "n": 1,
+              "zh": "也",
+              "en": "also"
+            },
+            {
+              "n": 1,
+              "zh": "教",
+              "en": "teach"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -59057,19 +59984,23 @@
           "beats": [
             {
               "text": "มี",
-              "at": 15.08
+              "at": 15.08,
+              "zh": "只有"
             },
             {
               "text": "เปรต",
-              "at": 15.08
+              "at": 15.08,
+              "zh": "饿鬼"
             },
             {
               "text": "บาง",
-              "at": 16.08
+              "at": 16.08,
+              "zh": "某些"
             },
             {
               "text": "ชนิด",
-              "at": 16.74
+              "at": 16.74,
+              "zh": "种类"
             },
             {
               "text": "นะ",
@@ -59077,15 +60008,60 @@
             },
             {
               "text": "พัฒนา",
-              "at": 17.22
+              "at": 17.22,
+              "zh": "提升"
             },
             {
               "text": "ได้",
-              "at": 18.7
+              "at": 18.7,
+              "zh": "可以"
             },
             {
               "text": "นะ",
               "at": 18.9
+            }
+          ],
+          "en": "Only some kinds of hungry ghosts can be developed.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "有",
+              "en": "have"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            },
+            {
+              "n": 1,
+              "zh": "某些",
+              "en": "some"
+            },
+            {
+              "n": 1,
+              "zh": "种类",
+              "en": "kind"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "提升",
+              "en": "develop"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         }
@@ -59108,11 +60084,13 @@
           "beats": [
             {
               "text": "อย่าง",
-              "at": 1.0
+              "at": 1.0,
+              "zh": "比如"
             },
             {
               "text": "หมา",
-              "at": 1.76
+              "at": 1.76,
+              "zh": "狗"
             },
             {
               "text": "นะ",
@@ -59128,11 +60106,13 @@
             },
             {
               "text": "กับ",
-              "at": 4.6
+              "at": 4.6,
+              "zh": "跟"
             },
             {
               "text": "คน",
-              "at": 4.68
+              "at": 4.68,
+              "zh": "人"
             },
             {
               "text": "อะไร",
@@ -59148,11 +60128,13 @@
             },
             {
               "text": "เป็น",
-              "at": 6.48
+              "at": 6.48,
+              "zh": "是"
             },
             {
               "text": "หมา",
-              "at": 6.48
+              "at": 6.48,
+              "zh": "狗"
             },
             {
               "text": "ที่",
@@ -59160,19 +60142,100 @@
             },
             {
               "text": "ดี",
-              "at": 7.04
+              "at": 7.04,
+              "zh": "好"
             },
             {
               "text": "ไม่",
-              "at": 7.32
+              "at": 7.32,
+              "zh": "不"
             },
             {
               "text": "เกเร",
-              "at": 7.64
+              "at": 7.64,
+              "zh": "刁难"
             },
             {
               "text": "นะ",
               "at": 9.1
+            }
+          ],
+          "en": "Take a dog, for example, that gets along well with people,",
+          "words": [
+            {
+              "n": 1,
+              "zh": "比如",
+              "en": "like"
+            },
+            {
+              "n": 1,
+              "zh": "狗",
+              "en": "dog"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "一…就",
+              "en": "when"
+            },
+            {
+              "n": 1,
+              "zh": "在",
+              "en": "live"
+            },
+            {
+              "n": 1,
+              "zh": "跟",
+              "en": "with"
+            },
+            {
+              "n": 1,
+              "zh": "人",
+              "en": "person"
+            },
+            {
+              "n": 3,
+              "zh": "什么的",
+              "en": "something like this"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "狗",
+              "en": "dog"
+            },
+            {
+              "n": 1,
+              "zh": "（引出修饰，的）",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "刁难",
+              "en": "make trouble"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -59184,11 +60247,13 @@
           "beats": [
             {
               "text": "อย่าง",
-              "at": 1.0
+              "at": 1.0,
+              "zh": "比如"
             },
             {
               "text": "หมา",
-              "at": 1.76
+              "at": 1.76,
+              "zh": "狗"
             },
             {
               "text": "นะ",
@@ -59204,11 +60269,13 @@
             },
             {
               "text": "กับ",
-              "at": 4.6
+              "at": 4.6,
+              "zh": "跟"
             },
             {
               "text": "คน",
-              "at": 4.68
+              "at": 4.68,
+              "zh": "人"
             },
             {
               "text": "อะไร",
@@ -59224,11 +60291,13 @@
             },
             {
               "text": "เป็น",
-              "at": 6.48
+              "at": 6.48,
+              "zh": "是"
             },
             {
               "text": "หมา",
-              "at": 6.48
+              "at": 6.48,
+              "zh": "狗"
             },
             {
               "text": "ที่",
@@ -59236,19 +60305,100 @@
             },
             {
               "text": "ดี",
-              "at": 7.04
+              "at": 7.04,
+              "zh": "好"
             },
             {
               "text": "ไม่",
-              "at": 7.32
+              "at": 7.32,
+              "zh": "不"
             },
             {
               "text": "เกเร",
-              "at": 7.64
+              "at": 7.64,
+              "zh": "刁难"
             },
             {
               "text": "นะ",
               "at": 9.1
+            }
+          ],
+          "en": "a good dog that doesn't cause trouble.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "比如",
+              "en": "like"
+            },
+            {
+              "n": 1,
+              "zh": "狗",
+              "en": "dog"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "一…就",
+              "en": "when"
+            },
+            {
+              "n": 1,
+              "zh": "在",
+              "en": "live"
+            },
+            {
+              "n": 1,
+              "zh": "跟",
+              "en": "with"
+            },
+            {
+              "n": 1,
+              "zh": "人",
+              "en": "person"
+            },
+            {
+              "n": 3,
+              "zh": "什么的",
+              "en": "something like this"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "狗",
+              "en": "dog"
+            },
+            {
+              "n": 1,
+              "zh": "（引出修饰，的）",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "刁难",
+              "en": "make trouble"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -59264,19 +60414,23 @@
             },
             {
               "text": "ตาย",
-              "at": 10.86
+              "at": 10.86,
+              "zh": "死"
             },
             {
               "text": "มัน",
-              "at": 11.24
+              "at": 11.24,
+              "zh": "它"
             },
             {
               "text": "ผูก",
-              "at": 11.98
+              "at": 11.98,
+              "zh": "打成一片"
             },
             {
               "text": "พัน",
-              "at": 12.4
+              "at": 12.4,
+              "zh": "打成一片"
             },
             {
               "text": "อยู่",
@@ -59284,11 +60438,13 @@
             },
             {
               "text": "กับ",
-              "at": 12.94
+              "at": 12.94,
+              "zh": "跟"
             },
             {
               "text": "คน",
-              "at": 13.02
+              "at": 13.02,
+              "zh": "人"
             },
             {
               "text": "นะ",
@@ -59296,11 +60452,66 @@
             },
             {
               "text": "เป็น",
-              "at": 13.78
+              "at": 13.78,
+              "zh": "变成"
             },
             {
               "text": "เปรต",
-              "at": 14.04
+              "at": 14.04,
+              "zh": "饿鬼"
+            }
+          ],
+          "en": "Because it's so attached to people, when it dies it becomes a hungry ghost.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "时候",
+              "en": "time"
+            },
+            {
+              "n": 1,
+              "zh": "死",
+              "en": "die"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 2,
+              "zh": "牵绊",
+              "en": "attached"
+            },
+            {
+              "n": 1,
+              "zh": "（持续）",
+              "en": "(continuous)"
+            },
+            {
+              "n": 1,
+              "zh": "跟",
+              "en": "to"
+            },
+            {
+              "n": 1,
+              "zh": "人",
+              "en": "person"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "成为",
+              "en": "become"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
             }
           ]
         },
@@ -59312,19 +60523,23 @@
           "beats": [
             {
               "text": "เรา",
-              "at": 16.09
+              "at": 16.09,
+              "zh": "我们"
             },
             {
               "text": "ทำ",
-              "at": 16.26
+              "at": 16.26,
+              "zh": "做"
             },
             {
               "text": "บุญ",
-              "at": 16.4
+              "at": 16.4,
+              "zh": "功德"
             },
             {
               "text": "ทำ",
-              "at": 16.48
+              "at": 16.48,
+              "zh": "做"
             },
             {
               "text": "อะไร",
@@ -59332,43 +60547,53 @@
             },
             {
               "text": "ไหว้",
-              "at": 16.76
+              "at": 16.76,
+              "zh": "礼"
             },
             {
               "text": "พระ",
-              "at": 17.08
+              "at": 17.08,
+              "zh": "佛"
             },
             {
               "text": "สวด",
-              "at": 17.26
+              "at": 17.26,
+              "zh": "诵"
             },
             {
               "text": "มนต์",
-              "at": 17.66
+              "at": 17.66,
+              "zh": "经"
             },
             {
               "text": "ทุก",
-              "at": 18.14
+              "at": 18.14,
+              "zh": "每"
             },
             {
               "text": "วัน",
-              "at": 18.3
+              "at": 18.3,
+              "zh": "天"
             },
             {
               "text": "ทุก",
-              "at": 18.53
+              "at": 18.53,
+              "zh": "每"
             },
             {
               "text": "วัน",
-              "at": 18.75
+              "at": 18.75,
+              "zh": "天"
             },
             {
               "text": "แล้ว",
-              "at": 18.98
+              "at": 18.98,
+              "zh": "然后"
             },
             {
               "text": "แผ่",
-              "at": 19.18
+              "at": 19.18,
+              "zh": "回向"
             },
             {
               "text": "ส่วน",
@@ -59376,11 +60601,13 @@
             },
             {
               "text": "บุญ",
-              "at": 19.72
+              "at": 19.72,
+              "zh": "功德"
             },
             {
               "text": "เรื่อย",
-              "at": 19.94
+              "at": 19.94,
+              "zh": "不停"
             },
             {
               "text": "ๆ",
@@ -59389,6 +60616,74 @@
             {
               "text": "นะ",
               "at": 20.4
+            }
+          ],
+          "en": "Then every day, we pay respects to the Buddha and chant,",
+          "words": [
+            {
+              "n": 1,
+              "zh": "我们",
+              "en": "we"
+            },
+            {
+              "n": 2,
+              "zh": "做功德",
+              "en": "make merit"
+            },
+            {
+              "n": 1,
+              "zh": "做",
+              "en": "do"
+            },
+            {
+              "n": 1,
+              "zh": "什么",
+              "en": "what"
+            },
+            {
+              "n": 1,
+              "zh": "礼拜",
+              "en": "pay respects"
+            },
+            {
+              "n": 1,
+              "zh": "佛",
+              "en": "Buddha"
+            },
+            {
+              "n": 2,
+              "zh": "诵经",
+              "en": "chant"
+            },
+            {
+              "n": 2,
+              "zh": "每天",
+              "en": "every day"
+            },
+            {
+              "n": 2,
+              "zh": "每天",
+              "en": "every day"
+            },
+            {
+              "n": 1,
+              "zh": "然后",
+              "en": "then"
+            },
+            {
+              "n": 3,
+              "zh": "回向功德",
+              "en": "dedicate merit"
+            },
+            {
+              "n": 2,
+              "zh": "不停",
+              "en": "continually"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -59400,19 +60695,23 @@
           "beats": [
             {
               "text": "เรา",
-              "at": 16.09
+              "at": 16.09,
+              "zh": "我们"
             },
             {
               "text": "ทำ",
-              "at": 16.26
+              "at": 16.26,
+              "zh": "做"
             },
             {
               "text": "บุญ",
-              "at": 16.4
+              "at": 16.4,
+              "zh": "功德"
             },
             {
               "text": "ทำ",
-              "at": 16.48
+              "at": 16.48,
+              "zh": "做"
             },
             {
               "text": "อะไร",
@@ -59420,43 +60719,53 @@
             },
             {
               "text": "ไหว้",
-              "at": 16.76
+              "at": 16.76,
+              "zh": "礼"
             },
             {
               "text": "พระ",
-              "at": 17.08
+              "at": 17.08,
+              "zh": "佛"
             },
             {
               "text": "สวด",
-              "at": 17.26
+              "at": 17.26,
+              "zh": "诵"
             },
             {
               "text": "มนต์",
-              "at": 17.66
+              "at": 17.66,
+              "zh": "经"
             },
             {
               "text": "ทุก",
-              "at": 18.14
+              "at": 18.14,
+              "zh": "每"
             },
             {
               "text": "วัน",
-              "at": 18.3
+              "at": 18.3,
+              "zh": "天"
             },
             {
               "text": "ทุก",
-              "at": 18.53
+              "at": 18.53,
+              "zh": "每"
             },
             {
               "text": "วัน",
-              "at": 18.75
+              "at": 18.75,
+              "zh": "天"
             },
             {
               "text": "แล้ว",
-              "at": 18.98
+              "at": 18.98,
+              "zh": "然后"
             },
             {
               "text": "แผ่",
-              "at": 19.18
+              "at": 19.18,
+              "zh": "回向"
             },
             {
               "text": "ส่วน",
@@ -59464,11 +60773,13 @@
             },
             {
               "text": "บุญ",
-              "at": 19.72
+              "at": 19.72,
+              "zh": "功德"
             },
             {
               "text": "เรื่อย",
-              "at": 19.94
+              "at": 19.94,
+              "zh": "不停"
             },
             {
               "text": "ๆ",
@@ -59477,6 +60788,74 @@
             {
               "text": "นะ",
               "at": 20.4
+            }
+          ],
+          "en": "and keep dedicating merit to it.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "我们",
+              "en": "we"
+            },
+            {
+              "n": 2,
+              "zh": "做功德",
+              "en": "make merit"
+            },
+            {
+              "n": 1,
+              "zh": "做",
+              "en": "do"
+            },
+            {
+              "n": 1,
+              "zh": "什么",
+              "en": "what"
+            },
+            {
+              "n": 1,
+              "zh": "礼拜",
+              "en": "pay respects"
+            },
+            {
+              "n": 1,
+              "zh": "佛",
+              "en": "Buddha"
+            },
+            {
+              "n": 2,
+              "zh": "诵经",
+              "en": "chant"
+            },
+            {
+              "n": 2,
+              "zh": "每天",
+              "en": "every day"
+            },
+            {
+              "n": 2,
+              "zh": "每天",
+              "en": "every day"
+            },
+            {
+              "n": 1,
+              "zh": "然后",
+              "en": "then"
+            },
+            {
+              "n": 3,
+              "zh": "回向功德",
+              "en": "dedicate merit"
+            },
+            {
+              "n": 2,
+              "zh": "不停",
+              "en": "continually"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         },
@@ -59488,31 +60867,38 @@
           "beats": [
             {
               "text": "เป็น",
-              "at": 22.18
+              "at": 22.18,
+              "zh": "做"
             },
             {
               "text": "เปรต",
-              "at": 22.2
+              "at": 22.2,
+              "zh": "饿鬼"
             },
             {
               "text": "ไม่",
-              "at": 22.42
+              "at": 22.42,
+              "zh": "不"
             },
             {
               "text": "นาน",
-              "at": 22.58
+              "at": 22.58,
+              "zh": "久"
             },
             {
               "text": "มัน",
-              "at": 22.88
+              "at": 22.88,
+              "zh": "它"
             },
             {
               "text": "ก็",
-              "at": 23.02
+              "at": 23.02,
+              "zh": "就"
             },
             {
               "text": "ตาย",
-              "at": 23.12
+              "at": 23.12,
+              "zh": "死去"
             },
             {
               "text": "จาก",
@@ -59528,7 +60914,8 @@
             },
             {
               "text": "ก็",
-              "at": 25.6
+              "at": 25.6,
+              "zh": "就"
             },
             {
               "text": "ไป",
@@ -59536,7 +60923,8 @@
             },
             {
               "text": "สู่",
-              "at": 25.9
+              "at": 25.9,
+              "zh": "到"
             },
             {
               "text": "ภพ",
@@ -59556,21 +60944,1197 @@
             },
             {
               "text": "สุคติ",
-              "at": 27.26
+              "at": 27.26,
+              "zh": "善道"
             },
             {
               "text": "ได้",
-              "at": 27.76
+              "at": 27.76,
+              "zh": "能"
             },
             {
               "text": "นะ",
               "at": 28.84
+            }
+          ],
+          "en": "It won't be a hungry ghost for long. It will die from that state and be born in a good realm.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "做",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            },
+            {
+              "n": 1,
+              "zh": "不",
+              "en": "not"
+            },
+            {
+              "n": 1,
+              "zh": "久",
+              "en": "long"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "就",
+              "en": "then"
+            },
+            {
+              "n": 1,
+              "zh": "死",
+              "en": "die"
+            },
+            {
+              "n": 1,
+              "zh": "离开",
+              "en": "from"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "就",
+              "en": "then"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "到",
+              "en": "to"
+            },
+            {
+              "n": 2,
+              "zh": "生存界",
+              "en": "realm"
+            },
+            {
+              "n": 1,
+              "zh": "的",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "善道",
+              "en": "good realm"
+            },
+            {
+              "n": 1,
+              "zh": "能",
+              "en": "can"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
             }
           ]
         }
       ],
       "splitChecked": true,
       "sourceEn": "Luangpu Pramote Pamojjo · live Dhamma talk 2026.07.12 · Thai audio 12:48–13:17"
+    },
+    "59": {
+      "v": 1,
+      "no": 59,
+      "audio": "原话/059.mp3",
+      "length": 26.85,
+      "source": "隆波帕默尊者 2026.07.12 直播开示 · 泰语原声 13:17–13:44",
+      "lines": [
+        {
+          "text": "轮回是很神奇的，来做人，会做一个好人，",
+          "from": 0.13,
+          "to": 7.4,
+          "thai": "เรียน เรื่อง เวียน ว่าย ตาย เกิด มัน พิสดาร นะ บาง ที เป็น คน ดี นะ เป็น พระ เป็น พระ ดี ๆ นี่ แหละ",
+          "beats": [
+            {
+              "text": "เรียน",
+              "at": 0.13
+            },
+            {
+              "text": "เรื่อง",
+              "at": 0.13
+            },
+            {
+              "text": "เวียน",
+              "at": 0.53,
+              "zh": "轮回"
+            },
+            {
+              "text": "ว่าย",
+              "at": 0.74,
+              "zh": "轮回"
+            },
+            {
+              "text": "ตาย",
+              "at": 0.96,
+              "zh": "轮回"
+            },
+            {
+              "text": "เกิด",
+              "at": 1.17,
+              "zh": "轮回"
+            },
+            {
+              "text": "มัน",
+              "at": 1.57
+            },
+            {
+              "text": "พิสดาร",
+              "at": 2.11,
+              "zh": "神奇"
+            },
+            {
+              "text": "นะ",
+              "at": 4.04
+            },
+            {
+              "text": "บาง",
+              "at": 5.96
+            },
+            {
+              "text": "ที",
+              "at": 7.89
+            },
+            {
+              "text": "เป็น",
+              "at": 8.05,
+              "zh": "做"
+            },
+            {
+              "text": "คน",
+              "at": 8.27,
+              "zh": "人"
+            },
+            {
+              "text": "ดี",
+              "at": 8.37,
+              "zh": "好"
+            },
+            {
+              "text": "นะ",
+              "at": 8.69
+            },
+            {
+              "text": "เป็น",
+              "at": 8.93
+            },
+            {
+              "text": "พระ",
+              "at": 9.29,
+              "zh": "出家"
+            },
+            {
+              "text": "เป็น",
+              "at": 9.61,
+              "zh": "是"
+            },
+            {
+              "text": "พระ",
+              "at": 11.31,
+              "zh": "出家人"
+            },
+            {
+              "text": "ดี",
+              "at": 11.47,
+              "zh": "好"
+            },
+            {
+              "text": "ๆ",
+              "at": 11.75
+            },
+            {
+              "text": "นี่",
+              "at": 11.99
+            },
+            {
+              "text": "แหละ",
+              "at": 12.11
+            }
+          ],
+          "en": "Rebirth is truly strange.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "说起",
+              "en": "study"
+            },
+            {
+              "n": 1,
+              "zh": "事",
+              "en": "matter"
+            },
+            {
+              "n": 4,
+              "zh": "轮回",
+              "en": "rebirth"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "神奇",
+              "en": "strange"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "某",
+              "en": "some"
+            },
+            {
+              "n": 1,
+              "zh": "次",
+              "en": "time"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "人",
+              "en": "person"
+            },
+            {
+              "n": 1,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "出家人",
+              "en": "monk"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "出家人",
+              "en": "monk"
+            },
+            {
+              "n": 2,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "这",
+              "en": "(emphasis)"
+            },
+            {
+              "n": 1,
+              "zh": "（语气，强调）",
+              "en": "(emphasis)"
+            }
+          ]
+        },
+        {
+          "text": "来出家就是一个好的出家人，",
+          "from": 7.4,
+          "to": 12.37,
+          "thai": "เรียน เรื่อง เวียน ว่าย ตาย เกิด มัน พิสดาร นะ บาง ที เป็น คน ดี นะ เป็น พระ เป็น พระ ดี ๆ นี่ แหละ",
+          "beats": [
+            {
+              "text": "เรียน",
+              "at": 0.13
+            },
+            {
+              "text": "เรื่อง",
+              "at": 0.13
+            },
+            {
+              "text": "เวียน",
+              "at": 0.53,
+              "zh": "轮回"
+            },
+            {
+              "text": "ว่าย",
+              "at": 0.74,
+              "zh": "轮回"
+            },
+            {
+              "text": "ตาย",
+              "at": 0.96,
+              "zh": "轮回"
+            },
+            {
+              "text": "เกิด",
+              "at": 1.17,
+              "zh": "轮回"
+            },
+            {
+              "text": "มัน",
+              "at": 1.57
+            },
+            {
+              "text": "พิสดาร",
+              "at": 2.11,
+              "zh": "神奇"
+            },
+            {
+              "text": "นะ",
+              "at": 4.04
+            },
+            {
+              "text": "บาง",
+              "at": 5.96
+            },
+            {
+              "text": "ที",
+              "at": 7.89
+            },
+            {
+              "text": "เป็น",
+              "at": 8.05,
+              "zh": "做"
+            },
+            {
+              "text": "คน",
+              "at": 8.27,
+              "zh": "人"
+            },
+            {
+              "text": "ดี",
+              "at": 8.37,
+              "zh": "好"
+            },
+            {
+              "text": "นะ",
+              "at": 8.69
+            },
+            {
+              "text": "เป็น",
+              "at": 8.93
+            },
+            {
+              "text": "พระ",
+              "at": 9.29,
+              "zh": "出家"
+            },
+            {
+              "text": "เป็น",
+              "at": 9.61,
+              "zh": "是"
+            },
+            {
+              "text": "พระ",
+              "at": 11.31,
+              "zh": "出家人"
+            },
+            {
+              "text": "ดี",
+              "at": 11.47,
+              "zh": "好"
+            },
+            {
+              "text": "ๆ",
+              "at": 11.75
+            },
+            {
+              "text": "นี่",
+              "at": 11.99
+            },
+            {
+              "text": "แหละ",
+              "at": 12.11
+            }
+          ],
+          "en": "Sometimes you're born a person, a good one, or a monk, a good monk.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "说起",
+              "en": "study"
+            },
+            {
+              "n": 1,
+              "zh": "事",
+              "en": "matter"
+            },
+            {
+              "n": 4,
+              "zh": "轮回",
+              "en": "rebirth"
+            },
+            {
+              "n": 1,
+              "zh": "它",
+              "en": "it"
+            },
+            {
+              "n": 1,
+              "zh": "神奇",
+              "en": "strange"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "某",
+              "en": "some"
+            },
+            {
+              "n": 1,
+              "zh": "次",
+              "en": "time"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "人",
+              "en": "person"
+            },
+            {
+              "n": 1,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "出家人",
+              "en": "monk"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "出家人",
+              "en": "monk"
+            },
+            {
+              "n": 2,
+              "zh": "好",
+              "en": "good"
+            },
+            {
+              "n": 1,
+              "zh": "这",
+              "en": "(emphasis)"
+            },
+            {
+              "n": 1,
+              "zh": "（语气，强调）",
+              "en": "(emphasis)"
+            }
+          ]
+        },
+        {
+          "text": "用心修行，去森林里行脚，结果在森林里迷路了，",
+          "from": 12.37,
+          "to": 19.22,
+          "thai": "ตั้ง อก ตั้ง ใจ ภาวนา ไป เดิน ป่า เกิด หลง ป่า หลง ป่า นะ หิว ข้าว อ่ะ พยายาม เดิน เดิน ๆ อยู่ ใน ป่า",
+          "beats": [
+            {
+              "text": "ตั้ง",
+              "at": 13.41,
+              "zh": "用心"
+            },
+            {
+              "text": "อก",
+              "at": 14.45,
+              "zh": "用心"
+            },
+            {
+              "text": "ตั้ง",
+              "at": 14.57,
+              "zh": "用心"
+            },
+            {
+              "text": "ใจ",
+              "at": 14.77,
+              "zh": "用心"
+            },
+            {
+              "text": "ภาวนา",
+              "at": 15.05,
+              "zh": "修行"
+            },
+            {
+              "text": "ไป",
+              "at": 15.67,
+              "zh": "去"
+            },
+            {
+              "text": "เดิน",
+              "at": 16.31,
+              "zh": "行脚"
+            },
+            {
+              "text": "ป่า",
+              "at": 16.69,
+              "zh": "森林"
+            },
+            {
+              "text": "เกิด",
+              "at": 18.05
+            },
+            {
+              "text": "หลง",
+              "at": 18.41,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 18.59,
+              "zh": "森林"
+            },
+            {
+              "text": "หลง",
+              "at": 20.79,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 21.03,
+              "zh": "森林"
+            },
+            {
+              "text": "นะ",
+              "at": 21.39
+            },
+            {
+              "text": "หิว",
+              "at": 21.75,
+              "zh": "饿"
+            },
+            {
+              "text": "ข้าว",
+              "at": 22.11
+            },
+            {
+              "text": "อ่ะ",
+              "at": 23.06
+            },
+            {
+              "text": "พยายาม",
+              "at": 24.01,
+              "zh": "努力"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.07,
+              "zh": "走"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.57,
+              "zh": "走"
+            },
+            {
+              "text": "ๆ",
+              "at": 24.74
+            },
+            {
+              "text": "อยู่",
+              "at": 24.91,
+              "zh": "着"
+            },
+            {
+              "text": "ใน",
+              "at": 25.49
+            },
+            {
+              "text": "ป่า",
+              "at": 25.61,
+              "zh": "森林"
+            }
+          ],
+          "en": "Say you practice with all your heart and go walking in the forest, and you get lost.",
+          "words": [
+            {
+              "n": 4,
+              "zh": "用心",
+              "en": "dedicate heart"
+            },
+            {
+              "n": 1,
+              "zh": "修行",
+              "en": "meditate"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "行脚",
+              "en": "walk"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "结果",
+              "en": "be born"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 2,
+              "zh": "饿",
+              "en": "hungry"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "努力",
+              "en": "try"
+            },
+            {
+              "n": 3,
+              "zh": "走着走着",
+              "en": "walk walk"
+            },
+            {
+              "n": 1,
+              "zh": "在",
+              "en": "keep"
+            },
+            {
+              "n": 1,
+              "zh": "里",
+              "en": "in"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            }
+          ]
+        },
+        {
+          "text": "在森林里迷路，饿了，",
+          "from": 19.22,
+          "to": 22.33,
+          "thai": "ตั้ง อก ตั้ง ใจ ภาวนา ไป เดิน ป่า เกิด หลง ป่า หลง ป่า นะ หิว ข้าว อ่ะ พยายาม เดิน เดิน ๆ อยู่ ใน ป่า",
+          "beats": [
+            {
+              "text": "ตั้ง",
+              "at": 13.41,
+              "zh": "用心"
+            },
+            {
+              "text": "อก",
+              "at": 14.45,
+              "zh": "用心"
+            },
+            {
+              "text": "ตั้ง",
+              "at": 14.57,
+              "zh": "用心"
+            },
+            {
+              "text": "ใจ",
+              "at": 14.77,
+              "zh": "用心"
+            },
+            {
+              "text": "ภาวนา",
+              "at": 15.05,
+              "zh": "修行"
+            },
+            {
+              "text": "ไป",
+              "at": 15.67,
+              "zh": "去"
+            },
+            {
+              "text": "เดิน",
+              "at": 16.31,
+              "zh": "行脚"
+            },
+            {
+              "text": "ป่า",
+              "at": 16.69,
+              "zh": "森林"
+            },
+            {
+              "text": "เกิด",
+              "at": 18.05
+            },
+            {
+              "text": "หลง",
+              "at": 18.41,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 18.59,
+              "zh": "森林"
+            },
+            {
+              "text": "หลง",
+              "at": 20.79,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 21.03,
+              "zh": "森林"
+            },
+            {
+              "text": "นะ",
+              "at": 21.39
+            },
+            {
+              "text": "หิว",
+              "at": 21.75,
+              "zh": "饿"
+            },
+            {
+              "text": "ข้าว",
+              "at": 22.11
+            },
+            {
+              "text": "อ่ะ",
+              "at": 23.06
+            },
+            {
+              "text": "พยายาม",
+              "at": 24.01,
+              "zh": "努力"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.07,
+              "zh": "走"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.57,
+              "zh": "走"
+            },
+            {
+              "text": "ๆ",
+              "at": 24.74
+            },
+            {
+              "text": "อยู่",
+              "at": 24.91,
+              "zh": "着"
+            },
+            {
+              "text": "ใน",
+              "at": 25.49
+            },
+            {
+              "text": "ป่า",
+              "at": 25.61,
+              "zh": "森林"
+            }
+          ],
+          "en": "Lost in the forest, hungry,",
+          "words": [
+            {
+              "n": 4,
+              "zh": "用心",
+              "en": "dedicate heart"
+            },
+            {
+              "n": 1,
+              "zh": "修行",
+              "en": "meditate"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "行脚",
+              "en": "walk"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "结果",
+              "en": "be born"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 2,
+              "zh": "饿",
+              "en": "hungry"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "努力",
+              "en": "try"
+            },
+            {
+              "n": 3,
+              "zh": "走着走着",
+              "en": "walk walk"
+            },
+            {
+              "n": 1,
+              "zh": "在",
+              "en": "keep"
+            },
+            {
+              "n": 1,
+              "zh": "里",
+              "en": "in"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            }
+          ]
+        },
+        {
+          "text": "努力地在森林里走着找出口",
+          "from": 22.33,
+          "to": 26.07,
+          "thai": "ตั้ง อก ตั้ง ใจ ภาวนา ไป เดิน ป่า เกิด หลง ป่า หลง ป่า นะ หิว ข้าว อ่ะ พยายาม เดิน เดิน ๆ อยู่ ใน ป่า",
+          "beats": [
+            {
+              "text": "ตั้ง",
+              "at": 13.41,
+              "zh": "用心"
+            },
+            {
+              "text": "อก",
+              "at": 14.45,
+              "zh": "用心"
+            },
+            {
+              "text": "ตั้ง",
+              "at": 14.57,
+              "zh": "用心"
+            },
+            {
+              "text": "ใจ",
+              "at": 14.77,
+              "zh": "用心"
+            },
+            {
+              "text": "ภาวนา",
+              "at": 15.05,
+              "zh": "修行"
+            },
+            {
+              "text": "ไป",
+              "at": 15.67,
+              "zh": "去"
+            },
+            {
+              "text": "เดิน",
+              "at": 16.31,
+              "zh": "行脚"
+            },
+            {
+              "text": "ป่า",
+              "at": 16.69,
+              "zh": "森林"
+            },
+            {
+              "text": "เกิด",
+              "at": 18.05
+            },
+            {
+              "text": "หลง",
+              "at": 18.41,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 18.59,
+              "zh": "森林"
+            },
+            {
+              "text": "หลง",
+              "at": 20.79,
+              "zh": "迷路"
+            },
+            {
+              "text": "ป่า",
+              "at": 21.03,
+              "zh": "森林"
+            },
+            {
+              "text": "นะ",
+              "at": 21.39
+            },
+            {
+              "text": "หิว",
+              "at": 21.75,
+              "zh": "饿"
+            },
+            {
+              "text": "ข้าว",
+              "at": 22.11
+            },
+            {
+              "text": "อ่ะ",
+              "at": 23.06
+            },
+            {
+              "text": "พยายาม",
+              "at": 24.01,
+              "zh": "努力"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.07,
+              "zh": "走"
+            },
+            {
+              "text": "เดิน",
+              "at": 24.57,
+              "zh": "走"
+            },
+            {
+              "text": "ๆ",
+              "at": 24.74
+            },
+            {
+              "text": "อยู่",
+              "at": 24.91,
+              "zh": "着"
+            },
+            {
+              "text": "ใน",
+              "at": 25.49
+            },
+            {
+              "text": "ป่า",
+              "at": 25.61,
+              "zh": "森林"
+            }
+          ],
+          "en": "you keep walking and walking, trying to find the way out.",
+          "words": [
+            {
+              "n": 4,
+              "zh": "用心",
+              "en": "dedicate heart"
+            },
+            {
+              "n": 1,
+              "zh": "修行",
+              "en": "meditate"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "行脚",
+              "en": "walk"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "结果",
+              "en": "be born"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "迷路",
+              "en": "lost"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 2,
+              "zh": "饿",
+              "en": "hungry"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "努力",
+              "en": "try"
+            },
+            {
+              "n": 3,
+              "zh": "走着走着",
+              "en": "walk walk"
+            },
+            {
+              "n": 1,
+              "zh": "在",
+              "en": "keep"
+            },
+            {
+              "n": 1,
+              "zh": "里",
+              "en": "in"
+            },
+            {
+              "n": 1,
+              "zh": "森林",
+              "en": "forest"
+            }
+          ]
+        }
+      ],
+      "splitChecked": true,
+      "sourceEn": "Luangpu Pramote Pamojjo · live Dhamma talk 2026.07.12 · Thai audio 13:17–13:44"
     }
   },
   "files": [
@@ -59725,6 +62289,10 @@
     [
       "原话/058.mp3",
       265823
+    ],
+    [
+      "原话/059.mp3",
+      238341
     ],
     [
       "读音/กรรม.mp3",
@@ -59911,6 +62479,10 @@
       2732
     ],
     [
+      "读音/ความเห็น.mp3",
+      4172
+    ],
+    [
       "读音/คอย.mp3",
       2924
     ],
@@ -60043,6 +62615,10 @@
       3116
     ],
     [
+      "读音/ซน.mp3",
+      2924
+    ],
+    [
       "读音/ซึ่ง.mp3",
       2828
     ],
@@ -60055,12 +62631,20 @@
       2828
     ],
     [
+      "读音/ดง.mp3",
+      2828
+    ],
+    [
       "读音/ดัง นั้น.mp3",
       3980
     ],
     [
       "读音/ดี.mp3",
       2828
+    ],
+    [
+      "读音/ดื้อ.mp3",
+      2732
     ],
     [
       "读音/ดู.mp3",
@@ -60147,6 +62731,10 @@
       3788
     ],
     [
+      "读音/ถือตัว.mp3",
+      4172
+    ],
+    [
       "读音/ถูก.mp3",
       2156
     ],
@@ -60211,6 +62799,10 @@
       2540
     ],
     [
+      "读音/ทำวัตร.mp3",
+      2828
+    ],
+    [
       "读音/ทำไม.mp3",
       3596
     ],
@@ -60245,6 +62837,10 @@
     [
       "读音/ทุกข์.mp3",
       1484
+    ],
+    [
+      "读音/ทุคติ.mp3",
+      2540
     ],
     [
       "读音/ทุน.mp3",
@@ -60285,6 +62881,10 @@
     [
       "读音/นั่ง.mp3",
       2732
+    ],
+    [
+      "读音/นั่งสมาธิ.mp3",
+      4748
     ],
     [
       "读音/นั่น.mp3",
@@ -60387,6 +62987,10 @@
       2540
     ],
     [
+      "读音/ป่า.mp3",
+      2732
+    ],
+    [
       "读音/ผล.mp3",
       2828
     ],
@@ -60473,6 +63077,10 @@
     [
       "读音/พา.mp3",
       2924
+    ],
+    [
+      "读音/พิสดาร.mp3",
+      4364
     ],
     [
       "读音/ฟุ้งซ่าน.mp3",
@@ -60711,8 +63319,16 @@
       5228
     ],
     [
+      "读音/สวรรค์.mp3",
+      3884
+    ],
+    [
       "读音/สะสม.mp3",
       4076
+    ],
+    [
+      "读音/สังสารวัฏ.mp3",
+      4844
     ],
     [
       "读音/สัตว์ ทั้ง หลาย.mp3",
@@ -60941,6 +63557,10 @@
     [
       "读音/อันตราย.mp3",
       4268
+    ],
+    [
+      "读音/อัศจรรย์.mp3",
+      4172
     ],
     [
       "读音/อาศัย.mp3",
@@ -61203,6 +63823,10 @@
       4076
     ],
     [
+      "读音/เวียน ว่าย ตาย เกิด.mp3",
+      5612
+    ],
+    [
       "读音/เศร้า หมอง.mp3",
       4268
     ],
@@ -61277,6 +63901,10 @@
     [
       "读音/แปลก หน้า.mp3",
       3980
+    ],
+    [
+      "读音/แปลก.mp3",
+      2252
     ],
     [
       "读音/แป๋ว ๆ.mp3",
@@ -62183,6 +64811,10 @@
       2924
     ],
     [
+      "读音/拆读/คะ.mp3",
+      2156
+    ],
+    [
       "读音/拆读/คัญ.mp3",
       2636
     ],
@@ -62683,6 +65315,10 @@
       2924
     ],
     [
+      "读音/拆读/มน.mp3",
+      2636
+    ],
+    [
       "读音/拆读/มะ.mp3",
       1868
     ],
@@ -62881,6 +65517,10 @@
     [
       "读音/拆读/สม.mp3",
       2924
+    ],
+    [
+      "读音/拆读/สวด.mp3",
+      2444
     ],
     [
       "读音/拆读/สะ.mp3",
@@ -63095,6 +65735,10 @@
       2732
     ],
     [
+      "读音/拆读/เก.mp3",
+      2636
+    ],
+    [
       "读音/拆读/เกิด.mp3",
       2156
     ],
@@ -63229,6 +65873,10 @@
     [
       "读音/拆读/เยอะ.mp3",
       1868
+    ],
+    [
+      "读音/拆读/เร.mp3",
+      2924
     ],
     [
       "读音/拆读/เรา.mp3",
@@ -63489,6 +66137,10 @@
     [
       "读音/拆读/ไหว.mp3",
       2828
+    ],
+    [
+      "读音/拆读/ไหว้.mp3",
+      3116
     ],
     [
       "读音/拆读/ไอ้.mp3",
