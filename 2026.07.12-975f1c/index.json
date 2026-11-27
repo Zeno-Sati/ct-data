@@ -5194,6 +5194,10 @@
         {
           "clip": "47",
           "line": 0
+        },
+        {
+          "clip": "60",
+          "line": 0
         }
       ],
       "kind": "常用词",
@@ -7709,6 +7713,236 @@
             "tone": 2
           },
           "vowelKey": "aa"
+        }
+      ]
+    },
+    {
+      "thai": "หิว",
+      "roman": "hǐu",
+      "zh": "肚子饿",
+      "en": "hungry",
+      "title": "想要食物而死成饿鬼",
+      "no": 60,
+      "titleEn": "Died Wanting Food, Greedy, Became a Hungry Ghost, Beautiful from Keeping Precepts",
+      "count": 3,
+      "examples": [
+        {
+          "clip": "60",
+          "line": 0
+        },
+        {
+          "clip": "59",
+          "line": 2
+        }
+      ],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指肚子饿、想吃东西的感觉，也可以说饿了想喝水（หิวน้ำ）。后面常接想要的东西，如「หิวข้าว」就是饿了想吃饭。",
+        "compare": [
+          {
+            "thai": "อยาก",
+            "roman": "yàak",
+            "zh": "想要",
+            "diff": "หิว是身体饿了的感觉，อยาก是心里想要某样东西，不一定是因为饿。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "肚子饿",
+            "use": "想吃东西、饥饿时，如「หิวข้าว」"
+          },
+          {
+            "zh": "渴望",
+            "use": "强烈想要某物，如「หิวเงิน」「หิวอำนาจ」"
+          }
+        ],
+        "en": {
+          "meaning": "หิว means to feel hungry, with the body wanting food or drink. It is usually followed by the thing wanted, as in หิวข้าว (hungry for rice, i.e. hungry) or หิวน้ำ (thirsty). It can also be used figuratively for a strong craving for something.",
+          "senses": [
+            {
+              "en": "hungry",
+              "use": "Means the body feels the need for food or drink, as in หิวข้าว or หิวน้ำ."
+            },
+            {
+              "en": "craving",
+              "use": "Means a strong, greedy wanting for something, as in หิวเงิน or หิวอำนาจ."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "อยาก",
+              "en": "to want",
+              "diff": "หิว is the body feeling hungry, while อยาก is the mind wanting something, whether or not there is any hunger."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "หิว",
+          "say": "หิว",
+          "roman": "hǐu",
+          "initial": "ห",
+          "vowel": "◌ิ",
+          "final": "ว",
+          "note": "ว 在尾音读 u",
+          "sound": {
+            "initial": "h",
+            "vowel": "i",
+            "final": "w",
+            "tone": 5
+          },
+          "noteEn": "ว as a final reads u",
+          "vowelKey": "i"
+        }
+      ]
+    },
+    {
+      "thai": "อยาก",
+      "roman": "yàak",
+      "zh": "想要",
+      "en": "want",
+      "title": "想要食物而死成饿鬼",
+      "no": 60,
+      "titleEn": "Died Wanting Food, Greedy, Became a Hungry Ghost, Beautiful from Keeping Precepts",
+      "count": 21,
+      "examples": [
+        {
+          "clip": "60",
+          "line": 0
+        },
+        {
+          "clip": "12",
+          "line": 0
+        }
+      ],
+      "kind": "原话词",
+      "detail": {
+        "meaning": "想要",
+        "senses": [
+          {
+            "zh": "想要",
+            "use": "想得到某物或想做某事，如 อยากได้（想要）、อยากเป็น（想成为）"
+          },
+          {
+            "zh": "渴求",
+            "use": "作为名词 ความอยาก，指内心的欲求、贪求"
+          }
+        ],
+        "en": {
+          "meaning": "อยาก means \"to want\": to wish to get something or do something. As the noun ความอยาก it means craving, an inner wanting or desire. In Dhamma talks it can refer to craving as a defilement.",
+          "senses": [
+            {
+              "en": "want",
+              "use": "Wishing to get or do something, as in อยากได้ (\"want to get\") and อยากเป็น (\"want to be\")."
+            },
+            {
+              "en": "craving",
+              "use": "As ความอยาก, the inner wanting or desire that drives the mind."
+            }
+          ],
+          "compare": []
+        }
+      },
+      "parts": [
+        {
+          "thai": "อยาก",
+          "say": "อยาก",
+          "roman": "yàak",
+          "initial": "อย",
+          "vowel": "◌า",
+          "final": "ก",
+          "note": "อ不发音，只是把ย的声调提成中调",
+          "sound": {
+            "initial": "y",
+            "vowel": "aa",
+            "final": "k",
+            "tone": 2
+          },
+          "noteEn": "อ is silent; it only lifts the tone of ย to the mid tone",
+          "vowelKey": "aa"
+        }
+      ]
+    },
+    {
+      "thai": "ถือ ศีล",
+      "roman": "thǔue sǐin",
+      "zh": "持戒",
+      "en": "keep the precepts",
+      "title": "想要食物而死成饿鬼",
+      "no": 60,
+      "titleEn": "Died Wanting Food, Greedy, Became a Hungry Ghost, Beautiful from Keeping Precepts",
+      "count": 6,
+      "examples": [
+        {
+          "clip": "60",
+          "line": 3
+        }
+      ],
+      "kind": "法义词",
+      "detail": {
+        "pali": "sīla",
+        "meaning": "持戒，指受持并遵守戒律，如五戒，不去做杀生、偷盗等违戒的事。ถือ本意是拿着、执持，ศีล是戒，合起来就是把戒守住。",
+        "compare": [
+          {
+            "thai": "รักษาศีล",
+            "roman": "rák-sǎa sǐin",
+            "zh": "守戒",
+            "diff": "意思很接近，ถือศีล说的是受持戒律这件事，รักษาศีล更强调守护、不让戒破损。",
+            "say": true
+          }
+        ],
+        "en": {
+          "meaning": "ถือศีล means to take up and keep the precepts, such as the five precepts, by not killing, stealing and so on. ถือ literally means to hold or carry, and ศีล means precepts, so the phrase means holding the precepts firmly and not breaking them.",
+          "senses": [
+            {
+              "en": "keep the precepts",
+              "use": "Means to undertake and follow moral precepts such as the five precepts, as in ถือศีลดี (keeps the precepts well)."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "รักษาศีล",
+              "en": "to guard the precepts",
+              "diff": "The two are very close in meaning, but ถือศีล stresses undertaking and holding to the precepts, while รักษาศีล stresses protecting them so they are not broken."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "ถือ",
+          "say": "ถือ",
+          "roman": "thǔue",
+          "initial": "ถ",
+          "vowel": "◌ือ",
+          "note": "อ 是元音 ◌ือ 的一部分",
+          "sound": {
+            "initial": "th",
+            "vowel": "uue",
+            "final": "",
+            "tone": 5
+          },
+          "noteEn": "อ is part of the vowel ◌ือ",
+          "vowelKey": "uue"
+        },
+        {
+          "thai": "ศีล",
+          "say": "ศีล",
+          "roman": "sǐin",
+          "initial": "ศ",
+          "vowel": "◌ี",
+          "final": "ล",
+          "note": "ล 在尾音读 n",
+          "sound": {
+            "initial": "s",
+            "vowel": "ii",
+            "final": "n",
+            "tone": 5
+          },
+          "noteEn": "ล as a final reads n",
+          "vowelKey": "ii"
         }
       ]
     },
@@ -14771,71 +15005,6 @@
           },
           "noteEn": "Here อ is a vowel, not a consonant",
           "vowelKey": "aaw"
-        }
-      ]
-    },
-    {
-      "thai": "อยาก",
-      "roman": "yàak",
-      "zh": "想要",
-      "en": "want",
-      "title": "",
-      "kind": "原话词",
-      "count": 21,
-      "examples": [
-        {
-          "clip": "12",
-          "line": 0
-        },
-        {
-          "clip": "40",
-          "line": 1
-        }
-      ],
-      "detail": {
-        "meaning": "想要",
-        "senses": [
-          {
-            "zh": "想要",
-            "use": "想得到某物或想做某事，如 อยากได้（想要）、อยากเป็น（想成为）"
-          },
-          {
-            "zh": "渴求",
-            "use": "作为名词 ความอยาก，指内心的欲求、贪求"
-          }
-        ],
-        "en": {
-          "meaning": "อยาก means \"to want\": to wish to get something or do something. As the noun ความอยาก it means craving, an inner wanting or desire. In Dhamma talks it can refer to craving as a defilement.",
-          "senses": [
-            {
-              "en": "want",
-              "use": "Wishing to get or do something, as in อยากได้ (\"want to get\") and อยากเป็น (\"want to be\")."
-            },
-            {
-              "en": "craving",
-              "use": "As ความอยาก, the inner wanting or desire that drives the mind."
-            }
-          ],
-          "compare": []
-        }
-      },
-      "parts": [
-        {
-          "thai": "อยาก",
-          "say": "อยาก",
-          "roman": "yàak",
-          "initial": "อย",
-          "vowel": "◌า",
-          "final": "ก",
-          "note": "อ不发音，只是把ย的声调提成中调",
-          "sound": {
-            "initial": "y",
-            "vowel": "aa",
-            "final": "k",
-            "tone": 2
-          },
-          "noteEn": "อ is silent; it only lifts the tone of ย to the mid tone",
-          "vowelKey": "aa"
         }
       ]
     },
@@ -27397,6 +27566,10 @@
         {
           "clip": "50",
           "line": 0
+        },
+        {
+          "clip": "60",
+          "line": 3
         }
       ],
       "detail": {
@@ -29648,6 +29821,10 @@
         {
           "clip": "56",
           "line": 0
+        },
+        {
+          "clip": "60",
+          "line": 1
         }
       ],
       "detail": {
@@ -29888,6 +30065,7 @@
       "ทำ ร้าย": 8,
       "ผูกพัน": 20,
       "พิสดาร": 1,
+      "ถือ ศีล": 12,
       "หมาป่า": 2,
       "รู้ สึก": 64,
       "แล้ว ก็": 42,
@@ -30018,6 +30196,7 @@
       "ทิฐิ": 1,
       "มานะ": 4,
       "เกเร": 1,
+      "อยาก": 21,
       "เห็น": 36,
       "สบาย": 7,
       "แล้ว": 93,
@@ -30032,7 +30211,6 @@
       "เดิน": 15,
       "นั่ง": 8,
       "เยอะ": 12,
-      "อยาก": 21,
       "ท่าน": 39,
       "สะสม": 6,
       "ขึ้น": 19,
@@ -30088,6 +30266,7 @@
       "ทาน": 0,
       "สงบ": 3,
       "ป่า": 5,
+      "หิว": 3,
       "จิต": 112,
       "ขาด": 9,
       "ไม่": 105,
@@ -30154,7 +30333,7 @@
       "อัน": 10,
       "ทาง": 12,
       "ไอ้": 11,
-      "ศีล": 26,
+      "ศีล": 20,
       "ข้อ": 2,
       "ยืด": 1,
       "นี่": 11,
@@ -38990,7 +39169,7 @@
           "words": [
             {
               "n": 1,
-              "zh": "而",
+              "zh": "然后",
               "en": "then"
             },
             {
@@ -55642,7 +55821,7 @@
             },
             {
               "n": 1,
-              "zh": "辛苦",
+              "zh": "困难",
               "en": "difficult"
             },
             {
@@ -55866,7 +56045,7 @@
             },
             {
               "n": 1,
-              "zh": "辛苦",
+              "zh": "困难",
               "en": "difficult"
             },
             {
@@ -59730,7 +59909,7 @@
             {
               "n": 1,
               "zh": "跟",
-              "en": "to"
+              "en": "with"
             },
             {
               "n": 1,
@@ -60486,8 +60665,8 @@
             },
             {
               "n": 1,
-              "zh": "这",
-              "en": "(emphasis)"
+              "zh": "啊",
+              "en": "emphasis"
             },
             {
               "n": 1,
@@ -60686,8 +60865,8 @@
             },
             {
               "n": 1,
-              "zh": "这",
-              "en": "(emphasis)"
+              "zh": "啊",
+              "en": "emphasis"
             },
             {
               "n": 1,
@@ -61344,6 +61523,624 @@
       ],
       "splitChecked": true,
       "sourceEn": "Luangpu Pramote Pamojjo · live Dhamma talk 2026.07.12 · Thai audio 13:17–13:44"
+    },
+    "60": {
+      "v": 1,
+      "no": 60,
+      "audio": "原话/060.mp3",
+      "length": 24.16,
+      "source": "隆波帕默尊者 2026.07.12 直播开示 · 泰语原声 13:44–14:08",
+      "lines": [
+        {
+          "text": "肚子饿，想要食物，带着这颗心死去",
+          "from": 0.62,
+          "to": 5.28,
+          "thai": "หิว ข้าว อยาก ได้ อาหาร ตาย ไป ด้วย จิต ดวง นี้ เท่านั้น เอง",
+          "beats": [
+            {
+              "text": "หิว",
+              "at": 0.62,
+              "zh": "肚子饿"
+            },
+            {
+              "text": "ข้าว",
+              "at": 0.84,
+              "zh": "肚子饿"
+            },
+            {
+              "text": "อยาก",
+              "at": 1.12,
+              "zh": "想要"
+            },
+            {
+              "text": "ได้",
+              "at": 1.44
+            },
+            {
+              "text": "อาหาร",
+              "at": 1.64,
+              "zh": "食物"
+            },
+            {
+              "text": "ตาย",
+              "at": 2.24,
+              "zh": "死"
+            },
+            {
+              "text": "ไป",
+              "at": 3.54,
+              "zh": "去"
+            },
+            {
+              "text": "ด้วย",
+              "at": 3.66
+            },
+            {
+              "text": "จิต",
+              "at": 3.94,
+              "zh": "心"
+            },
+            {
+              "text": "ดวง",
+              "at": 4.21,
+              "zh": "颗"
+            },
+            {
+              "text": "นี้",
+              "at": 4.48,
+              "zh": "这"
+            },
+            {
+              "text": "เท่านั้น",
+              "at": 4.7
+            },
+            {
+              "text": "เอง",
+              "at": 5.1
+            }
+          ],
+          "en": "Hungry, wanting food, you die with this mind.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "饿",
+              "en": "hungry"
+            },
+            {
+              "n": 1,
+              "zh": "饭",
+              "en": "rice/food"
+            },
+            {
+              "n": 1,
+              "zh": "想",
+              "en": "want"
+            },
+            {
+              "n": 1,
+              "zh": "要",
+              "en": "get"
+            },
+            {
+              "n": 1,
+              "zh": "食物",
+              "en": "food"
+            },
+            {
+              "n": 1,
+              "zh": "死",
+              "en": "die"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "带着",
+              "en": "with"
+            },
+            {
+              "n": 1,
+              "zh": "心",
+              "en": "mind"
+            },
+            {
+              "n": 1,
+              "zh": "（颗，心的量词）",
+              "en": "(classifier)"
+            },
+            {
+              "n": 1,
+              "zh": "这",
+              "en": "this"
+            },
+            {
+              "n": 1,
+              "zh": "只",
+              "en": "only"
+            },
+            {
+              "n": 1,
+              "zh": "（语气，强调）",
+              "en": "(emphasis)"
+            }
+          ]
+        },
+        {
+          "text": "但因为死于想要食物的心，有贪心，",
+          "from": 5.38,
+          "to": 10.67,
+          "thai": "แต่ ไป ด้วย จิต ที่ อยาก ได้ อาหาร มี โลภะ เกิด ขึ้น นะ ก็ เป็น เปรต",
+          "beats": [
+            {
+              "text": "แต่",
+              "at": 6.1,
+              "zh": "但"
+            },
+            {
+              "text": "ไป",
+              "at": 6.82
+            },
+            {
+              "text": "ด้วย",
+              "at": 6.96
+            },
+            {
+              "text": "จิต",
+              "at": 7.2,
+              "zh": "心"
+            },
+            {
+              "text": "ที่",
+              "at": 7.54
+            },
+            {
+              "text": "อยาก",
+              "at": 8.2,
+              "zh": "想要"
+            },
+            {
+              "text": "ได้",
+              "at": 9.84
+            },
+            {
+              "text": "อาหาร",
+              "at": 10.08,
+              "zh": "食物"
+            },
+            {
+              "text": "มี",
+              "at": 10.62,
+              "zh": "有"
+            },
+            {
+              "text": "โลภะ",
+              "at": 10.76,
+              "zh": "贪心"
+            },
+            {
+              "text": "เกิด",
+              "at": 11.24
+            },
+            {
+              "text": "ขึ้น",
+              "at": 11.56
+            },
+            {
+              "text": "นะ",
+              "at": 11.73
+            },
+            {
+              "text": "ก็",
+              "at": 11.9,
+              "zh": "就"
+            },
+            {
+              "text": "เป็น",
+              "at": 12.32,
+              "zh": "成了"
+            },
+            {
+              "text": "เปรต",
+              "at": 12.62,
+              "zh": "饿鬼"
+            }
+          ],
+          "en": "But because you died with a mind that wanted food, with greed arising,",
+          "words": [
+            {
+              "n": 1,
+              "zh": "但",
+              "en": "but"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "带着",
+              "en": "with"
+            },
+            {
+              "n": 1,
+              "zh": "心",
+              "en": "mind"
+            },
+            {
+              "n": 1,
+              "zh": "（引出修饰，相当于“的”）",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "想",
+              "en": "want"
+            },
+            {
+              "n": 1,
+              "zh": "要",
+              "en": "get"
+            },
+            {
+              "n": 1,
+              "zh": "食物",
+              "en": "food"
+            },
+            {
+              "n": 1,
+              "zh": "有",
+              "en": "have"
+            },
+            {
+              "n": 1,
+              "zh": "贪心",
+              "en": "greed"
+            },
+            {
+              "n": 2,
+              "zh": "生起",
+              "en": "arise"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "就",
+              "en": "then"
+            },
+            {
+              "n": 1,
+              "zh": "成了",
+              "en": "become"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            }
+          ]
+        },
+        {
+          "text": "所以就成了饿鬼",
+          "from": 10.67,
+          "to": 12.98,
+          "thai": "แต่ ไป ด้วย จิต ที่ อยาก ได้ อาหาร มี โลภะ เกิด ขึ้น นะ ก็ เป็น เปรต",
+          "beats": [
+            {
+              "text": "แต่",
+              "at": 6.1,
+              "zh": "但"
+            },
+            {
+              "text": "ไป",
+              "at": 6.82
+            },
+            {
+              "text": "ด้วย",
+              "at": 6.96
+            },
+            {
+              "text": "จิต",
+              "at": 7.2,
+              "zh": "心"
+            },
+            {
+              "text": "ที่",
+              "at": 7.54
+            },
+            {
+              "text": "อยาก",
+              "at": 8.2,
+              "zh": "想要"
+            },
+            {
+              "text": "ได้",
+              "at": 9.84
+            },
+            {
+              "text": "อาหาร",
+              "at": 10.08,
+              "zh": "食物"
+            },
+            {
+              "text": "มี",
+              "at": 10.62,
+              "zh": "有"
+            },
+            {
+              "text": "โลภะ",
+              "at": 10.76,
+              "zh": "贪心"
+            },
+            {
+              "text": "เกิด",
+              "at": 11.24
+            },
+            {
+              "text": "ขึ้น",
+              "at": 11.56
+            },
+            {
+              "text": "นะ",
+              "at": 11.73
+            },
+            {
+              "text": "ก็",
+              "at": 11.9,
+              "zh": "就"
+            },
+            {
+              "text": "เป็น",
+              "at": 12.32,
+              "zh": "成了"
+            },
+            {
+              "text": "เปรต",
+              "at": 12.62,
+              "zh": "饿鬼"
+            }
+          ],
+          "en": "you become a hungry ghost.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "但",
+              "en": "but"
+            },
+            {
+              "n": 1,
+              "zh": "去",
+              "en": "go"
+            },
+            {
+              "n": 1,
+              "zh": "带着",
+              "en": "with"
+            },
+            {
+              "n": 1,
+              "zh": "心",
+              "en": "mind"
+            },
+            {
+              "n": 1,
+              "zh": "（引出修饰，相当于“的”）",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "想",
+              "en": "want"
+            },
+            {
+              "n": 1,
+              "zh": "要",
+              "en": "get"
+            },
+            {
+              "n": 1,
+              "zh": "食物",
+              "en": "food"
+            },
+            {
+              "n": 1,
+              "zh": "有",
+              "en": "have"
+            },
+            {
+              "n": 1,
+              "zh": "贪心",
+              "en": "greed"
+            },
+            {
+              "n": 2,
+              "zh": "生起",
+              "en": "arise"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 1,
+              "zh": "就",
+              "en": "then"
+            },
+            {
+              "n": 1,
+              "zh": "成了",
+              "en": "become"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            }
+          ]
+        },
+        {
+          "text": "但是是非常美貌的饿鬼，因为他持戒持得很好",
+          "from": 13.02,
+          "to": 24.16,
+          "thai": "แต่ เป็น เปรต ที่ มี รูป ร่าง งด งาม มาก นะ เพราะ ว่า ถือ ศีล ดี",
+          "beats": [
+            {
+              "text": "แต่",
+              "at": 13.02,
+              "zh": "但是"
+            },
+            {
+              "text": "เป็น",
+              "at": 15.38,
+              "zh": "是"
+            },
+            {
+              "text": "เปรต",
+              "at": 15.56,
+              "zh": "饿鬼"
+            },
+            {
+              "text": "ที่",
+              "at": 15.96
+            },
+            {
+              "text": "มี",
+              "at": 16.6
+            },
+            {
+              "text": "รูป",
+              "at": 16.78,
+              "zh": "美貌"
+            },
+            {
+              "text": "ร่าง",
+              "at": 17.04,
+              "zh": "美貌"
+            },
+            {
+              "text": "งด",
+              "at": 17.38,
+              "zh": "美貌"
+            },
+            {
+              "text": "งาม",
+              "at": 17.52,
+              "zh": "美貌"
+            },
+            {
+              "text": "มาก",
+              "at": 17.86,
+              "zh": "非常"
+            },
+            {
+              "text": "นะ",
+              "at": 19.65
+            },
+            {
+              "text": "เพราะ",
+              "at": 21.44,
+              "zh": "因为"
+            },
+            {
+              "text": "ว่า",
+              "at": 23.23
+            },
+            {
+              "text": "ถือ",
+              "at": 23.26,
+              "zh": "持"
+            },
+            {
+              "text": "ศีล",
+              "at": 23.53,
+              "zh": "戒"
+            },
+            {
+              "text": "ดี",
+              "at": 23.8,
+              "zh": "好"
+            }
+          ],
+          "en": "But a very beautiful hungry ghost, because you kept the precepts well.",
+          "words": [
+            {
+              "n": 1,
+              "zh": "但是",
+              "en": "but"
+            },
+            {
+              "n": 1,
+              "zh": "是",
+              "en": "be"
+            },
+            {
+              "n": 1,
+              "zh": "饿鬼",
+              "en": "hungry ghosts"
+            },
+            {
+              "n": 1,
+              "zh": "（引出修饰，相当于“的”）",
+              "en": "that"
+            },
+            {
+              "n": 1,
+              "zh": "有",
+              "en": "have"
+            },
+            {
+              "n": 2,
+              "zh": "身形",
+              "en": "form"
+            },
+            {
+              "n": 2,
+              "zh": "美貌",
+              "en": "beautiful"
+            },
+            {
+              "n": 1,
+              "zh": "非常",
+              "en": "very"
+            },
+            {
+              "n": 1,
+              "zh": "（语气）",
+              "en": "(particle)"
+            },
+            {
+              "n": 2,
+              "zh": "因为",
+              "en": "because"
+            },
+            {
+              "n": 1,
+              "zh": "持",
+              "en": "hold"
+            },
+            {
+              "n": 1,
+              "zh": "戒",
+              "en": "precepts"
+            },
+            {
+              "n": 1,
+              "zh": "好",
+              "en": "well"
+            }
+          ]
+        }
+      ],
+      "splitChecked": true,
+      "sourceEn": "Luangpu Pramote Pamojjo · live Dhamma talk 2026.07.12 · Thai audio 13:44–14:08"
     }
   },
   "files": [
@@ -61502,6 +62299,10 @@
     [
       "原话/059.mp3",
       238341
+    ],
+    [
+      "原话/060.mp3",
+      213338
     ],
     [
       "读音/กรรม.mp3",
@@ -61938,6 +62739,10 @@
     [
       "读音/ถึง แม้.mp3",
       3788
+    ],
+    [
+      "读音/ถือ ศีล.mp3",
+      4172
     ],
     [
       "读音/ถือตัว.mp3",
@@ -62380,6 +63185,10 @@
       4076
     ],
     [
+      "读音/รักษาศีล.mp3",
+      5228
+    ],
+    [
       "读音/รักใคร่.mp3",
       3884
     ],
@@ -62686,6 +63495,10 @@
     [
       "读音/หายใจเข้า.mp3",
       6476
+    ],
+    [
+      "读音/หิว.mp3",
+      2540
     ],
     [
       "读音/ห่วง.mp3",
@@ -64236,6 +65049,10 @@
       2828
     ],
     [
+      "读音/拆读/ถือ.mp3",
+      2828
+    ],
+    [
       "读音/拆读/ถูก.mp3",
       2156
     ],
@@ -64894,6 +65711,10 @@
     [
       "读音/拆读/หาย.mp3",
       3116
+    ],
+    [
+      "读音/拆读/หิว.mp3",
+      2540
     ],
     [
       "读音/拆读/หู่.mp3",
