@@ -31,7 +31,7 @@
       "kind": "法义词",
       "detail": {
         "pali": "sati",
-        "meaning": "“觉性”，是心记得、知道当下自己的身体或心在做什么的那个能力。它不是思考，而是心自己清楚地知道；有了觉性，才能看到烦恼和心的变化。常说“有觉性”“觉性要常常生起”。",
+        "meaning": "念、觉知（中文书和开示里也常译作“觉性”），是心记得、知道当下自己的身体或心在做什么的那个能力。它不是思考，而是心自己清楚地知道；有了觉性，才能看到烦恼和心的变化。常说“有觉性”“觉性要常常生起”。",
         "compare": [
           {
             "thai": "สมาธิ",
@@ -511,7 +511,7 @@
         "compare": [
           {
             "thai": "สติ",
-            "zh": "觉性",
+            "zh": "念 · 觉知",
             "diff": "สมาธิ是心稳住不动；สติ是心记得并知道当下。",
             "roman": "sà-tì",
             "say": true
@@ -597,9 +597,10 @@
     {
       "thai": "ตั้งมั่น",
       "roman": "tâng-mân",
-      "zh": "安住",
-      "en": "firmly established",
+      "zh": "稳定 · 安住",
+      "en": "stable",
       "title": "心没有真的安住",
+      "here": "安住",
       "no": 9,
       "titleEn": "The Mind Isn't Really Firmly Established",
       "count": 4,
@@ -614,7 +615,7 @@
         "meaning": "指心稳稳地安住、立在那里，是觉知的、不被念头拉走的状态。讲正确的定时常用“心ตั้งมั่น”，心一跑出去就不再ตั้งมั่น。",
         "senses": [
           {
-            "zh": "安住",
+            "zh": "稳定 · 安住",
             "use": "修行中指心稳定地停在一处、不动摇，如 จิต ตั้งมั่น"
           },
           {
@@ -626,7 +627,7 @@
           "meaning": "This describes a mind that stands steady and settled, aware and not pulled away by thoughts. It is often used for right concentration, as in จิตตั้งมั่น. Once the mind wanders off, it is no longer ตั้งมั่น.",
           "senses": [
             {
-              "en": "firmly established",
+              "en": "stable",
               "use": "In practice, the mind staying steady in one place without wavering, as in จิตตั้งมั่น."
             },
             {
@@ -2073,7 +2074,7 @@
       "kind": "法义词",
       "detail": {
         "pali": "dukkha",
-        "meaning": "作感受讲时，指身体或心里不舒服的苦受，是觉知的对象。它也可指四圣谛中的苦，即心被逼迫、不自在的状态，但这里只是前一种用法。",
+        "meaning": "作感受讲时，指身体或心里不舒服的苦受，是觉知的对象。它也可指四圣谛中的苦，即心被逼迫、不自在的状态。",
         "compare": [
           {
             "thai": "ความสุข",
@@ -2246,6 +2247,7 @@
       ],
       "kind": "法义词",
       "detail": {
+        "pali": "kodha",
         "meaning": "生气，是心里不满、排斥而发火的烦恼，属于嗔一类。看到生气生起、又消失，只是觉知它，不用跟它纠缠，也不用压下去。",
         "compare": [
           {
@@ -2302,9 +2304,10 @@
     {
       "thai": "ฟุ้งซ่าน",
       "roman": "fúng-sâan",
-      "zh": "散乱",
+      "zh": "散乱 · 焦躁不安",
       "en": "restlessness",
       "title": "贪消失了也要觉知",
+      "here": "散乱",
       "no": 30,
       "titleEn": "Be Aware Even When Greed Disappears",
       "count": 6,
@@ -2320,7 +2323,7 @@
         "meaning": "散乱，指心飘来飘去、静不下来，思绪乱飞。可以把它当作一种心的状态，来了就知道，不必赶走。也可以用在日常，形容人心浮、静不下来。",
         "senses": [
           {
-            "zh": "散乱",
+            "zh": "散乱 · 焦躁不安",
             "use": "指心飘来飘去、静不下来"
           }
         ],
@@ -2395,7 +2398,7 @@
         "compare": [
           {
             "thai": "เผลอ",
-            "zh": "恍惚、走神",
+            "zh": "走神 · 一时忘了",
             "diff": "หลง是整个心迷进去、被带走，เผลอ是一时失去觉知、没留意。",
             "roman": "phlǒe",
             "say": true
@@ -2434,7 +2437,7 @@
           "compare": [
             {
               "thai": "เผลอ",
-              "en": "absent-minded",
+              "en": "lapse",
               "diff": "หลง is the whole mind being drawn in and lost, while เผลอ is a brief lapse of awareness."
             }
           ]
@@ -2462,9 +2465,10 @@
     {
       "thai": "เผลอ",
       "roman": "phlǒe",
-      "zh": "恍惚",
-      "en": "absent-minded",
+      "zh": "走神 · 一时忘了",
+      "en": "lapse",
       "title": "不知觉知自己的价值",
+      "here": "恍惚",
       "no": 33,
       "titleEn": "Missing the Value of Being Aware of Yourself",
       "count": 2,
@@ -2482,7 +2486,7 @@
           },
           {
             "thai": "เพลิน",
-            "zh": "陶醉",
+            "zh": "沉迷 · 陶醉",
             "diff": "เพลิน是沉浸在喜欢的事里，เผลอ是单纯失去觉知，不一定有享受。",
             "roman": "phloen",
             "say": true
@@ -2490,7 +2494,7 @@
         ],
         "senses": [
           {
-            "zh": "恍惚",
+            "zh": "走神 · 一时忘了",
             "use": "指心走神、忘了觉知自己，不知不觉飘走"
           },
           {
@@ -2502,7 +2506,7 @@
           "meaning": "Absent-minded means a moment of carelessness when awareness of oneself is forgotten and the mind wanders off to think or look outward. It is not a big fault, and once it is noticed the mind simply comes back. In daily speech it also means doing or saying something without meaning to.",
           "senses": [
             {
-              "en": "absent-minded",
+              "en": "lapse",
               "use": "The mind slips and forgets to be aware, drifting off without noticing."
             },
             {
@@ -2546,9 +2550,10 @@
     {
       "thai": "เพลิน",
       "roman": "phloen",
-      "zh": "陶醉",
+      "zh": "沉迷 · 陶醉",
       "en": "carried away",
       "title": "不知觉知自己的价值",
+      "here": "陶醉",
       "no": 33,
       "titleEn": "Missing the Value of Being Aware of Yourself",
       "count": 0,
@@ -2559,7 +2564,7 @@
         "compare": [
           {
             "thai": "เผลอ",
-            "zh": "恍惚、走神",
+            "zh": "走神 · 一时忘了",
             "diff": "เพลิน带着愉快、享受的味道，เผลอ只是没留意。",
             "roman": "phlǒe",
             "say": true
@@ -2567,7 +2572,7 @@
         ],
         "senses": [
           {
-            "zh": "陶醉",
+            "zh": "沉迷 · 陶醉",
             "use": "指沉浸其中、玩得投入而忘了自己（เพลินๆ）"
           }
         ],
@@ -2582,7 +2587,7 @@
           "compare": [
             {
               "thai": "เผลอ",
-              "en": "absent-minded",
+              "en": "lapse",
               "diff": "เพลิน carries a flavor of pleasure and enjoyment, while เผลอ is only not paying attention."
             }
           ]
@@ -2688,7 +2693,7 @@
             "final": "y",
             "tone": 1
           },
-          "noteEn": "ย as a final reads i",
+          "noteEn": "Final ย reads i.",
           "vowelKey": "aa"
         }
       ]
@@ -3276,7 +3281,7 @@
       "kind": "法义词",
       "detail": {
         "pali": "moha",
-        "meaning": "痴，不知道真相、迷糊的烦恼。走神、恍惚、迷失在念头里，没有觉性，都是在累积痴。",
+        "meaning": "痴，不知道真相、迷糊的烦恼。走神、迷失在念头里，没有觉性，都是在累积痴。",
         "compare": [
           {
             "thai": "อวิชชา",
@@ -3429,7 +3434,7 @@
     {
       "thai": "ตั้ง",
       "roman": "tâng",
-      "zh": "足足",
+      "zh": "足足（多达）",
       "en": "as many as",
       "title": "投生为动物会一直重复",
       "here": "连续",
@@ -3514,7 +3519,7 @@
       ],
       "kind": "常用词",
       "detail": {
-        "meaning": "满意、喜欢、知足。指心里喜欢某种状态，比如满意于恍惚迷失的快乐，其实是被烦恼带着走。",
+        "meaning": "满意、喜欢、知足。指心里喜欢某种状态，比如满意于迷失的快乐，其实是被烦恼带着走。",
         "compare": [
           {
             "thai": "เพลิดเพลิน",
@@ -4916,7 +4921,7 @@
         "senses": [
           {
             "zh": "狗",
-            "use": "指狗这种动物，如 ลูกหมา、หมาป่า"
+            "use": "指狗这种动物，如 ลูกหมา（小狗）。注意 หมาป่า 是狼，不是狗"
           },
           {
             "zh": "骂人",
@@ -5569,9 +5574,10 @@
     {
       "thai": "สงบ",
       "roman": "sà-ngòp",
-      "zh": "宁静",
+      "zh": "平静 · 宁静",
       "en": "calm",
       "title": "带着觉性死去",
+      "here": "宁静",
       "no": 52,
       "titleEn": "Dying with Mindfulness: A Calm Mind",
       "count": 3,
@@ -5607,7 +5613,7 @@
         ],
         "senses": [
           {
-            "zh": "宁静",
+            "zh": "平静 · 宁静",
             "use": "心或环境平静、不躁动，如 ใจสงบ"
           }
         ],
@@ -5674,9 +5680,10 @@
     {
       "thai": "ภพ",
       "roman": "phóp",
-      "zh": "状态中",
-      "en": "existence",
+      "zh": "有 · 存在的状态",
+      "en": "state of existence (bhava)",
       "title": "带着觉性死去",
+      "here": "状态中",
       "no": 52,
       "titleEn": "Dying with Mindfulness: A Calm Mind",
       "count": 5,
@@ -5693,7 +5700,7 @@
       "kind": "法义词",
       "detail": {
         "pali": "bhava",
-        "meaning": "状态、存在的处所，也就是众生所处的生存状态，如人、畜生、天人等。心会黏着、满足于某种状态，因此还想再次投生到同样的状态里。",
+        "meaning": "有（巴利 bhava），指众生所处的存在状态，如人、畜生、天人等。心会黏着、满足于自己所在的状态（พอใจในภพ），因此还想再次投生到同样的状态里。",
         "compare": [
           {
             "thai": "ชาติ",
@@ -5705,23 +5712,23 @@
         ],
         "senses": [
           {
-            "zh": "状态中",
-            "use": "指心所处、所黏着的存在状态，如 พอใจในภพ"
+            "zh": "有 · 存在的状态",
+            "use": "指心所处、所黏着的存在状态，如 พอใจในภพ、ติดในภพ"
           },
           {
-            "zh": "轮回界",
+            "zh": "世 · 生存界",
             "use": "指三界中的生存界域或一期生命，如 ภพภูมิ、ภพชาติ"
           }
         ],
         "en": {
-          "meaning": "A state of existence, the kind of life a being is living, such as human, animal, or heavenly being. The mind can cling to and be satisfied with a certain existence, and so wants to be born into it again.",
+          "meaning": "Bhava, the state of existence a being is in, such as human, animal or deva. The mind clings to and is content with the state it is in (พอใจในภพ), so it wants to be born into the same state again.",
           "senses": [
             {
-              "en": "existence",
+              "en": "state of existence",
               "use": "The state of being that the mind is attached to, as in พอใจในภพ."
             },
             {
-              "en": "realm",
+              "en": "realm · life",
               "use": "A world or level of life within the cycle of rebirth, as in ภพภูมิ."
             }
           ],
@@ -5757,7 +5764,7 @@
       "thai": "กรรม",
       "roman": "kam",
       "zh": "业",
-      "en": "karma",
+      "en": "kamma",
       "title": "带着觉性死去",
       "no": 52,
       "titleEn": "Dying with Mindfulness: A Calm Mind",
@@ -5795,7 +5802,7 @@
           "meaning": "Karma: an action done with intention, through body, speech, or mind, which brings a matching result. Karma decides where beings are born and what kind of being they become.",
           "senses": [
             {
-              "en": "karma",
+              "en": "kamma",
               "use": "Intentional action and its results, as in ผลกรรม."
             },
             {
@@ -5806,7 +5813,7 @@
           "compare": [
             {
               "thai": "วิบาก",
-              "en": "result of karma",
+              "en": "result of kamma",
               "diff": "กรรม is the action that is done (the cause), while วิบาก is the result that ripens from it."
             }
           ]
@@ -5836,7 +5843,7 @@
       "thai": "แผ่ ส่วน บุญ",
       "roman": "phàe sùan bun",
       "zh": "功德回向",
-      "en": "share merit",
+      "en": "dedicate merit",
       "title": "功德回向给快死的动物",
       "no": 53,
       "titleEn": "Share Merit So the Mind Isn't Sad or Heavy",
@@ -5880,7 +5887,7 @@
           "meaning": "To share merit: to give a share of the good you have done to others, wishing them to receive the benefit too. The receivers can be the dead, other beings, or animals. It is often said after paying respect to the Buddha, chanting, or giving.",
           "senses": [
             {
-              "en": "share merit",
+              "en": "dedicate merit",
               "use": "To dedicate the merit of good deeds to others, as in แผ่ส่วนบุญให้."
             }
           ],
@@ -5956,9 +5963,10 @@
     {
       "thai": "หมอง",
       "roman": "mǎwng",
-      "zh": "郁闷",
-      "en": "heavy",
+      "zh": "晦暗 · 郁闷",
+      "en": "gloomy",
       "title": "功德回向给快死的动物",
+      "here": "郁闷",
       "no": 53,
       "titleEn": "Share Merit So the Mind Isn't Sad or Heavy",
       "count": 0,
@@ -5977,7 +5985,7 @@
         ],
         "senses": [
           {
-            "zh": "郁闷",
+            "zh": "晦暗 · 郁闷",
             "use": "心情阴郁不开朗，如 จิตหมอง、เศร้าหมอง"
           },
           {
@@ -5989,7 +5997,7 @@
           "meaning": "Dull, dim, and not bright. Used about the mind, it means a heavy, gloomy, unclear feeling. It often appears with เศร้า in เศร้าหมอง, meaning a sad and clouded mind.",
           "senses": [
             {
-              "en": "heavy",
+              "en": "gloomy",
               "use": "The mind feels gloomy and not clear, as in จิตหมอง or เศร้าหมอง."
             },
             {
@@ -6065,7 +6073,7 @@
           "compare": [
             {
               "thai": "หมอง",
-              "en": "heavy, gloomy",
+              "en": "gloomy",
               "diff": "หมอง stresses a mind that is dim and unclear, while เศร้า stresses the emotion of sadness."
             }
           ]
@@ -6095,9 +6103,10 @@
     {
       "thai": "ไม่ สบาย",
       "roman": "mâi sà-baai",
-      "zh": "生病",
-      "en": "sick",
+      "zh": "不舒服 · 生病",
+      "en": "unwell",
       "title": "狗死时心会悲伤",
+      "here": "生病",
       "no": 54,
       "titleEn": "Dying Among Strangers: A Dog Without Happiness, a Sad Mind",
       "count": 1,
@@ -6216,7 +6225,7 @@
       "thai": "คิด ถึง บ้าน",
       "roman": "khít-thǔeng-bâan",
       "zh": "想家",
-      "en": "miss home",
+      "en": "homesick",
       "title": "狗死时心会悲伤",
       "no": 54,
       "titleEn": "Dying Among Strangers: A Dog Without Happiness, a Sad Mind",
@@ -6409,7 +6418,7 @@
       "thai": "กลิ่น",
       "roman": "klìn",
       "zh": "气味",
-      "en": "scent",
+      "en": "smell",
       "title": "衣服气味让它快乐",
       "no": 55,
       "titleEn": "Even Dying Can Be Happy Beside a Piece of Clothing With Your Scent",
@@ -6462,9 +6471,10 @@
     {
       "thai": "รักใคร่",
       "roman": "rák-khrâi",
-      "zh": "粘着",
-      "en": "attachment",
+      "zh": "喜爱 · 爱恋",
+      "en": "affection",
       "title": "变为饿鬼帮助机会产生",
+      "here": "粘着",
       "no": 56,
       "titleEn": "Once It Becomes a Hungry Ghost, the Chance to Help Arises",
       "count": 4,
@@ -6476,42 +6486,42 @@
       ],
       "kind": "常用词",
       "detail": {
-        "meaning": "指对人或事物喜爱、亲昵、舍不得放开的心。放在法义里讲时，多指带着贪爱的黏着，译作“粘着”。",
+        "meaning": "喜爱、疼爱，对人或动物亲昵、舍不得的感情。开示里说动物跟人 รักใคร่ ผูกพัน，是说它对人有感情、放不下，这份牵挂会带到死的时候。",
         "compare": [
           {
             "thai": "ผูกพัน",
             "roman": "phùuk-phan",
-            "zh": "牵绊、抓取",
+            "zh": "牵挂 · 依恋",
             "diff": "รักใคร่ 偏重心里喜爱、黏着的感情；ผูกพัน 偏重已经被绑住、放不下的关系或牵连。",
             "say": true
           }
         ],
         "senses": [
           {
-            "zh": "粘着",
-            "use": "指心对人或事物贪恋、放不下，常与「ผูกพัน」连用"
+            "zh": "喜爱 · 爱恋",
+            "use": "对人或动物的喜爱、疼爱，如 รักใคร่กัน（彼此相爱）"
           },
           {
-            "zh": "亲爱",
-            "use": "指彼此喜爱、亲密相爱，如「รักใคร่กัน」"
+            "zh": "贪恋",
+            "use": "法义里指带着爱放不下，常与 ผูกพัน 连用"
           }
         ],
         "en": {
-          "meaning": "To feel fondness and closeness toward a person or thing, and not want to let go. In Dhamma talks it describes a mind stuck to something through craving, so it is translated as attachment. It is often paired with ผูกพัน.",
+          "meaning": "Affection and fondness for a person or animal, a warm feeling one does not want to let go of. When the talk says an animal has รักใคร่ ผูกพัน with people, it means it is fond of them and cannot let go, and this attachment stays with it at death.",
           "senses": [
             {
-              "en": "attachment",
-              "use": "The mind is fond of something and stuck to it, often together with ผูกพัน."
+              "en": "affection",
+              "use": "Fondness for a person or animal, as in รักใคร่กัน (love each other)."
             },
             {
-              "en": "affection",
-              "use": "People love and are close to each other, as in \"รักใคร่กัน\"."
+              "en": "fond attachment",
+              "use": "In Dhamma talks, love one cannot let go of, often together with ผูกพัน."
             }
           ],
           "compare": [
             {
               "thai": "ผูกพัน",
-              "en": "clinging, being bound",
+              "en": "attachment · bond",
               "diff": "รักใคร่ stresses the fondness the heart feels, while ผูกพัน stresses being tied down and unable to let go."
             }
           ]
@@ -6555,59 +6565,60 @@
     {
       "thai": "ผูกพัน",
       "roman": "phùuk-phan",
-      "zh": "抓取",
-      "en": "clinging",
+      "zh": "牵挂 · 依恋",
+      "en": "attachment · bond",
       "title": "变为饿鬼帮助机会产生",
+      "here": "抓取",
       "no": 56,
       "titleEn": "Once It Becomes a Hungry Ghost, the Chance to Help Arises",
       "count": 10,
       "examples": [],
       "kind": "常用词",
       "detail": {
-        "meaning": "原意是绑在一起，指心被某人、某事牵住，放不下、断不了。在这套开示里译作“抓取”，说的是心抓着、系着不放。",
+        "meaning": "原意是绑在一起，指心被某人、某事系住，放不下、断不了，也就是牵挂、依恋。开示里说动物 ผูกพัน อยู่ กับ คน（跟人有很深的牵挂），死后就可能变成饿鬼。",
         "compare": [
           {
             "thai": "รักใคร่",
             "roman": "rák-khrâi",
-            "zh": "粘着、喜爱",
+            "zh": "喜爱 · 爱恋",
             "diff": "ผูกพัน 强调被绑住、断不开的牵连；รักใคร่ 强调心里喜爱而黏着。",
             "say": true
           }
         ],
         "senses": [
           {
-            "zh": "抓取",
-            "use": "指心抓着、系缚在人或事物上放不开"
+            "zh": "牵挂 · 依恋",
+            "use": "心系在人或事物上放不开，如 ผูกพันอยู่กับคน"
           },
           {
-            "zh": "牵绊",
-            "use": "指长久相处而感情深厚、割舍不下，如「ผูกพันกับบ้าน」"
+            "zh": "情谊深厚",
+            "use": "长久相处而感情深、割舍不下，如 ผูกพันกับบ้าน"
           },
           {
             "zh": "约束",
-            "use": "指在法律或契约上有约束力，如「มีผลผูกพัน」"
+            "use": "法律或契约上有约束力，如 มีผลผูกพัน"
           }
         ],
         "en": {
-          "meaning": "Literally to be tied together. It describes a mind held by a person or matter that it cannot let go of or cut off. In Dhamma talks it is translated as clinging, the mind gripping and tying itself to something.",
+          "meaning": "Literally tied together: the mind is bound to a person or thing and cannot let go, i.e. attachment or a close bond. The talk says an animal that is ผูกพัน อยู่ กับ คน (deeply attached to people) may become a hungry ghost after death.",
           "senses": [
             {
-              "en": "clinging",
-              "use": "The mind grips and is tied to a person or thing and will not let go."
+              "en": "attachment · bond",
+              "use": "The mind is tied to a person or thing and cannot let go, as in ผูกพันอยู่กับคน."
             },
             {
-              "en": "bonded",
-              "use": "Deep feeling grown from long time together, hard to give up, as in \"ผูกพันกับบ้าน\"."
+              "en": "close ties",
+              "use": "A deep bond from long time together, as in ผูกพันกับบ้าน."
             },
             {
               "en": "binding",
-              "use": "Legally or contractually obligatory, as in \"มีผลผูกพัน\"."
+              "use": "Legally or contractually binding, as in มีผลผูกพัน."
             }
           ],
           "compare": [
             {
               "thai": "รักใคร่",
-              "en": "attachment, fondness",
+              "en": "affection",
               "diff": "ผูกพัน stresses being tied down and hard to cut free, while รักใคร่ stresses the fondness in the heart that sticks to something."
             }
           ]
@@ -6729,9 +6740,10 @@
     {
       "thai": "ทิฐิ",
       "roman": "thít-thì",
-      "zh": "邪见",
-      "en": "",
+      "zh": "见 · 固执己见",
+      "en": "views · stubbornness",
       "title": "有些饿鬼可以提升",
+      "here": "邪见",
       "no": 57,
       "titleEn": "Some Hungry Ghosts Can Rise Higher",
       "count": 1,
@@ -6744,7 +6756,7 @@
       "kind": "法义词",
       "detail": {
         "pali": "diṭṭhi",
-        "meaning": "原意是「见」，就是看法、见解。开示里多指认定自己是对的、不肯改变的固执己见，也就是邪见、我见。日常说一个人「有ทิฐิ」，是说他固执、听不进别人的话。",
+        "meaning": "原意是「见」，就是看法、见解。开示里多指认定自己是对的、不肯改变的固执己见；错误的见解叫 มิจฉาทิฐิ（邪见）。日常说一个人「有ทิฐิ」或「ทิฐิมานะ」，是说他固执、傲慢、听不进别人的话。",
         "compare": [
           {
             "thai": "ความเห็น",
@@ -6756,24 +6768,24 @@
         ],
         "senses": [
           {
-            "zh": "邪见",
-            "use": "固执己见、执着错误的看法，如 ทิฐิแรง"
+            "zh": "固执己见",
+            "use": "认定自己对、听不进别人，如 ทิฐิแรง、ทิฐิมานะ"
           },
           {
-            "zh": "见解",
-            "use": "中性的看法、观点，如 ทิฐิของเรา"
+            "zh": "见 · 见解",
+            "use": "中性的看法、观点；错误的见解叫 มิจฉาทิฐิ（邪见）"
           }
         ],
         "en": {
-          "meaning": "ทิฐิ originally means a view or opinion. In Dhamma talks it usually means clinging to one's own view as right and refusing to change it, which is a form of wrong view or self-view. In everyday Thai, saying someone 'has ทิฐิ' means they are stubborn and do not listen to others.",
+          "meaning": "Literally 'view', an opinion or way of seeing. In talks it usually means holding on to one's own view and refusing to change; a wrong view is มิจฉาทิฐิ. In daily speech, saying someone has ทิฐิ or ทิฐิมานะ means they are stubborn, proud and will not listen.",
           "senses": [
             {
-              "en": "wrong view",
-              "use": "Stubborn attachment to one's own view, as in ทิฐิแรง, meaning someone with very strong fixed opinions who will not listen."
+              "en": "stubbornness",
+              "use": "Insisting one is right and not listening, as in ทิฐิแรง or ทิฐิมานะ."
             },
             {
               "en": "view",
-              "use": "A neutral view or opinion, as in ทิฐิของเรา, 'our view'."
+              "use": "A neutral opinion or view; a wrong view is มิจฉาทิฐิ."
             }
           ],
           "compare": [
@@ -6784,13 +6796,47 @@
             }
           ]
         }
-      }
+      },
+      "parts": [
+        {
+          "thai": "ทิ",
+          "say": "ทิด",
+          "roman": "thít",
+          "initial": "ท",
+          "vowel": "◌ิ",
+          "note": "ฐ 同时当前一个音节的尾音 t，读 ทิด",
+          "sound": {
+            "initial": "th",
+            "vowel": "i",
+            "final": "t",
+            "tone": 4
+          },
+          "noteEn": "ฐ also serves as this syllable's final t, read ทิด.",
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ฐิ",
+          "say": "ถิ",
+          "roman": "thì",
+          "initial": "ฐ",
+          "vowel": "◌ิ",
+          "note": "ฐ 读 th",
+          "sound": {
+            "initial": "th",
+            "vowel": "i",
+            "final": "",
+            "tone": 2
+          },
+          "noteEn": "ฐ reads th.",
+          "vowelKey": "i"
+        }
+      ]
     },
     {
       "thai": "มานะ",
       "roman": "maa-ná",
       "zh": "我慢",
-      "en": "",
+      "en": "conceit",
       "title": "有些饿鬼可以提升",
       "no": 57,
       "titleEn": "Some Hungry Ghosts Can Rise Higher",
@@ -6804,7 +6850,7 @@
           {
             "thai": "ทิฐิ",
             "roman": "thít-thì",
-            "zh": "邪见、固执己见",
+            "zh": "见 · 固执己见",
             "diff": "ทิฐิ是认定自己的看法对，มานะ是拿自己跟人比的高低感。",
             "say": true
           },
@@ -6841,7 +6887,7 @@
           "compare": [
             {
               "thai": "ทิฐิ",
-              "en": "wrong view",
+              "en": "views · stubbornness",
               "diff": "ทิฐิ is being sure one's own view is right, while มานะ is the sense of being higher or lower that comes from comparing oneself with others."
             },
             {
@@ -6886,9 +6932,10 @@
     {
       "thai": "อสุรกาย",
       "roman": "à-sù-rá-kaai",
-      "zh": "阿修罗道",
-      "en": "",
+      "zh": "阿修罗",
+      "en": "asuras",
       "title": "有些饿鬼可以提升",
+      "here": "阿修罗道",
       "no": 57,
       "titleEn": "Some Hungry Ghosts Can Rise Higher",
       "count": 3,
@@ -6981,7 +7028,7 @@
             "final": "y",
             "tone": 1
           },
-          "noteEn": "ย as a final reads i",
+          "noteEn": "Final ย reads i.",
           "vowelKey": "aa"
         }
       ]
@@ -6989,9 +7036,10 @@
     {
       "thai": "เกเร",
       "roman": "kee-ree",
-      "zh": "不刁难",
-      "en": "",
+      "zh": "调皮捣蛋 · 不听话",
+      "en": "unruly",
       "title": "狗和人打成一片变饿鬼",
+      "here": "不刁难",
       "no": 58,
       "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
       "count": 1,
@@ -7022,24 +7070,16 @@
         ],
         "senses": [
           {
-            "zh": "不刁难",
-            "use": "指不捣乱、不惹事、不使坏（多用否定 ไม่เกเร）"
-          },
-          {
-            "zh": "顽劣",
-            "use": "形容人或孩子调皮捣蛋、行为不端"
+            "zh": "调皮捣蛋 · 不听话",
+            "use": "形容人或动物顽劣、爱惹事；ไม่เกเร 就是乖、不惹事"
           }
         ],
         "en": {
           "meaning": "เกเร describes a person or animal that is naughty, unruly, and likes to make trouble. It is often used in the negative: saying a dog is ไม่เกเร means it is well-behaved and does not cause trouble.",
           "senses": [
             {
-              "en": "not unruly",
-              "use": "Used as ไม่เกเร to say someone or something is well-behaved and does not make trouble."
-            },
-            {
-              "en": "naughty",
-              "use": "Describes a child or person who is mischievous and badly behaved."
+              "en": "unruly",
+              "use": "Naughty and troublesome; ไม่เกเร means well-behaved."
             }
           ],
           "compare": [
@@ -7091,7 +7131,7 @@
       "thai": "ไหว้ พระ สวด มนต์",
       "roman": "wâi phrá sùat mon",
       "zh": "礼佛诵经",
-      "en": "",
+      "en": "pay respects and chant",
       "title": "狗和人打成一片变饿鬼",
       "no": 58,
       "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
@@ -7221,7 +7261,7 @@
       "thai": "สุคติ",
       "roman": "sù-khá-tì",
       "zh": "善道",
-      "en": "",
+      "en": "happy realms",
       "title": "狗和人打成一片变饿鬼",
       "no": 58,
       "titleEn": "A Dog That Mixes With People Becomes a Hungry Ghost",
@@ -7330,7 +7370,7 @@
       "thai": "เวียน ว่าย ตาย เกิด",
       "roman": "wian wâai taai kòet",
       "zh": "轮回",
-      "en": "rebirth",
+      "en": "the round of rebirth",
       "title": "轮回是很神奇的",
       "no": 59,
       "titleEn": "Rebirth Is Truly Wondrous",
@@ -7387,14 +7427,86 @@
             }
           ]
         }
-      }
+      },
+      "parts": [
+        {
+          "thai": "เวียน",
+          "say": "เวียน",
+          "roman": "wian",
+          "initial": "ว",
+          "vowel": "เ◌ีย",
+          "final": "น",
+          "note": "ย是元音的一部分",
+          "sound": {
+            "initial": "w",
+            "vowel": "ia",
+            "final": "n",
+            "tone": 1
+          },
+          "noteEn": "ย is part of the vowel",
+          "vowelKey": "ia"
+        },
+        {
+          "thai": "ว่าย",
+          "say": "ว่าย",
+          "roman": "wâai",
+          "initial": "ว",
+          "vowel": "◌า",
+          "final": "ย",
+          "mark": "่",
+          "note": "ย 作尾音读 i",
+          "sound": {
+            "initial": "w",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 3
+          },
+          "noteEn": "Final ย reads i.",
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ตาย",
+          "say": "ตาย",
+          "roman": "taai",
+          "initial": "ต",
+          "vowel": "◌า",
+          "final": "ย",
+          "note": "ย 作尾音读 i",
+          "sound": {
+            "initial": "t",
+            "vowel": "aa",
+            "final": "y",
+            "tone": 1
+          },
+          "noteEn": "Final ย reads i.",
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "เกิด",
+          "say": "เกิด",
+          "roman": "kòet",
+          "initial": "ก",
+          "vowel": "เ◌ิ",
+          "final": "ด",
+          "note": "เ写在前面却在后面读，ด尾音读 t",
+          "sound": {
+            "initial": "k",
+            "vowel": "ooe",
+            "final": "t",
+            "tone": 2
+          },
+          "noteEn": "เ is written before but read after the consonant; ด as a final reads t",
+          "vowelKey": "ooe"
+        }
+      ]
     },
     {
       "thai": "พิสดาร",
       "roman": "phít-sà-daan",
-      "zh": "神奇",
-      "en": "wondrous",
+      "zh": "复杂离奇",
+      "en": "intricate",
       "title": "轮回是很神奇的",
+      "here": "神奇",
       "no": 59,
       "titleEn": "Rebirth Is Truly Wondrous",
       "count": 1,
@@ -7425,8 +7537,8 @@
         ],
         "senses": [
           {
-            "zh": "神奇",
-            "use": "形容事情奇特、出人意料、不寻常"
+            "zh": "复杂离奇",
+            "use": "形容事情曲折、出人意料、不寻常，如 เวียนว่ายตายเกิดมันพิสดาร"
           },
           {
             "zh": "详尽",
@@ -7437,12 +7549,12 @@
           "meaning": "พิสดาร originally means detailed and fully explained. In everyday Thai it more often means strange, out of the ordinary, and beyond what ordinary people would imagine. Saying rebirth is พิสดาร means its twists and turns are surprising.",
           "senses": [
             {
-              "en": "wondrous",
-              "use": "Something unusual and surprising, beyond what one would expect."
+              "en": "intricate",
+              "use": "Full of twists and beyond what one would expect."
             },
             {
               "en": "detailed",
-              "use": "An explanation given in full detail, as in อธิบายพิสดาร."
+              "use": "Explained in full detail, as in อธิบายพิสดาร."
             }
           ],
           "compare": [
@@ -7458,14 +7570,66 @@
             }
           ]
         }
-      }
+      },
+      "parts": [
+        {
+          "thai": "พิส",
+          "say": "พิด",
+          "roman": "phít",
+          "initial": "พ",
+          "vowel": "◌ิ",
+          "final": "ส",
+          "note": "ส尾音读 t，也是下一音节的声母",
+          "sound": {
+            "initial": "ph",
+            "vowel": "i",
+            "final": "t",
+            "tone": 4
+          },
+          "noteEn": "ส as a final reads t, and it is also the initial of the next syllable",
+          "vowelKey": "i"
+        },
+        {
+          "thai": "ส",
+          "say": "สะ",
+          "roman": "sà",
+          "initial": "ส",
+          "note": "隐藏元音 a",
+          "sound": {
+            "initial": "s",
+            "vowel": "a",
+            "final": "",
+            "tone": 2
+          },
+          "noteEn": "Hidden vowel a.",
+          "vowelKey": "a"
+        },
+        {
+          "thai": "ดาร",
+          "say": "ดาน",
+          "roman": "daan",
+          "initial": "ด",
+          "vowel": "◌า",
+          "final": "ร",
+          "note": "ร尾音读 n",
+          "sound": {
+            "initial": "d",
+            "vowel": "aa",
+            "final": "n",
+            "tone": 1
+          },
+          "noteEn": "ร as a final reads n",
+          "vowelKey": "aa"
+        }
+      ]
     },
     {
       "thai": "ป่า",
       "roman": "pàa",
-      "zh": "森林里",
+      "zh": "森林",
       "en": "forest",
       "title": "轮回是很神奇的",
+      "here": "森林里",
       "no": 59,
       "titleEn": "Rebirth Is Truly Wondrous",
       "count": 5,
@@ -7477,7 +7641,7 @@
       ],
       "kind": "常用词",
       "detail": {
-        "meaning": "森林、野外。放在动物名前表示野生的，例如สัตว์ป่า是野生动物，หมาป่า是野外生活的犬类。",
+        "meaning": "森林、野外。放在动物名前表示野生的，例如สัตว์ป่า是野生动物，หมาป่า是狼。",
         "compare": [
           {
             "thai": "ดง",
@@ -7496,7 +7660,7 @@
         ],
         "senses": [
           {
-            "zh": "森林里",
+            "zh": "森林",
             "use": "树林、山林，野外的地方，如 สัตว์ป่า"
           },
           {
@@ -7572,7 +7736,7 @@
         "compare": [
           {
             "thai": "สติ",
-            "zh": "觉性、念",
+            "zh": "念 · 觉知",
             "diff": "สติ是记得、觉察的能力，ความรู้สึกตัว是这种觉察落在自己身心上的状态。",
             "roman": "sà-tì",
             "say": true
@@ -7937,8 +8101,8 @@
     {
       "thai": "ความสงบ",
       "roman": "khwaam-sà-ngòp",
-      "zh": "宁静",
-      "en": "calm",
+      "zh": "平静 · 宁静",
+      "en": "tranquility",
       "title": "其他",
       "titleEn": "Other",
       "count": 4,
@@ -7957,7 +8121,7 @@
         ],
         "senses": [
           {
-            "zh": "宁静",
+            "zh": "平静 · 宁静",
             "use": "指心安静、不躁动的状态"
           },
           {
@@ -7969,7 +8133,7 @@
           "meaning": "Calm of the mind, a settled and steady state, usually produced by practicing concentration. However good it is, it is still only a state of mind and still an object to be watched, not the end of practice.",
           "senses": [
             {
-              "en": "calm",
+              "en": "tranquility",
               "use": "The mind is quiet and not agitated."
             },
             {
@@ -9224,7 +9388,7 @@
       "thai": "ทำ ทาน",
       "roman": "tham-thaan",
       "zh": "做布施",
-      "en": "give",
+      "en": "give alms",
       "title": "其他",
       "titleEn": "Other",
       "count": 1,
@@ -9257,7 +9421,7 @@
           "meaning": "ทำทาน means to give or make an offering of food, money or other things to others or to the monastic community. It is one of the basic ways of making merit.",
           "senses": [
             {
-              "en": "give",
+              "en": "give alms",
               "use": "Giving material things to others, especially to monks, as an act of merit, as in ไปทำทาน."
             }
           ],
@@ -9402,27 +9566,32 @@
     {
       "thai": "ความ เฉย ๆ",
       "roman": "khwaam-chǒei-chǒei",
-      "zh": "平淡、没感觉",
-      "en": "indifference",
+      "zh": "不苦不乐（中性的感受）",
+      "en": "neutral feeling",
       "title": "其他",
       "titleEn": "Other",
       "count": 1,
-      "examples": [],
+      "examples": [
+        {
+          "clip": "29",
+          "line": 1
+        }
+      ],
       "kind": "原话词",
       "detail": {
-        "meaning": "平淡、没感觉",
+        "meaning": "不苦不乐（中性的感受）：没有明显的乐，也没有明显的苦",
         "senses": [
           {
-            "zh": "平淡",
-            "use": "没有明显的乐或苦，没什么感觉的状态"
+            "zh": "不苦不乐（中性的感受）",
+            "use": "隆波说 สุข ทุกข์ เฉยๆ 时指三种受之一，如 ความเฉยๆ ไม่สุขไม่ทุกข์"
           },
           {
             "zh": "冷淡",
-            "use": "对人或事不关心、没反应"
+            "use": "日常指对人或事不关心、没反应"
           }
         ],
         "en": {
-          "meaning": "ความเฉยๆ means a plain, neutral state with no clear pleasure or pain, where one feels nothing in particular. It can also mean a cool, unresponsive attitude toward people or things. In Dhamma talks it refers to the neutral feeling that is neither happy nor unhappy.",
+          "meaning": "ความเฉยๆ is the neutral feeling, neither pleasant nor painful, one of the three kinds of feeling in Luangpor's talks (สุข ทุกข์ เฉยๆ). In daily speech it can also mean a cool, unresponsive attitude.",
           "senses": [
             {
               "en": "neutral feeling",
@@ -10041,6 +10210,100 @@
             "tone": 3
           },
           "vowelKey": "uue"
+        }
+      ]
+    },
+    {
+      "thai": "หมาป่า",
+      "roman": "mǎa-pàa",
+      "zh": "狼",
+      "en": "wolf",
+      "title": "其他",
+      "titleEn": "Other",
+      "count": 1,
+      "examples": [],
+      "kind": "常用词",
+      "detail": {
+        "meaning": "指狼，一种生活在野外的野兽，样子像狗，成群活动。也可以泛指野外的野狗、猎狗一类的动物，是由「หมา（狗）」加「ป่า（森林）」合成的词，字面意思就是「森林里的狗」。",
+        "compare": [
+          {
+            "thai": "หมา",
+            "roman": "mǎa",
+            "zh": "狗",
+            "diff": "หมา 是一般说的狗，多指家养或街上的狗；หมาป่า 是生活在森林野外的狗类，通常指狼。",
+            "say": true
+          },
+          {
+            "thai": "สุนัข",
+            "roman": "sù-nák",
+            "zh": "犬",
+            "diff": "สุนัข 是 หมา 的书面、礼貌说法，指家养的狗；หมาป่า 则是野外的狼。",
+            "say": true
+          }
+        ],
+        "senses": [
+          {
+            "zh": "狼",
+            "use": "指野生的狼这种动物，如 หมาป่าตัวหนึ่ง（一只狼）；也泛指野外生活的犬类"
+          }
+        ],
+        "en": {
+          "meaning": "หมาป่า means a wolf, a wild dog-like animal that lives in the forest and often moves in packs. It is made from หมา (dog) and ป่า (forest), so it literally means \"forest dog.\" It can also be used loosely for wild dogs or hunting dogs living outdoors.",
+          "senses": [
+            {
+              "en": "wolf",
+              "use": "Refers to the wild animal, as in หมาป่าตัวหนึ่ง (a wolf)."
+            },
+            {
+              "en": "wild dog",
+              "use": "Used loosely for any dog-like animal living in the wild, such as a hunting dog."
+            }
+          ],
+          "compare": [
+            {
+              "thai": "หมา",
+              "en": "dog",
+              "diff": "หมา is the ordinary word for a dog, usually a pet or street dog, while หมาป่า is a dog-like animal of the wild, usually a wolf."
+            },
+            {
+              "thai": "สุนัข",
+              "en": "dog (formal)",
+              "diff": "สุนัข is the polite or written word for a domestic dog, while หมาป่า is a wild wolf."
+            }
+          ]
+        }
+      },
+      "parts": [
+        {
+          "thai": "หมา",
+          "say": "หมา",
+          "roman": "mǎa",
+          "initial": "หม",
+          "vowel": "◌า",
+          "note": "ห不发音，只把声调变成升调",
+          "sound": {
+            "initial": "m",
+            "vowel": "aa",
+            "final": "",
+            "tone": 5
+          },
+          "noteEn": "ห is silent. It only changes the tone to rising.",
+          "vowelKey": "aa"
+        },
+        {
+          "thai": "ป่า",
+          "say": "ป่า",
+          "roman": "pàa",
+          "initial": "ป",
+          "vowel": "◌า",
+          "mark": "่",
+          "sound": {
+            "initial": "p",
+            "vowel": "aa",
+            "final": "",
+            "tone": 2
+          },
+          "vowelKey": "aa"
         }
       ]
     },
@@ -13154,7 +13417,7 @@
             "final": "y",
             "tone": 1
           },
-          "noteEn": "ย as a final reads i",
+          "noteEn": "Final ย reads i.",
           "vowelKey": "aa"
         }
       ]
@@ -18035,7 +18298,7 @@
       "count": 0,
       "examples": [],
       "detail": {
-        "meaning": "恍惚、走神",
+        "meaning": "走神、一时忘了觉知；口语也说「说不定」",
         "senses": [
           {
             "zh": "走神",
@@ -18050,7 +18313,7 @@
           "meaning": "A repeated form of เผลอ, meaning to be absent-minded, to drift off and lose awareness for a moment. In Dhamma talks it describes a mind that has wandered away from the present and forgotten to be aware. It can also be a casual way to say 'maybe' or 'before you know it'.",
           "senses": [
             {
-              "en": "absent-minded",
+              "en": "lapse",
               "use": "Describes the mind drifting and forgetting awareness, as in เพลิน ๆ เผลอ ๆ (drifting along, off in a daze)."
             },
             {
@@ -22839,7 +23102,7 @@
             "final": "y",
             "tone": 1
           },
-          "noteEn": "ย as a final reads i",
+          "noteEn": "Final ย reads i.",
           "vowelKey": "aaw"
         }
       ]
@@ -29625,6 +29888,7 @@
       "ทำ ร้าย": 8,
       "ผูกพัน": 20,
       "พิสดาร": 1,
+      "หมาป่า": 2,
       "รู้ สึก": 64,
       "แล้ว ก็": 42,
       "ตัว เอง": 50,
@@ -29652,7 +29916,7 @@
       "คุณ ค่า": 2,
       "เพลิน ๆ": 2,
       "ทั่ว ไป": 2,
-      "หมา ป่า": 2,
+      "หมา ป่า": 0,
       "กว่า จะ": 4,
       "ลูก หมา": 2,
       "โต ขึ้น": 2,
@@ -45598,8 +45862,7 @@
             },
             {
               "n": 2,
-              "zh": "野狗",
-              "en": "wild dog"
+              "zh": "狼"
             },
             {
               "n": 1,
@@ -63423,6 +63686,10 @@
       2924
     ],
     [
+      "读音/หมาป่า.mp3",
+      4460
+    ],
+    [
       "读音/หยิบ.mp3",
       1388
     ],
@@ -64955,6 +65222,10 @@
       2060
     ],
     [
+      "读音/拆读/ดาน.mp3",
+      3212
+    ],
+    [
       "读音/拆读/ดี.mp3",
       2828
     ],
@@ -65011,6 +65282,10 @@
       2540
     ],
     [
+      "读音/拆读/ถิ.mp3",
+      1484
+    ],
+    [
       "读音/拆读/ถึง.mp3",
       2828
     ],
@@ -65045,6 +65320,10 @@
     [
       "读音/拆读/ทำ.mp3",
       2540
+    ],
+    [
+      "读音/拆读/ทิด.mp3",
+      1484
     ],
     [
       "读音/拆读/ที.mp3",
@@ -65287,6 +65566,10 @@
       2924
     ],
     [
+      "读音/拆读/พิด.mp3",
+      1580
+    ],
+    [
       "读音/拆读/พุท.mp3",
       1580
     ],
@@ -65497,6 +65780,10 @@
     [
       "读音/拆读/ว่า.mp3",
       2828
+    ],
+    [
+      "读音/拆读/ว่าย.mp3",
+      3116
     ],
     [
       "读音/拆读/ศัย.mp3",
@@ -65913,6 +66200,10 @@
     [
       "读音/拆读/เว.mp3",
       2828
+    ],
+    [
+      "读音/拆读/เวียน.mp3",
+      2924
     ],
     [
       "读音/拆读/เศร้า.mp3",
